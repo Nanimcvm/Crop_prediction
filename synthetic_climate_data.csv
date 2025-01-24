@@ -1,0 +1,5001 @@
+Latitude,Longitude,Temperature (°C),Rainfall (mm),Soil Quality,Crop Suitability,Historical Yield Trend
+10.51,80.79,33,,Medium,Barley,Average
+11.32,82.91,31,40,Low,Cotton,Low
+12.15,78.06,35,,Low,Barley,Average
+10.47,84.5,31,9,Medium,Groundnut,Low
+15.59,81.59,37,74,High,Barley,No Data
+17.62,83.29,36,65,Medium,Peas,Average
+13.19,80.05,,54,Medium,Barley,Average
+18.94,77.42,36,82,High,Wheat,Average
+16.78,75.15,,56,Low,,Average
+11.71,81.23,31,95,Low,Maize,High
+12.96,83.73,,14,High,Barley,High
+15.68,79.4,34,142,Medium,None,High
+16.78,75.16,40,81,High,Peas,Low
+10.79,81.17,,,Low,Peas,Average
+19.16,83.97,30,38,Low,Rice,No Data
+14.21,83.75,,62,High,Wheat,Low
+13.86,83.17,39,6,High,Cotton,Low
+18.78,80.16,38,112,High,Groundnut,Average
+11.02,84.31,32,34,Low,None,Average
+10.7,83.1,32,15,High,Cotton,High
+13.04,79.69,28,147,Medium,Rice,No Data
+15,75.32,27,108,Low,Maize,Average
+17.18,80.17,,89,Medium,Wheat,High
+10.67,82.28,31,87,High,Peas,Average
+19.37,84.46,33,68,High,,Low
+16.61,80.23,31,94,Low,Cotton,No Data
+14.46,79.26,33,,Low,Rice,No Data
+15.08,80.25,30,,Medium,Groundnut,Low
+11.76,79.17,27,129,Medium,Maize,Average
+18.62,81.26,,38,High,Rice,Low
+10.56,80.89,,126,Low,Peas,Low
+18.45,80.4,,123,High,Cotton,Low
+17.52,79.62,37,60,Medium,None,No Data
+16.89,79.98,40,92,High,Maize,Average
+10.21,78.46,26,48,Medium,Wheat,Average
+10.87,78.84,36,62,Low,,Low
+19.79,78.36,39,,Low,,No Data
+19.83,78.67,40,130,Medium,Barley,Low
+19.68,78.63,27,,Low,Rice,High
+18.68,79.38,32,94,High,Rice,Low
+18.02,78.75,31,0,Medium,,High
+10.96,76.77,34,59,Low,Cotton,Average
+19.13,77.73,25,,Low,Rice,Average
+12.72,84.73,34,18,Medium,Barley,High
+18.1,82.13,37,,Medium,,High
+10.81,84.1,30,126,High,Cotton,High
+17.44,83.18,33,122,Medium,Maize,High
+16.37,79.33,38,65,High,,No Data
+14.05,84.45,26,20,High,Rice,High
+18.07,81.07,25,111,High,Groundnut,Low
+11.42,76.96,,84,Low,Maize,No Data
+13.62,77.78,32,102,Medium,Barley,High
+18.25,83.06,35,140,Low,Maize,Low
+17.59,81.72,40,,High,Rice,No Data
+16.93,75.3,32,81,Medium,Maize,High
+10.75,81.84,,56,High,Groundnut,Low
+18.95,81.42,35,73,Medium,Wheat,Low
+17.39,75.73,37,149,High,,High
+17.18,84.15,25,88,Low,,No Data
+11.66,79.42,,12,High,Barley,High
+19.82,79.55,28,104,Medium,Barley,Low
+13.58,84.59,33,41,High,Wheat,Average
+11.66,77.61,30,11,Medium,,High
+13.28,84.91,29,135,High,Groundnut,High
+16.05,77.63,37,87,Low,Maize,No Data
+13.11,77.64,37,89,Medium,None,No Data
+19.26,75.29,,106,Medium,Maize,Average
+19.22,84.34,36,86,Low,Maize,Low
+10.42,83.3,28,85,High,Wheat,No Data
+17.41,79.59,39,89,High,Peas,Average
+14.24,83.33,27,143,High,Peas,Average
+12.26,84.84,38,95,Low,Barley,Average
+18.89,84.18,26,0,Medium,Rice,Low
+16.68,81.99,33,,Medium,Peas,High
+10.24,82.81,37,53,Low,Peas,Low
+10.34,82.66,37,46,High,Cotton,Low
+17.01,76.79,30,101,Medium,Rice,High
+19.69,80.15,39,71,High,Wheat,Average
+19.68,76.32,,68,Medium,Groundnut,Average
+16.7,77.47,37,131,Low,Groundnut,High
+17.88,81.79,31,62,High,Maize,No Data
+17.11,76.82,,120,Low,,Average
+15.24,76.12,29,,Medium,None,High
+19.68,83.62,30,86,Medium,Barley,High
+15.31,82.85,25,92,Low,Barley,Low
+11.2,76.53,30,,High,Barley,Average
+16.46,84.99,40,,Medium,,Low
+15.12,81.94,40,66,Medium,,Average
+11.77,83.26,36,,Medium,Wheat,No Data
+11.35,77.84,26,147,High,Groundnut,No Data
+16.33,76.93,,77,Medium,Groundnut,High
+10.87,83.13,30,134,High,Wheat,Average
+14.66,77.77,25,79,Medium,Maize,High
+10.11,77.87,25,85,Medium,Maize,No Data
+15.17,82.49,38,,Medium,Peas,Low
+12.16,81.36,37,49,Low,Maize,No Data
+12.89,77.97,29,56,Low,Groundnut,Low
+15.66,84.47,31,,Medium,,Average
+18.83,79.45,,136,High,,High
+13.22,82.4,29,74,High,,Low
+15.89,83.6,37,,High,Barley,High
+10.49,76.94,34,57,High,,High
+11.26,84.72,34,149,Medium,Cotton,No Data
+11.12,80.43,,95,Low,Maize,High
+10.93,78.09,,51,High,Wheat,Average
+12.82,81.97,35,94,High,Barley,Low
+18.86,81.19,26,,Low,,No Data
+14.27,78.51,34,96,Low,Peas,Average
+10.85,78.58,36,52,High,Barley,Average
+17.92,83.47,30,144,Medium,Barley,Low
+19.99,80.1,35,,Medium,Cotton,Average
+19.42,80.91,33,26,Medium,Barley,Average
+20,76.5,,104,Medium,Barley,High
+17.8,77.83,,135,Medium,Rice,High
+17.07,78.89,38,75,Low,,No Data
+19.32,84.74,28,34,Low,Wheat,High
+15.26,75.5,36,1,High,Wheat,No Data
+19.18,77.16,31,6,Low,Peas,No Data
+11.71,77.95,37,,Medium,,No Data
+19.51,82.32,40,,Low,Rice,Low
+16.78,75.15,29,134,Medium,Cotton,Average
+18.4,82.17,,126,High,Maize,Average
+14.44,81.04,36,123,Medium,Cotton,Average
+16.41,75.5,30,149,Medium,,No Data
+17.87,80.91,26,78,High,Cotton,No Data
+18.89,84.14,30,25,Low,Cotton,No Data
+16.2,75.12,34,,Low,,Low
+17.8,77.16,35,129,High,Wheat,High
+12.61,84.89,39,26,High,,No Data
+14.42,77.23,40,109,Low,Wheat,No Data
+16.23,83.44,40,119,High,,Low
+17.57,78.09,,,High,Rice,No Data
+16.84,80.46,28,59,High,None,No Data
+16.31,77.98,38,0,High,Groundnut,No Data
+18.07,84.76,,,High,Peas,High
+11.95,84.86,28,90,High,Wheat,High
+14.02,76.54,38,91,High,None,Low
+12.9,84.34,34,26,Medium,Wheat,Low
+17.99,79.66,39,,Medium,Barley,Average
+15.25,76.14,38,82,Low,Maize,No Data
+17.14,76.32,26,97,Low,,No Data
+18.38,80.03,31,109,Medium,None,Low
+14.06,83.88,27,2,Medium,Wheat,No Data
+17.47,77.27,30,71,High,Peas,High
+15.79,78.89,35,32,Medium,Barley,No Data
+12.85,83.87,37,71,Low,Maize,Average
+12.21,81.06,34,19,High,,No Data
+12.31,81.08,37,26,Low,Rice,No Data
+18.24,76.61,32,103,Medium,Cotton,No Data
+10.17,83.29,28,,Low,Barley,Average
+11.6,83.68,31,,Medium,Barley,Average
+15.04,83.74,25,30,Low,Maize,High
+10.56,83.48,,116,Low,Rice,No Data
+19.7,77.74,36,7,Low,Peas,Low
+15.44,75.58,33,65,Medium,Peas,No Data
+17.46,75.72,28,54,Low,None,Low
+18.5,79.11,35,,Medium,Maize,Low
+14.07,75.28,38,56,Low,Rice,High
+13.37,76.3,36,56,Medium,,No Data
+16.65,75.63,28,,High,Cotton,High
+15.7,82.2,27,69,High,Barley,No Data
+11.92,76.84,40,22,High,Peas,Average
+11.84,84.68,31,91,High,Groundnut,High
+18.64,81.18,,130,High,,High
+13.4,83.33,35,71,Low,Wheat,Low
+10.43,75.26,25,91,Low,,High
+14.48,82.83,32,,Low,Barley,Average
+12.32,84.31,29,141,Low,Barley,Average
+12.14,75.39,33,54,Medium,Barley,Low
+11.34,81.39,29,,Medium,Peas,Low
+18.35,81.04,31,133,Medium,Rice,High
+19.82,82.67,33,97,High,Rice,Average
+15.73,82.7,35,100,Medium,Peas,High
+12.43,78.02,33,102,High,Cotton,Average
+17.52,80.48,32,48,Medium,,High
+15.57,81.77,35,16,Low,Rice,High
+16.01,78.41,26,,High,Wheat,Low
+13.15,77.17,25,68,Medium,Cotton,Low
+13.49,82.82,32,51,Low,Maize,No Data
+10.88,80.39,39,78,Low,,Average
+12.64,81.77,,,Medium,Cotton,Average
+12.35,78.23,27,32,Low,Groundnut,Average
+15.98,82.9,29,58,Low,Wheat,Average
+13.04,76.67,33,64,High,Rice,Average
+16.56,79.23,39,113,Medium,Maize,Average
+18.11,82.3,40,,High,,High
+13.82,84.87,,127,Low,Groundnut,Low
+13.11,77.19,,138,High,Peas,Average
+16.47,80.24,29,109,Medium,Cotton,Average
+16.24,79.1,,22,Medium,,No Data
+14.83,80.17,32,120,Low,Cotton,Average
+14.33,81.4,,134,High,Barley,Average
+16.13,75.13,,,High,,High
+17.48,81.6,35,,Medium,Rice,Low
+10.27,76.47,,113,Medium,,Low
+17.62,81.25,26,97,High,Cotton,No Data
+11.92,83,,,Low,,No Data
+19.76,77.65,,6,High,Rice,Average
+18.75,83.89,36,126,Low,Groundnut,High
+12.35,78.17,33,88,Low,None,High
+18.28,75.86,28,135,Medium,Groundnut,No Data
+11.23,81.58,38,94,Low,Barley,Low
+14.57,75.89,29,46,Low,None,Average
+10.26,83.76,,98,High,Maize,Low
+11.73,81.59,25,4,Medium,,High
+19.75,78.08,33,77,High,Groundnut,High
+10.11,76.78,31,,Low,Maize,Average
+11.38,83.22,28,,Low,Cotton,Average
+16.84,82.21,28,147,Low,Peas,Average
+16.95,76.55,,126,Low,Cotton,Low
+18.29,77.41,29,,Low,Maize,Low
+14.31,75.37,,143,High,Groundnut,Low
+14.38,83,28,71,High,Maize,No Data
+16.61,76.27,38,6,Low,Maize,High
+16.19,79.69,31,125,High,Cotton,High
+17.65,77.44,32,120,High,,No Data
+13.27,75.91,,32,Low,None,Average
+16.99,80.1,34,87,Low,,Average
+18.88,76.67,36,102,Low,None,High
+11.32,77.2,38,71,High,Barley,Average
+17.44,82.9,30,140,High,,No Data
+12.19,84.24,,28,Medium,None,No Data
+13.26,78.94,,,Low,Groundnut,No Data
+10.75,80.88,32,2,Low,Cotton,No Data
+11.14,83.84,26,58,Low,Rice,No Data
+16.14,80.23,40,,High,Barley,High
+12.14,81.53,32,115,High,Rice,Low
+10.59,79.16,35,109,High,Peas,Average
+13.66,79.97,29,92,Low,Groundnut,High
+14.71,82.28,27,31,High,Barley,Average
+17.98,82.82,28,31,Medium,Maize,Average
+10.95,81.62,25,,Low,Rice,High
+16.05,84.89,34,37,Low,Rice,Average
+13.85,77.31,32,80,High,Maize,Low
+13.22,75.17,35,46,High,Peas,Average
+14.75,80.02,,66,Medium,Groundnut,Average
+14.63,81.66,35,53,High,Peas,High
+10.28,78.24,34,75,Low,,No Data
+16.74,83.72,35,17,Low,Maize,High
+11.04,77.96,32,6,Medium,Cotton,High
+13.29,75.16,29,40,High,,No Data
+13.92,76.99,,29,High,Groundnut,No Data
+13.92,76.41,32,,High,,High
+15.3,84.15,25,,High,Cotton,Average
+12.17,82.69,35,125,Medium,Cotton,Low
+16.53,80.54,,127,High,Groundnut,High
+12.21,83.44,35,,High,Wheat,High
+12.35,76.41,,120,High,Barley,High
+13.25,83.83,38,116,Medium,Rice,High
+17.42,77.23,26,53,High,Peas,Average
+17.77,76.85,35,148,High,Rice,Average
+13.94,81.53,34,15,High,Maize,Average
+16.8,76.18,34,60,Low,Rice,Low
+11.03,83.33,39,,High,Rice,Average
+14.03,84.86,39,5,High,,Low
+16.43,75.3,40,,Low,Wheat,Average
+10.38,78.18,39,107,Low,Maize,Average
+15.4,84.35,26,148,High,Peas,Low
+19.04,75.64,,16,Low,None,No Data
+15.37,82.33,26,134,Low,Barley,Low
+13.95,78.15,38,32,High,Cotton,No Data
+11.44,82.44,28,145,Low,Maize,Average
+10.28,81.79,,53,High,Cotton,Average
+18.1,79.92,34,94,Low,Rice,Low
+16.22,75.37,29,32,Medium,Peas,No Data
+16.72,82.86,34,55,High,,Low
+13.97,83.78,,31,Low,,No Data
+18.57,78.54,31,33,Low,Maize,Low
+12.29,84.2,35,142,Low,Wheat,Low
+16.63,80.46,38,23,Medium,Peas,High
+10.9,76.4,40,146,High,,No Data
+14.58,84.47,30,1,Medium,,Low
+19.72,83.94,37,40,Low,Cotton,No Data
+14.41,83.39,27,11,Medium,,Average
+16.73,82.42,28,53,Medium,Wheat,High
+14.88,82.58,28,104,Medium,Barley,Average
+17.43,80.22,33,39,High,Rice,Average
+15.84,80.43,28,130,Low,Rice,Average
+11.89,84.44,39,,Low,None,Average
+10.33,84,25,,Medium,Wheat,No Data
+11.01,83.81,39,,Medium,Barley,No Data
+14.12,78.79,31,,High,,No Data
+13.37,81.6,38,146,Low,Rice,High
+13.74,82.88,26,26,Low,,Average
+10.72,76.79,40,43,Low,,High
+10.73,79.79,30,,Medium,Peas,High
+17.86,75.65,36,62,Medium,Groundnut,Average
+15.34,78.14,40,51,Medium,,High
+11.06,81.68,33,22,Low,,Low
+13.68,75.02,40,53,High,Maize,High
+12.98,79.26,,14,Medium,,No Data
+19.22,76.93,26,117,Medium,Groundnut,High
+14.23,78.99,32,149,High,Groundnut,Average
+14.51,81.03,37,118,Low,Maize,High
+18.97,82.46,,,Low,Peas,No Data
+10.3,84.87,28,100,Medium,Wheat,No Data
+15.94,77.88,33,94,Low,Cotton,Low
+16.81,82.71,37,6,Medium,Wheat,Average
+10.17,77.18,25,15,High,,Average
+12.07,81.83,,,Medium,Maize,High
+12.84,81.13,,0,Medium,Barley,No Data
+15.37,75.57,36,66,High,,Low
+18.47,76.91,,20,High,Maize,High
+17.43,79.37,38,42,Medium,,No Data
+11.67,82.5,30,117,Low,Peas,Low
+14.09,79.28,29,71,High,Wheat,High
+16.55,75.43,28,129,High,Peas,Low
+16.38,78.71,28,123,High,Wheat,Low
+19.43,78.32,33,16,High,Cotton,Average
+14.05,80.87,,116,High,Rice,No Data
+19.87,81.91,,113,High,None,Average
+14.58,82.86,28,,High,Maize,Average
+11.05,78,37,53,High,Maize,High
+12.5,80.38,32,111,Low,Barley,Average
+18.62,79.57,26,35,High,,No Data
+10.98,81.44,37,9,Low,Rice,No Data
+12.02,77.49,29,69,High,Peas,High
+16,78.85,35,126,Medium,Groundnut,No Data
+17.72,84.63,37,45,Medium,None,No Data
+14.79,78.01,36,126,Low,Rice,High
+13.29,81.19,,57,High,Rice,Low
+13.29,77.26,34,37,Medium,,No Data
+13.45,78.41,31,103,Medium,Cotton,Low
+16.74,82.09,,132,Low,None,High
+17.06,82.94,40,75,Medium,Rice,Average
+18.85,82.66,34,47,Low,Maize,High
+15,75.98,28,9,Medium,Peas,High
+18.51,78.61,27,26,High,Rice,Average
+17.69,76.48,36,22,High,Wheat,Average
+12.89,84.58,33,136,Medium,None,Average
+11.55,75.05,39,10,Medium,None,High
+18.29,78.13,27,123,High,,No Data
+15.15,84.34,,,High,None,Low
+14.92,81.15,27,136,Low,Barley,Low
+18.25,79.16,29,35,Medium,Groundnut,Average
+18.84,79.65,33,101,Medium,Peas,Average
+15.4,81.31,25,62,Medium,Cotton,High
+18.52,83.45,,133,High,Maize,Low
+17.88,84.83,37,2,Medium,Rice,No Data
+12.57,79.4,35,42,High,None,Low
+13.76,83.72,35,,Medium,Maize,Average
+15.48,81.66,36,143,High,,Average
+18.64,77.11,26,26,High,Wheat,Low
+10.82,81.13,29,135,Low,Maize,Low
+18.22,78.89,,,Medium,,Average
+13.92,84.95,,,High,Maize,High
+17.38,82.6,40,,Medium,Cotton,High
+13.94,78.6,,48,Low,Cotton,High
+15.01,82.56,32,,High,Rice,No Data
+11.49,75.38,33,39,High,Wheat,No Data
+13.09,75.36,,141,Medium,Peas,Average
+10.21,76.13,36,,Low,Maize,Low
+19.09,80.57,31,,High,,No Data
+17.64,84.24,34,140,Medium,Maize,No Data
+10.94,76.06,29,80,Low,Cotton,No Data
+12.72,79.14,27,137,Low,Cotton,High
+11.93,80.87,37,,Medium,Wheat,High
+18.45,82.02,36,106,High,Rice,Low
+14.5,82.85,29,82,High,Rice,High
+13.82,84.79,37,4,Medium,,Low
+19.76,79.11,34,,Low,Rice,Low
+14.74,77.79,35,89,High,Rice,Low
+16.73,83.37,32,136,Low,Maize,Average
+15.53,79.68,,,Medium,Wheat,High
+15.96,75.13,32,55,High,Wheat,No Data
+18.35,80.16,38,149,Medium,Peas,Low
+15.5,83.13,36,149,Medium,Wheat,Low
+14.83,82.05,37,119,High,None,Average
+14.37,83.97,33,55,Medium,,Low
+15.75,81.24,27,8,High,Maize,Average
+16.98,76.82,37,144,Medium,Groundnut,High
+16.85,78.46,,141,Medium,,Low
+17.17,80.36,,59,Low,None,Average
+15.76,80.61,,103,High,,No Data
+11.36,76.46,30,52,Medium,Maize,No Data
+11.95,81.68,40,33,Low,Barley,Average
+12.08,77.51,37,125,Medium,,Average
+17.65,84.42,,10,Low,None,Average
+10.3,76.4,,74,Low,Groundnut,Average
+19.75,80.48,,76,High,Barley,Low
+19.51,81.79,30,53,Medium,Maize,Low
+13.23,83.32,,14,Low,Barley,No Data
+15.14,80.98,37,3,Medium,,Average
+16.98,78.84,38,70,High,Peas,No Data
+16.6,84.48,,49,Medium,Groundnut,Low
+18.21,80.54,40,51,Medium,,Low
+13.39,77.6,28,61,Low,Barley,Low
+17.25,76.37,,,High,Groundnut,Average
+18.38,83.91,27,84,Medium,,High
+17.35,78.3,39,140,Low,Rice,High
+17.96,81.8,27,20,Medium,Rice,Low
+16.13,84.93,,136,High,Cotton,High
+17.62,77.51,31,51,Low,Cotton,Average
+10.46,75.32,38,107,Medium,,High
+14.76,84.09,,3,High,None,Average
+18.65,81.82,30,133,Medium,Rice,High
+19.58,81.45,40,62,Medium,Barley,Low
+14.34,75.38,28,114,Low,,Average
+15.23,82.62,40,61,Low,Peas,Average
+17.7,79.9,26,121,High,Peas,Average
+16.51,80.08,33,132,High,None,High
+19.83,84.73,36,108,Low,Wheat,Average
+17.47,80.56,30,125,Low,Groundnut,Average
+15.45,77.32,25,,High,Maize,Low
+18.98,76.5,34,10,Medium,Cotton,High
+13.98,76.45,,50,Low,Maize,Average
+11.97,84.93,35,141,High,Maize,Average
+12.32,83.71,32,13,High,Rice,No Data
+15.81,82.31,31,,High,None,High
+12.68,75.04,30,10,Low,Barley,Average
+15.81,79.77,,81,Low,Barley,Low
+18.3,76.13,29,33,High,Cotton,Average
+15.62,78.83,40,76,Medium,Groundnut,Low
+14.06,79.52,28,147,High,None,Low
+17.12,78.48,29,43,Medium,,Average
+12.37,81.48,,77,Medium,Barley,Average
+18.55,75.91,29,,High,Groundnut,High
+10.7,82.63,33,107,High,Rice,Low
+12.16,82.79,35,128,Medium,Maize,Low
+13.4,78.63,33,115,Medium,Groundnut,Average
+15.21,83.03,28,131,Low,,Low
+13.03,81.3,33,83,Low,,No Data
+11.53,78.59,40,,Low,Maize,Low
+17.89,79.51,36,17,High,Wheat,No Data
+16.22,84,29,30,High,None,Low
+14.5,76.44,27,38,Medium,Groundnut,No Data
+13.65,84.99,,90,High,Rice,Average
+11.06,82.96,38,,Medium,Barley,Average
+11.35,80.54,28,119,Medium,Maize,Average
+16.04,83.76,39,1,Low,Cotton,High
+11.19,84.47,35,95,High,Barley,Low
+13.03,76.76,37,55,Low,Maize,No Data
+10.99,78.83,37,61,Medium,None,Low
+17.86,80.41,26,48,Medium,Wheat,Low
+16.01,76.38,30,16,Medium,Groundnut,High
+18.92,84.5,34,72,High,,Average
+17.54,79.83,,68,Medium,Rice,Average
+18.64,78.11,34,27,Low,Maize,No Data
+19.19,80.27,25,41,High,Groundnut,Average
+16.49,78.32,25,99,High,None,No Data
+11.83,82.34,35,48,Medium,Groundnut,Average
+18.77,79.96,36,,High,Rice,High
+19.49,80.1,40,34,Medium,Maize,High
+18.23,81.66,29,,High,Rice,Low
+14.23,75.07,28,60,Low,Wheat,High
+19.16,83.71,40,108,Low,Maize,Average
+11.49,77.29,,92,High,Rice,No Data
+14.25,76.31,28,64,Low,Cotton,Low
+13.63,79.24,28,31,High,Groundnut,High
+11.89,80.4,39,85,Low,Peas,Average
+10.23,78.01,39,,Medium,Rice,Average
+12.11,75.68,26,116,Low,Cotton,Low
+12.35,75.98,,35,Low,None,No Data
+16.31,80.68,39,,Low,None,High
+16.48,78.81,25,114,High,Groundnut,Low
+12.69,84.15,40,95,Low,Maize,No Data
+11.77,79.3,37,90,Medium,Wheat,High
+17.77,82.87,25,45,Medium,,Low
+12.6,84.52,34,59,High,Wheat,Average
+19.38,77.93,38,7,High,,Low
+11.19,77.49,,137,Medium,Barley,Low
+11.15,80.48,35,65,High,Maize,No Data
+14.38,84.6,32,22,High,,Average
+14.41,77.73,30,121,Medium,Groundnut,Average
+15.63,77.44,,49,High,None,Low
+13.97,75.57,38,127,Low,Cotton,Low
+16.3,83.66,30,60,High,None,Low
+18.87,82.67,26,8,Medium,Groundnut,Average
+11.47,79.74,37,59,High,Peas,Average
+13.38,76.55,,,High,None,No Data
+12.66,76.59,36,123,High,None,Low
+16.96,81.53,34,34,Medium,Wheat,No Data
+10.08,76.84,33,101,Low,None,No Data
+15.14,77.94,31,94,Low,None,Average
+13.02,83.28,40,,Low,Rice,Low
+19.57,78.84,,38,Medium,Barley,High
+19.98,75.1,37,115,Medium,Cotton,Low
+12.18,79.62,30,,Medium,Barley,No Data
+14.98,79.45,38,88,Medium,Wheat,Low
+13.84,78.55,25,,Low,None,Average
+19.29,81.27,30,,Medium,Groundnut,High
+15.06,78.77,33,132,High,Wheat,Low
+10.79,81.7,35,131,Low,Groundnut,Average
+10.01,76.35,26,135,Low,Wheat,High
+11.56,77.49,,41,Low,,No Data
+19.19,77.34,27,71,Low,Wheat,Average
+10.87,80.87,36,126,High,Maize,No Data
+18.53,79.16,38,129,High,Maize,Low
+15.97,80.64,37,2,Low,Cotton,High
+12.82,83.38,,98,Low,Groundnut,High
+15.81,82.7,35,90,High,Peas,Low
+14.78,79.42,,72,High,Peas,Average
+14.38,75.82,36,20,Low,,Low
+14.34,82.67,31,22,Low,Peas,Average
+18.51,84.01,27,78,High,Rice,No Data
+18.51,83.46,26,54,High,,Average
+15.77,84.01,25,,Medium,None,High
+11.23,76.72,26,97,Low,Cotton,High
+13.71,84.38,32,127,Medium,Barley,Average
+16.88,84.3,36,,Low,Maize,Low
+17.16,79.85,28,143,High,None,Low
+10.77,82.96,35,78,Medium,Maize,No Data
+17.88,77.32,33,69,Low,Maize,Average
+13.09,84.33,33,1,High,Maize,Average
+15.81,79.3,26,62,Low,Barley,No Data
+11.48,81.1,35,48,Medium,Maize,Low
+12.18,79.94,38,67,Low,Cotton,High
+17.88,75.66,38,102,Low,Peas,High
+19.39,76.73,40,106,Medium,Groundnut,High
+15.74,75.26,30,,High,,High
+16.25,80.98,28,145,High,,High
+11.94,83.88,31,50,Low,,No Data
+10.01,81.43,32,,High,Rice,Low
+19.45,76.97,,108,Medium,,High
+17.82,80.42,31,136,Low,,High
+14.69,81.47,27,33,High,Rice,No Data
+10.48,84.63,30,60,Medium,Maize,Average
+16.9,78.7,,3,Low,Peas,No Data
+12.42,75.48,,133,High,Rice,Average
+10.56,79.92,29,14,High,Peas,High
+13.62,75.47,33,101,Medium,Rice,High
+15.84,83.07,25,93,Low,Wheat,No Data
+15.29,78.43,26,114,High,Groundnut,No Data
+12.32,82.15,,127,Medium,Maize,No Data
+12.96,75.68,25,,High,None,Low
+19.98,83.35,,89,Low,Rice,Low
+10.19,82.09,35,22,Low,Maize,Low
+15.78,81.12,,47,Medium,,Average
+19.89,81.96,27,46,Low,Peas,High
+16.89,75.6,34,7,Medium,Groundnut,High
+10.54,77.4,35,16,Low,Wheat,High
+18.47,77.54,29,134,Medium,Barley,Average
+14.14,76.31,27,134,High,,Average
+15.96,78.88,36,60,Medium,Peas,Average
+19.26,82.76,33,83,High,Rice,No Data
+19.26,76.76,,118,Medium,Peas,No Data
+18.53,75.25,38,32,Medium,None,No Data
+18.27,79.98,33,67,Medium,Wheat,High
+17.81,83.54,27,,Low,Barley,High
+14.71,81.98,34,108,Medium,Groundnut,No Data
+12.71,77.84,38,113,Medium,,Average
+15.49,81.32,37,22,Low,Maize,Average
+16.65,82.49,25,136,High,Wheat,Low
+14.74,79.83,38,,Low,,High
+12.2,75.2,34,23,Medium,Peas,High
+11.65,80.74,,,High,Rice,High
+18.55,80.88,38,132,Medium,None,High
+16.33,76.78,30,17,High,Wheat,Average
+18.13,79.9,34,16,Low,Barley,Low
+19.66,78.39,,,Low,Groundnut,Low
+16.38,79.18,32,134,High,Peas,High
+11.5,80.23,,,High,Groundnut,Average
+11.6,82.17,26,45,Low,Peas,Low
+13.25,76.14,33,111,Low,,Low
+10.7,78.25,33,135,High,None,Average
+15.34,84.38,34,59,Medium,Peas,Low
+19.61,75.38,28,45,Medium,Cotton,No Data
+13.16,75.33,32,146,High,Cotton,Average
+12.94,76.64,38,122,High,Maize,Low
+10.7,79.63,27,88,Medium,None,High
+18.36,77.24,32,,High,Groundnut,No Data
+16.71,76.57,36,108,Low,Maize,Low
+17.53,82.76,30,76,Low,Peas,High
+12.08,84.54,28,73,Medium,Wheat,No Data
+19.94,82.59,35,79,High,Barley,Low
+16.12,77.4,38,101,Medium,Groundnut,Low
+18.42,83.75,,,Low,Maize,Low
+17.5,80.02,40,9,Medium,Cotton,Average
+15.41,78.96,34,5,Medium,Barley,Average
+14.53,76.41,,,Low,Rice,Low
+10.59,84.19,40,148,Medium,Cotton,High
+13.98,83.54,36,21,High,Barley,Low
+11.77,77.62,30,135,High,Cotton,Low
+14.1,78.02,28,,Low,Groundnut,No Data
+15.51,76.65,30,,Low,,No Data
+16.43,80.51,26,58,High,Rice,High
+12.69,75.86,,,Low,Barley,High
+11.33,81.45,,7,High,Barley,No Data
+14.97,75,30,5,High,Groundnut,No Data
+17.75,82.02,32,9,High,Maize,No Data
+17.04,78.37,,108,High,,High
+17.01,79.27,38,81,Low,Cotton,Low
+11.82,80.18,,31,Low,Cotton,Low
+11.89,77.62,27,135,Medium,Maize,High
+17.44,83.94,36,,Medium,Rice,High
+16.3,79.29,26,41,Medium,Maize,No Data
+12.11,78.48,38,41,Medium,Barley,Low
+10.76,75.02,38,67,Low,Rice,High
+14.09,83.48,32,91,Low,Wheat,High
+19,81.78,35,139,High,Wheat,No Data
+19.12,75.69,,29,High,,Average
+15.44,80.39,37,80,Low,Groundnut,High
+16.84,78.97,34,,High,Maize,High
+17.96,76.37,32,,Medium,Cotton,High
+16.25,79.64,37,39,High,Wheat,No Data
+16.72,82.52,39,,Medium,Peas,No Data
+13.18,81.02,26,,Low,Groundnut,Average
+17.91,78.32,33,98,High,Cotton,High
+15.38,75.46,25,13,Medium,Wheat,High
+11.5,81.59,39,,Low,Groundnut,Average
+10.9,84.1,29,96,Medium,Wheat,High
+16.43,82.61,,,Medium,Groundnut,Average
+19.65,82.03,37,86,Low,Wheat,Low
+16.81,84.72,35,117,High,Maize,Average
+17.37,81.4,29,,Medium,Maize,High
+19.48,77.27,,116,High,None,Low
+15.56,82.82,40,103,Low,Cotton,Low
+16.86,80.31,32,24,High,None,Low
+19.31,80.24,26,43,Medium,,Low
+11.87,84.29,,31,Medium,Groundnut,High
+11.45,75.92,,113,Low,Cotton,Average
+10.37,81.4,37,88,Medium,Cotton,No Data
+15.39,80.12,25,123,High,Groundnut,Low
+15.69,77.63,33,133,Medium,,High
+10.62,78.54,31,111,High,Maize,No Data
+12.31,75.7,29,,High,,No Data
+10.91,75.99,29,108,Medium,Maize,Low
+11.67,79.34,35,51,Low,Maize,Low
+11.45,83.89,33,10,Low,Groundnut,High
+15.9,81.67,33,24,High,Peas,No Data
+18.3,82.31,35,137,High,Wheat,Average
+19.97,83.12,25,23,Low,,Low
+15.38,75.16,34,144,High,Groundnut,High
+15.55,82.42,33,,Low,Maize,Average
+15.78,79.49,36,126,Medium,,No Data
+12.54,83.57,30,83,High,Rice,Average
+12.1,76.36,29,,Medium,Maize,No Data
+13.88,81.32,40,112,Low,Rice,High
+15.53,83.98,31,36,Medium,Wheat,Low
+17.1,84.9,29,0,Medium,Barley,Average
+16.06,77.93,27,,Low,,Average
+15.65,80.41,27,98,Medium,Barley,Average
+14.86,82.35,28,93,High,Groundnut,Average
+17.33,81.26,39,51,Low,Groundnut,High
+17.41,83.34,38,119,High,,Average
+13.48,76.25,39,128,High,Groundnut,Low
+17.89,75.28,32,104,Medium,Wheat,No Data
+15.7,77.32,32,43,Medium,Peas,High
+15.36,80.49,27,136,Medium,Groundnut,Low
+10.85,82.39,34,56,Medium,,Average
+19.36,83.42,28,107,Medium,Groundnut,Low
+18.02,84.56,38,52,Medium,Rice,Average
+18.69,78.65,38,,High,Groundnut,High
+19.74,79.7,,92,High,Peas,Average
+14.99,76.27,26,33,Low,,High
+12.46,75.88,25,126,Low,Maize,High
+11.04,78.7,30,82,High,,Low
+11.54,83.86,29,90,Medium,Cotton,High
+10.2,75.21,25,29,Medium,Cotton,No Data
+12.5,76.83,39,119,High,Maize,Low
+10.73,83.53,31,122,Low,Groundnut,No Data
+16.93,78.72,40,,Medium,Cotton,Low
+17.78,84.89,34,56,Medium,Peas,Low
+16.98,83.53,31,13,Medium,Rice,Low
+19.81,82.46,33,85,Medium,Maize,No Data
+10.15,81.31,36,,High,Barley,Low
+10.63,77.09,26,36,High,,Low
+15.66,76.83,,,Medium,Barley,Low
+13.84,75.9,32,120,High,Barley,No Data
+16.89,78.24,34,20,High,None,Low
+13.72,75,27,38,Low,,High
+16.52,82.82,36,125,Low,None,Average
+12.88,78.43,28,148,Medium,Groundnut,High
+15.58,82.83,35,18,High,,Low
+10.79,82.1,32,145,Medium,Barley,Low
+12.46,84.83,39,22,High,Peas,Average
+11.33,82.76,31,104,Medium,Peas,No Data
+16.63,84.39,,104,Low,Wheat,No Data
+18.5,84.53,25,6,Low,Maize,Average
+14.65,81.08,25,83,Medium,Groundnut,High
+18.75,84.69,28,137,Medium,,Average
+10.31,76.69,38,13,Low,Wheat,High
+16.91,77.59,31,42,Medium,Cotton,No Data
+12.32,80.78,26,147,Medium,None,High
+10.38,75.17,32,,Low,Barley,No Data
+10.05,77.21,25,86,High,,Low
+16.2,83.95,27,121,High,Wheat,Average
+16.83,79.44,27,71,Low,Cotton,Low
+14.19,84.75,28,,Medium,,Low
+19.53,78.86,34,78,Low,Peas,High
+17.52,80.87,31,146,High,None,No Data
+11.09,77.86,25,,Low,Rice,No Data
+16.38,78.02,32,57,High,Rice,Low
+17.62,79.09,34,122,High,Peas,Average
+11.29,84.39,31,5,Medium,Wheat,No Data
+18.22,80.69,,142,Medium,,Average
+16.5,83.31,34,,High,Barley,High
+10.73,80.64,36,63,Medium,,No Data
+11.91,79.16,37,113,Medium,Peas,Average
+11.73,78.91,,106,High,,No Data
+11.26,82.07,28,17,Low,None,High
+13.6,83.12,38,97,Medium,Wheat,Average
+13.7,83.93,,,Low,Barley,Average
+11.63,84.74,,,High,None,No Data
+12.43,81.32,,36,Medium,Wheat,Low
+12.03,82.52,26,17,Low,Barley,No Data
+16.91,79.07,29,16,Low,,Average
+15.98,78,37,54,High,Peas,High
+12.91,78,,63,High,,High
+19.4,82.58,37,,Low,Rice,Low
+13.23,78.08,33,38,High,None,Low
+18.33,76.83,30,67,High,Groundnut,Average
+18.98,84.21,29,142,High,Maize,No Data
+15.72,84.33,39,33,High,Wheat,Average
+17.15,76.37,,67,Medium,,No Data
+10.54,75.4,31,61,Medium,Rice,Average
+13.62,78.71,39,85,Medium,Maize,High
+19.15,80.9,,83,Medium,Peas,Average
+19.52,78.65,27,51,High,Rice,No Data
+12.95,81.36,,74,High,None,Average
+16.13,82.87,34,139,Low,None,No Data
+16.6,78.17,38,139,High,,High
+13.43,78.62,35,58,High,Rice,No Data
+17.5,82.17,26,,High,Barley,No Data
+10.79,75.64,,27,Medium,None,High
+13.4,82.76,27,4,Medium,Rice,High
+12.59,77.6,25,11,High,Cotton,High
+18.58,77.68,,139,Medium,,Average
+13.31,79.46,,8,Medium,Cotton,High
+12.36,79.82,37,20,Medium,None,No Data
+10.75,78.73,37,128,High,,Low
+17.99,80.46,34,10,Low,,High
+10.29,78.74,39,134,High,,High
+15.25,80.48,40,15,Medium,Maize,No Data
+19.7,80.14,35,65,High,Maize,High
+14.96,80.82,26,115,Low,Wheat,Low
+19.01,75.11,,57,Low,Peas,Average
+17.77,75.21,,96,Medium,None,No Data
+14.31,75.41,40,130,Low,Rice,Average
+14.69,80.14,34,69,Medium,,No Data
+15.66,80.28,27,104,High,,Average
+16.64,80.53,39,146,Medium,Wheat,Low
+11.56,79.51,38,,Low,Rice,Low
+15.61,75.05,32,,Low,Cotton,No Data
+11.17,83.02,26,43,High,,No Data
+17.85,77.79,,,Low,Cotton,Average
+14.25,80.94,40,144,Low,Groundnut,Low
+11.65,83.37,40,,Low,,High
+14.9,76.38,31,,Medium,Peas,Low
+11.56,84.78,36,6,Low,Maize,No Data
+16.06,76.95,26,122,High,Cotton,Low
+13.51,77.52,32,148,Low,Wheat,High
+12.64,78.58,40,77,Low,Rice,High
+17.73,76.37,39,,Medium,Rice,Average
+13.89,75.65,27,113,High,Barley,Low
+15.13,81.14,32,83,High,Wheat,No Data
+19.13,80.62,29,80,High,Cotton,High
+18.53,78.27,,106,Medium,,High
+14.66,77.56,38,,High,Rice,High
+18.32,81.04,39,39,High,,Average
+13.76,79.29,29,31,Medium,Rice,No Data
+11.87,84.05,26,8,Low,Maize,Low
+18.04,76.44,37,7,High,Rice,No Data
+14.24,81.89,35,54,High,Cotton,Average
+18.31,79.71,30,44,Medium,Cotton,Low
+19.67,78.05,,119,High,Wheat,Average
+12.49,77.55,29,96,Low,,Low
+16.87,78.73,,,Medium,Cotton,Low
+18.01,77.78,27,118,High,Peas,Average
+10.91,83.13,26,38,Medium,Peas,High
+17.22,83.23,31,7,Low,Groundnut,High
+14.94,83.46,39,86,High,,Average
+10.73,75.24,,145,Low,Rice,No Data
+18.58,82.23,28,,Medium,Barley,No Data
+16.61,80.14,40,107,Low,Wheat,Low
+15.28,78.71,26,,Medium,Groundnut,High
+12.02,75.4,36,,Low,,Average
+11.04,77.72,33,107,Medium,Maize,Low
+19.23,79.74,,67,Low,None,No Data
+18.42,76.71,36,,High,Maize,Average
+19.55,83.78,30,136,Medium,Groundnut,Low
+15.42,76.2,26,63,Medium,,High
+16.74,84.59,39,12,Low,,Average
+10.06,82.78,37,41,High,None,Low
+10.59,81.46,32,139,High,,Average
+14.79,76.44,27,79,Low,Maize,Low
+19.84,83.7,28,,Medium,Rice,Average
+12.83,78.79,33,24,Low,None,High
+19.49,83.52,33,48,High,Maize,High
+12.92,81.65,30,128,Medium,None,Low
+18.71,82.34,25,93,Medium,Groundnut,No Data
+10.27,83.59,32,49,Low,,No Data
+15.44,83.57,39,23,Medium,Groundnut,Average
+12.01,83.45,33,,Medium,None,High
+13.69,84.01,29,86,Low,Maize,Average
+12.28,77.55,31,145,High,Wheat,High
+12.39,84.66,,45,Low,Groundnut,No Data
+10.7,77.72,,6,Low,Wheat,Average
+17.08,80.37,30,17,Low,Wheat,High
+11.94,78.14,28,,Low,,High
+18.46,82.24,35,,Low,Rice,No Data
+15.77,81.08,40,15,High,Maize,No Data
+10.53,80.79,,76,High,Barley,High
+16.72,79,26,148,Low,Rice,No Data
+17.78,77.78,35,104,Medium,Wheat,Low
+12.22,83.98,28,138,High,Rice,Low
+10.61,78.32,,,Medium,Rice,High
+16.76,84.13,25,78,Low,Peas,Average
+13.71,79.67,35,23,High,Peas,No Data
+19.67,82.43,26,,Medium,Peas,Low
+12.3,84.15,32,,Low,Peas,Average
+12.51,82.34,29,,Low,Cotton,High
+16.69,79.3,,87,Low,Barley,Low
+12.3,81.73,39,107,Medium,Barley,No Data
+17,83.42,,,High,Groundnut,No Data
+16.71,82.64,27,82,Low,Peas,Low
+16.85,82.9,35,84,Medium,Groundnut,No Data
+11.5,84.22,,,Medium,Peas,No Data
+10.27,76.07,31,31,Medium,Cotton,High
+14.4,83.56,27,40,Medium,Wheat,Low
+12.99,82.46,,78,Low,Peas,Average
+19.16,84.97,40,34,Medium,Wheat,Average
+19.08,83.68,28,111,Medium,Maize,High
+11.69,76.49,,108,Medium,,No Data
+13.64,81.17,25,128,Low,Barley,No Data
+12.3,80.82,36,100,High,Barley,No Data
+17.11,79.72,26,9,Low,Cotton,Average
+18.89,75.63,,,Low,Barley,Low
+14.84,84.98,27,83,High,Barley,Low
+19.77,76.95,25,35,Low,None,Low
+18.88,79.02,37,140,Low,,High
+19.86,76.12,26,,Low,None,High
+19.19,79.47,26,94,Low,Barley,Low
+17.01,77.53,,4,Medium,Barley,High
+19.51,83.28,29,0,Low,Barley,Low
+15.32,79.17,32,127,High,Maize,No Data
+17.73,78.17,40,147,Medium,Peas,High
+11.05,77.56,33,14,Medium,Cotton,Average
+16.3,80.71,26,65,Low,Barley,No Data
+15.39,80.83,25,150,Medium,Maize,Average
+12.48,79.14,32,130,Medium,Rice,Low
+13.14,76.27,31,,Low,Wheat,No Data
+13.19,78.05,39,59,High,Cotton,No Data
+16.02,82.02,26,99,Medium,Cotton,Average
+16.85,76.13,37,,High,Peas,High
+18.4,77.34,34,47,Medium,Rice,High
+18.33,81,30,,High,Peas,Low
+13.72,79.48,32,,Medium,Wheat,High
+12.79,82.6,33,118,High,Peas,Low
+13.38,76.53,34,137,Medium,Cotton,No Data
+10.67,79.04,,70,Low,Peas,Average
+20,78.39,35,138,High,None,No Data
+13.87,81.69,28,135,High,Peas,High
+17.79,84.69,36,84,Medium,Wheat,Low
+13.63,83.23,30,65,Low,Rice,Low
+13.03,80.88,37,,Medium,Groundnut,Average
+12.32,75.9,28,136,High,Maize,Low
+16.26,82.75,,,Medium,Peas,Average
+13.45,81.31,27,140,Low,Maize,Average
+10.36,80.74,,,Medium,Rice,No Data
+15.19,84.84,,27,Low,,High
+15.26,77.51,38,91,Low,Cotton,Low
+13.58,80.2,33,92,Medium,Maize,Low
+11.04,78.45,40,,Low,Maize,No Data
+17.74,82.05,,89,Medium,Wheat,Average
+14.3,82.97,36,109,High,Groundnut,Average
+11.45,78.93,33,45,Medium,Peas,High
+14.85,79.7,,22,High,Wheat,Low
+17.95,84.2,39,,Medium,Maize,Low
+17.14,81.56,33,81,Medium,Cotton,Average
+18.56,80.29,28,71,High,Barley,Average
+10.13,79.36,37,39,High,Groundnut,Average
+13.02,84.5,40,35,High,Groundnut,Low
+10.65,82.51,32,69,High,Groundnut,Low
+17,81.05,25,40,Medium,Wheat,Low
+15.06,76.89,,124,High,Wheat,Average
+17.12,81.66,29,7,High,Peas,Low
+13.77,83.7,32,96,Medium,Peas,No Data
+10.95,83.96,27,148,Medium,None,High
+17.87,78.95,32,132,Medium,Wheat,Average
+10.32,84.1,,146,High,,Average
+13.84,76.5,,109,High,Maize,Average
+10.66,75.73,,130,High,,Average
+19.1,75.95,39,89,Low,Barley,High
+11.02,84.36,32,55,Low,Peas,No Data
+16.43,82.77,35,1,High,Rice,No Data
+19.83,78.82,25,11,Medium,Peas,High
+10.24,76.05,,,High,Cotton,Average
+12.97,79.99,,,Medium,Groundnut,Average
+18.24,84.01,38,,High,Peas,Average
+10.78,75.9,,41,Low,,No Data
+15.61,80.6,33,74,High,Rice,High
+10.62,82.56,31,69,Medium,Peas,High
+18.7,78.4,,133,Low,,Low
+17.66,84.16,,92,Low,Rice,Low
+19.9,81.28,30,31,High,,No Data
+18.45,76.14,25,12,High,Groundnut,High
+19.58,75.5,27,,Low,Rice,No Data
+15.04,83.86,34,96,Low,None,No Data
+13.89,84.72,36,4,High,Groundnut,High
+19.95,80.48,,,High,Rice,Low
+13.39,76.4,25,91,High,Cotton,No Data
+12.17,81.18,38,105,Medium,Cotton,Average
+11.3,80.3,35,87,Medium,Wheat,Low
+16.15,77.91,29,,Low,None,High
+13.32,82.28,,145,Low,Groundnut,No Data
+19.91,75.32,,11,Medium,Rice,No Data
+19.15,80.63,38,23,Low,Groundnut,Average
+10.73,75.03,30,5,Low,,No Data
+15.86,84.98,36,,High,Cotton,High
+14.1,76.98,27,49,High,Maize,No Data
+16.91,77.7,25,132,Low,Groundnut,High
+11.19,77.66,,108,High,,Low
+18.65,78.54,34,12,Medium,,High
+17.03,76.7,,104,Medium,Barley,High
+13.87,82.92,35,,Low,None,High
+17.51,83.86,36,,Low,Barley,Low
+10.46,79.85,36,31,Medium,Groundnut,Low
+10.82,79.08,27,,High,Maize,Low
+15.33,82.25,35,129,Medium,Wheat,Average
+13.32,78.5,36,,Medium,Wheat,High
+10.39,80.14,39,52,High,Maize,Low
+18.81,82.83,,136,Low,,No Data
+13.43,75.64,,64,Medium,,Low
+19.1,76.19,39,138,Medium,Groundnut,Average
+18.51,78.24,32,43,Medium,Cotton,High
+16.21,83.09,29,74,Low,Peas,No Data
+11.41,78.54,,,Low,Barley,No Data
+15.64,81.61,27,45,High,,Average
+11.33,78.88,25,99,Low,,Average
+18.79,83.72,29,115,Low,Barley,Low
+10.5,76.15,33,46,High,Maize,Low
+13.44,77.58,36,146,Low,Wheat,High
+17.85,84.56,25,100,Low,Rice,High
+12.86,83,40,141,Low,Rice,No Data
+17.9,75.84,26,16,Low,None,Low
+10.09,77.8,37,,High,Cotton,Low
+12.58,76.61,28,125,Low,,Average
+16.77,80.61,40,55,Low,Maize,Average
+11.45,75.13,30,74,High,,No Data
+17.64,77.11,,52,High,Barley,No Data
+17.91,84.53,31,19,Low,Maize,Average
+12.73,83.36,31,118,High,Barley,Low
+14.26,81.57,25,,Low,,High
+13.38,75.16,,137,Low,Peas,Low
+11.16,79.01,31,68,High,,Low
+16.28,83.74,,118,Medium,Barley,Average
+12.92,81.74,38,150,High,Wheat,High
+14.47,82.46,,,Medium,Groundnut,No Data
+18.09,82.37,29,37,Low,Peas,Average
+13.21,84.56,,114,Low,Peas,Average
+14.15,81.09,40,43,Low,Maize,Average
+14.73,76.21,27,67,Low,Barley,Average
+14.8,76.95,29,,High,Cotton,Low
+10.3,81.57,26,18,Low,Wheat,Low
+16.23,76.73,,118,Medium,Groundnut,No Data
+11.29,77.99,32,140,Medium,Wheat,Low
+13.91,80.71,35,,Medium,Barley,High
+10.54,83.66,30,,Medium,None,No Data
+15.88,81.42,28,86,Low,Rice,Low
+16.99,78.1,39,,Medium,Cotton,Low
+12.23,81.27,27,22,Low,Barley,Average
+10.03,75.86,27,136,High,Rice,Low
+17.6,75.46,39,79,High,Peas,Average
+13.95,76.55,,,High,Maize,No Data
+12.75,75.62,30,87,High,Groundnut,Low
+18.56,81.3,38,,High,Groundnut,High
+16.02,76.36,36,127,Low,Groundnut,No Data
+14.6,76.02,34,56,Low,,High
+10.41,84.25,30,16,Low,Barley,No Data
+14.43,75.77,,6,High,Cotton,High
+19.32,82.18,34,,Medium,Wheat,High
+16.25,82.37,39,,Low,Cotton,Low
+12.85,83.03,32,55,High,Wheat,Low
+11.22,84.27,28,,Low,Peas,Average
+10.77,84.6,30,50,High,Peas,No Data
+11.54,75.62,,27,High,Groundnut,High
+10.61,77.74,,,High,None,No Data
+11.39,81.86,,16,High,Rice,Low
+13.85,79.46,,6,High,,High
+14.71,79.22,36,,Medium,,No Data
+10.18,84.23,36,130,Low,Rice,Low
+15.07,76.61,29,101,High,Peas,No Data
+16.35,81.12,28,44,Medium,Wheat,Low
+17.36,80,29,32,Medium,,Low
+15.28,77.07,37,37,Low,Groundnut,High
+12.51,82.48,30,108,Low,Groundnut,Low
+15.02,80.02,,90,Low,Peas,No Data
+15.07,81.41,37,132,High,None,No Data
+13.77,77.21,31,89,Low,,High
+15.57,82.98,28,70,Medium,Groundnut,Low
+18.75,78.86,27,66,Low,Groundnut,Average
+19.12,76.09,30,,Medium,Cotton,No Data
+19.26,80.36,33,49,Low,Barley,High
+17.89,82.24,28,,Medium,Peas,High
+16.98,78.45,34,,Medium,Maize,High
+19.49,81.96,26,123,Low,Barley,Average
+13.73,81.06,40,140,High,Maize,Average
+14.38,76.38,28,20,Medium,None,High
+19.28,81.22,,83,Medium,Wheat,Low
+14.59,83.57,31,103,High,Maize,No Data
+18.26,75.52,37,,Low,Peas,Low
+15.51,82.05,31,4,Medium,Barley,Average
+10.79,75.16,36,55,High,Barley,Low
+19.25,78.11,38,,Medium,,No Data
+19.99,84.31,34,40,High,,No Data
+19.34,79.02,38,136,Low,None,No Data
+13.23,75.29,,38,Medium,Maize,No Data
+19.3,78.76,,83,High,,Low
+13.57,81.35,,,Medium,Maize,High
+12.01,76,39,,High,Barley,High
+19,77.77,38,116,Medium,Peas,Average
+10.21,75.91,38,110,Low,None,Low
+13.56,80.55,,43,High,None,High
+19.5,81,38,0,Low,Barley,Low
+17.29,82.45,35,22,Low,Barley,High
+11.04,84.95,,78,High,None,High
+17.13,79.56,29,95,Medium,Cotton,Average
+14.56,80.74,28,10,Medium,Wheat,Average
+19.33,77.88,,133,High,Maize,Average
+19.55,82.15,,8,High,Maize,High
+18.98,80.81,,2,Low,Wheat,Low
+13.8,83.41,,18,Low,Maize,No Data
+14.39,79.15,35,,Low,Barley,Low
+14.02,78.64,34,135,Low,Wheat,Low
+14.65,76.24,25,135,High,Peas,High
+13.65,79.6,25,147,Medium,Groundnut,High
+17.6,76.22,29,,Low,Barley,Low
+16.5,79.22,,126,High,Rice,Average
+19.05,81.29,33,51,High,Barley,No Data
+11.27,76.65,37,,High,Peas,No Data
+14.01,83.13,39,7,Medium,None,High
+15.23,84.23,,78,Low,,High
+12.1,82.91,31,111,High,,No Data
+17.91,78.08,29,,Medium,Wheat,High
+16.11,79.04,35,,Medium,Peas,Average
+18.11,76.99,,93,Medium,Peas,Low
+12.51,80.02,,28,Low,,No Data
+13.45,77.5,35,101,Medium,Peas,No Data
+10.65,81.35,,20,High,Peas,No Data
+13.65,75.87,25,2,Medium,Maize,Average
+13.68,75.41,35,137,Medium,Barley,High
+18.26,81.52,,135,Low,,No Data
+11.81,75.77,33,,High,Groundnut,Low
+11.11,75.35,27,46,High,Peas,High
+15.01,78.57,38,6,Low,Wheat,Average
+13.28,80.13,32,4,High,Groundnut,Average
+18.45,81.88,40,0,Low,Wheat,No Data
+14.04,77.63,32,,Medium,Rice,Average
+18.65,84.97,25,,High,Cotton,High
+18.42,76.6,,42,Low,Rice,High
+16.06,78.49,30,36,Low,Cotton,High
+11.82,76.07,31,57,Medium,Groundnut,High
+14.54,79.22,25,,Low,Peas,No Data
+14.52,82.93,25,58,Low,,High
+13.43,77.6,26,78,High,Wheat,No Data
+10.57,81.77,30,82,Low,Rice,No Data
+10.61,82.88,31,,High,None,Low
+13,79.67,40,,High,Groundnut,Low
+10.9,80.99,28,31,Low,Barley,Average
+10.77,80.86,25,149,High,Peas,High
+10.67,75.8,31,37,Low,Peas,No Data
+14.31,77.03,26,,Medium,Barley,Average
+18.8,76.91,35,110,Low,Rice,Low
+10.36,82.47,34,35,Low,,Low
+10.68,75.2,,66,High,None,No Data
+12.69,75.83,26,141,Low,Wheat,Low
+10.89,81.17,,,Low,Maize,Low
+13.9,82.68,,,Low,Cotton,No Data
+15.87,80.2,36,,Low,Rice,High
+13.15,80.71,,131,High,,Low
+12.99,79.89,37,,High,Groundnut,High
+18.47,80.07,,79,Low,Rice,Low
+17.7,79.29,39,59,Low,,Low
+14.37,78.28,30,119,Medium,Peas,No Data
+18.7,75.65,30,19,High,Maize,Low
+16.22,76.99,30,62,High,Peas,No Data
+10.07,81.14,32,71,Medium,Wheat,No Data
+19.89,78.49,,51,Low,Cotton,No Data
+13.43,84.42,30,29,High,Barley,No Data
+17.79,84.53,40,69,Low,,Low
+14.63,80.86,36,46,High,Barley,High
+14.54,81.61,,,High,,No Data
+14.61,77.21,33,113,High,Cotton,Low
+16.54,76.51,39,10,Medium,,No Data
+15.36,80.7,35,31,Low,Peas,High
+14.96,76.63,33,62,Medium,,High
+16.16,80.57,,130,Medium,Rice,High
+18.13,78.3,32,,Medium,Rice,Average
+19.53,80.5,,111,Low,Maize,High
+11.74,78.53,40,133,High,,High
+11.85,78.47,33,28,Low,Wheat,Low
+14.23,76.65,40,,Medium,Rice,High
+18.68,80.17,,,Medium,Cotton,High
+18.2,84.07,32,146,Low,Peas,No Data
+14.92,83.29,32,,High,Rice,Low
+14.85,78.47,,114,High,Peas,Average
+18.73,82.54,39,126,Low,None,High
+19.45,81.18,32,131,Medium,Cotton,Average
+18.65,75.47,33,,Low,Maize,Low
+14.32,82.39,,33,High,,Low
+13.81,80.57,34,143,Medium,,Average
+15.07,79.72,37,58,Low,Barley,Low
+14.84,84.95,29,127,Medium,Maize,No Data
+11.59,76.62,39,121,High,,Low
+13.73,76.34,32,39,Medium,,Low
+10.07,77.1,33,128,Low,Barley,No Data
+11.69,82.59,27,104,Low,,High
+18.61,83.42,25,58,High,Wheat,High
+15.99,76.52,35,64,High,Groundnut,No Data
+10.38,80.86,36,15,Medium,None,Average
+14.63,80.54,36,127,Medium,Rice,No Data
+17.84,76.48,27,,Low,Barley,High
+17.36,76.87,30,17,High,,No Data
+19.86,83.47,34,28,Medium,,High
+10.22,77.42,39,,Low,,No Data
+18.66,76.21,26,41,Medium,Rice,No Data
+11.93,78.31,27,134,Low,Barley,Low
+15.14,79.66,29,77,Medium,Rice,Average
+14.46,83.03,35,98,High,Cotton,Low
+18.38,81.7,,31,High,Groundnut,Average
+10.35,77.4,38,111,High,,Average
+16.06,83.62,34,137,Low,Peas,Average
+11.09,77.06,40,7,High,Wheat,Low
+19.71,81,35,41,Low,Maize,Low
+17.52,76.57,,41,Medium,Groundnut,High
+10.98,81.61,31,146,Medium,Barley,Average
+13.99,80.4,36,150,High,Rice,Average
+14.29,82,,,Medium,Rice,Low
+18.72,82.91,,,Low,Rice,Average
+12.54,82.09,31,48,High,Cotton,High
+10.59,84.89,25,,Medium,Barley,No Data
+17.88,76.73,27,62,Medium,,Low
+13.81,78.31,25,,Low,Groundnut,High
+13.34,84.29,39,88,Low,Peas,High
+17.18,80.05,,,Low,Wheat,High
+18.05,81.64,25,104,Low,Rice,High
+19.6,77.25,35,,Low,Groundnut,High
+15.63,84.84,37,130,High,Groundnut,High
+17.41,84.42,32,,Medium,Peas,Average
+11.42,76.95,40,50,Low,Wheat,High
+17.77,84.4,27,39,High,,No Data
+17.31,79.67,,,Medium,Wheat,No Data
+13.52,82.7,37,85,Medium,None,Low
+13.82,78.79,28,69,Medium,Rice,No Data
+14.46,79.46,31,30,Low,,No Data
+13.53,83.71,37,,Low,Peas,Low
+14.92,84.62,33,,High,None,Average
+12.45,77.18,32,113,High,Maize,Low
+11.82,78.2,,47,Medium,Cotton,No Data
+13.39,78.55,32,23,Low,Rice,No Data
+19.96,83.01,26,8,Low,Peas,Average
+17.61,76.59,,62,Medium,Wheat,Low
+14.15,80.68,,,Low,Groundnut,Low
+11.28,79.32,30,143,High,Wheat,Low
+17.11,83.51,25,69,Low,Rice,Low
+10.68,83.07,,102,High,,High
+11.57,84.3,,135,High,Cotton,High
+18.69,76.24,32,,Medium,Wheat,No Data
+10.22,83.66,33,,High,None,No Data
+12.97,81.11,27,74,Low,Maize,No Data
+15.88,80.69,35,85,Medium,Wheat,Average
+16.64,76.64,,61,High,Peas,No Data
+18.38,80.9,,115,Low,Maize,Low
+11.03,75.11,32,,High,Rice,Average
+14.07,77.96,30,99,Low,Wheat,High
+14.62,75.85,37,62,Medium,Cotton,High
+15.9,83.37,,134,High,Barley,No Data
+17.31,84.44,33,58,High,Groundnut,No Data
+19.29,75.77,30,112,High,Rice,Average
+11.47,83.28,40,119,High,Maize,High
+15.71,83.33,40,119,High,Maize,No Data
+12.1,80.37,27,,Low,Cotton,Low
+17.3,83.01,32,148,High,Cotton,Average
+11.21,78.9,34,139,Medium,Barley,No Data
+15.17,78.58,36,,Low,Rice,High
+13.71,81.75,,124,Low,,Low
+14.75,76.49,28,69,High,Maize,Low
+17.45,81.82,36,39,Low,Peas,High
+13.09,75.29,34,,Low,,No Data
+16.66,75.09,38,86,Medium,None,No Data
+19.86,84.3,26,145,High,,Average
+14.08,80.78,36,128,High,Groundnut,Low
+17.12,82.06,38,97,High,Peas,No Data
+16.41,83.82,28,112,High,Barley,Low
+17.65,80.25,35,56,Low,Peas,High
+13.6,79.45,25,58,Medium,Groundnut,High
+13.62,83.67,31,30,Medium,,Average
+16.38,84.72,39,43,High,Barley,No Data
+15.11,80.6,38,,Medium,Peas,Low
+11.35,82.4,,36,Medium,Barley,High
+17.57,80.14,25,11,High,Peas,No Data
+10.23,77.36,30,,Low,,Average
+16.94,83.23,40,30,Medium,Cotton,High
+10.71,76.66,40,139,Medium,Groundnut,No Data
+10.39,83.01,34,107,High,None,Average
+17.56,79.23,30,46,High,,No Data
+12.35,84.11,39,111,High,Maize,High
+16.31,76.62,,103,Medium,Maize,No Data
+19.35,82.76,26,39,High,None,Low
+12.47,76.4,34,113,Low,Barley,Average
+19.92,78.02,30,47,High,Maize,Average
+11.3,77.08,,37,High,Cotton,Average
+11.97,76.54,31,35,High,Maize,Low
+10.46,78.54,,92,High,Cotton,Average
+12,79.68,,43,Low,Wheat,Average
+15.44,78.03,28,145,Medium,,Low
+14.09,84.54,39,114,Medium,,Average
+15.53,82.32,32,,Low,Cotton,Low
+10,78.32,36,144,Medium,Maize,No Data
+18.77,80.83,29,38,Low,,Average
+12.15,76.58,,90,Medium,None,Low
+15.14,79.82,27,71,High,None,No Data
+16.49,81.96,26,13,Low,Maize,High
+19.76,77.44,26,61,Medium,None,High
+11.24,75.74,35,144,Medium,Cotton,Low
+13.84,78.28,38,108,Medium,None,Low
+13.15,75.73,40,112,Medium,Cotton,High
+19.99,83.89,30,,Low,None,Low
+14.95,76.61,37,46,High,Barley,Average
+18.53,81.85,,,High,Rice,High
+16.72,82.07,26,55,High,Groundnut,Average
+17.55,76.9,36,144,Low,Barley,High
+15.79,77.42,25,,Low,Maize,Low
+12.37,75.95,28,75,High,,Low
+10.76,75.08,39,40,High,,Low
+12.89,75.71,38,27,Medium,Peas,Average
+17.89,79.08,38,91,Low,,High
+13.19,84.02,34,122,High,,Low
+14.88,75.36,39,30,High,Maize,High
+13.88,77.32,37,13,Low,Maize,Average
+12.53,83.68,29,35,High,Cotton,High
+13.45,79.48,36,,Low,Rice,High
+19.1,82.93,25,66,Medium,Wheat,High
+18.32,83.18,33,47,Low,None,Average
+18.25,84.8,32,,Low,Wheat,Low
+10.22,76.99,,94,Medium,Groundnut,Low
+16.57,82.97,28,69,Low,Wheat,Low
+17.22,83.78,32,68,High,Groundnut,No Data
+18.16,82.1,33,146,Low,Wheat,High
+18.66,80.75,27,73,Medium,Maize,No Data
+11.4,81.98,,60,Medium,Cotton,No Data
+10.1,78.54,40,,High,None,High
+18.49,76.28,35,105,Low,Rice,Average
+18.97,78.61,27,26,Medium,Wheat,Average
+12.84,81.67,33,124,Low,,Average
+12.17,76.43,40,58,Low,None,Average
+16.76,84.98,,125,High,None,High
+12.77,77.07,32,136,High,,High
+13.17,83.54,32,8,Medium,None,No Data
+13.56,77.46,32,,High,Peas,Low
+13.73,77.26,32,,Medium,Maize,Average
+16.83,78.08,39,34,Low,Groundnut,High
+11.68,82.28,30,69,High,,Average
+10.02,84.38,29,76,Medium,Wheat,No Data
+18.77,76.63,37,75,Low,Groundnut,High
+10.2,80.43,33,79,Medium,None,Low
+17.78,79.19,33,105,Medium,Barley,High
+10.88,75.5,38,,High,Wheat,High
+14.94,76.14,40,20,High,Wheat,Average
+12.47,76.34,32,114,Low,Rice,Average
+15.73,78.91,30,59,Medium,None,Low
+18.88,80.21,31,104,Medium,Wheat,High
+10.32,79.21,39,115,High,Maize,Average
+19.56,81.78,36,23,Medium,,Average
+12.11,81.58,39,113,Medium,Barley,Average
+11.22,83.23,35,122,Low,Cotton,High
+19.89,80.42,35,,Medium,Groundnut,Low
+11.76,80.2,34,26,Medium,Peas,No Data
+13.41,76.37,29,21,Low,Maize,No Data
+17.84,78.47,25,41,Medium,Wheat,Low
+15.12,80.33,,84,Low,Cotton,No Data
+11.75,76.36,38,2,Medium,None,No Data
+19.86,77.98,32,,Low,Maize,Low
+18.26,83.52,,,High,,Average
+11.75,82.88,25,20,Medium,Barley,Average
+17.54,78.09,34,,Low,Groundnut,Low
+11.31,80.35,36,45,Medium,Rice,Low
+12.06,76.22,40,,Medium,Wheat,Low
+14.32,79.6,25,34,Medium,Barley,Low
+13.21,78.91,40,100,Medium,Groundnut,Low
+13.7,84.93,39,125,Low,Cotton,High
+15.43,78.76,40,53,Medium,Peas,Low
+14.01,80.89,27,107,Medium,Groundnut,Low
+15.28,80.54,29,72,Medium,Rice,No Data
+13.13,76.47,36,,High,Cotton,Low
+13.92,84,,26,High,Rice,No Data
+11.26,79.94,35,16,Low,Cotton,Low
+18.81,77.02,,,Medium,Cotton,Average
+12.45,77.46,,26,Medium,Maize,High
+19.14,75.7,28,147,Low,Groundnut,Average
+19.97,81.83,25,107,Medium,Groundnut,Average
+16.27,78.72,30,43,High,Cotton,Average
+15.99,81.42,32,84,High,Peas,Low
+14.57,77.4,,101,Medium,,Average
+11.05,78.66,31,74,High,,Average
+19.9,81.81,30,30,Low,Groundnut,Low
+11.5,81.8,34,113,Low,Cotton,Average
+11,77.15,31,118,Medium,Wheat,Average
+19.87,79.68,,29,Medium,Cotton,No Data
+15.24,80.57,37,107,Low,Groundnut,High
+17.25,84.81,28,100,Medium,,Average
+11.17,77.54,29,58,High,Groundnut,High
+17.85,83.51,,149,Low,,No Data
+10.4,75.01,29,,Low,Rice,No Data
+17.1,76.77,32,,Medium,Maize,Low
+11.55,78.53,,116,Medium,,High
+16.3,83.93,39,17,High,Wheat,Average
+17.47,84.72,33,106,Medium,Rice,No Data
+16.73,81.98,35,64,High,Peas,Low
+12.23,84.4,31,,High,Peas,Average
+14.46,75.5,27,,Low,,No Data
+19.48,80.55,,76,Low,Peas,High
+10.98,78.15,25,106,Medium,Maize,No Data
+13.85,83,29,38,Low,Barley,Average
+10.94,84.1,39,83,Medium,Wheat,No Data
+12.91,81.37,38,109,Low,Peas,Low
+16.91,80.73,26,46,Medium,,Low
+13.76,81.37,26,130,Low,,Average
+12.73,78.08,37,43,Low,Peas,High
+15.25,75.67,30,,Medium,Barley,High
+17.55,81.79,25,79,Medium,Barley,Low
+18.61,84.65,25,,Medium,,Average
+13.28,76.43,38,58,High,,High
+19.71,81.87,28,,High,Wheat,Low
+18.06,80.22,,88,Low,None,High
+10.54,76.18,34,29,Medium,,No Data
+17.05,78.55,25,102,Low,Barley,High
+13.26,79.23,37,6,High,,No Data
+17.73,77.03,32,,Low,Groundnut,Low
+14.87,76.23,,,Medium,Maize,No Data
+15.85,79.79,39,,Low,,High
+16.08,81.15,40,75,Low,Peas,High
+10.14,76.11,30,21,High,,No Data
+19.55,76.8,26,,Medium,Rice,Average
+12.3,79.03,33,107,Low,Maize,No Data
+13.14,80.98,35,150,Low,Peas,No Data
+13.61,79.13,31,107,High,Barley,Average
+11.66,76.25,34,59,Low,Wheat,High
+19.41,75.29,36,38,Low,Groundnut,Low
+17.69,81.72,,,Medium,Wheat,Low
+19.66,81.42,40,135,Low,Maize,No Data
+16.79,82.82,28,41,Low,Maize,High
+19.32,84.09,,30,Low,Cotton,Low
+10.17,80.19,40,124,High,Peas,High
+15.58,75.85,37,147,Medium,Cotton,No Data
+10.31,77.75,36,138,Medium,Peas,No Data
+11.1,79.85,35,134,Medium,Rice,Low
+19.83,82.04,25,100,High,None,High
+19.36,75.37,34,29,Medium,,Low
+18.44,83.9,35,71,High,Groundnut,Low
+19.72,81.96,28,66,Low,Maize,Average
+10.8,80.91,26,109,Low,,Low
+14.62,78.34,,57,Low,Maize,Average
+15.32,82.94,35,,Medium,Maize,High
+16.65,78.17,40,85,High,None,No Data
+19.79,79.21,40,0,High,Groundnut,Average
+10.29,76.36,36,143,Medium,Wheat,Average
+16.28,81.54,30,44,Medium,Maize,Average
+12.78,81.99,,,Low,Peas,High
+14.68,82.16,40,131,High,None,No Data
+17.35,84.89,,134,Low,Barley,High
+13.59,81.68,31,79,Low,None,No Data
+17.72,83.94,29,24,High,Wheat,Low
+13.31,80.31,,74,Medium,Barley,Low
+15.79,81.8,,133,Medium,Maize,Low
+13.41,76.61,32,94,Low,,High
+15.67,81.43,31,60,Medium,Rice,Low
+17.22,76.04,30,20,Low,Barley,No Data
+19.94,76.32,,96,Medium,None,No Data
+19.27,83.37,30,89,Low,Barley,No Data
+17.36,79.16,,120,Low,,Average
+17.11,78.66,31,103,Medium,Groundnut,Average
+17.4,82.58,26,126,Low,None,Average
+11.69,81.7,31,150,Medium,None,Average
+13.77,83.45,,91,High,,High
+16.2,81.54,32,119,High,Groundnut,Average
+18.28,75.46,34,71,High,Groundnut,High
+10.51,75.53,25,40,Low,None,Average
+17.38,77.34,28,,High,Maize,No Data
+12.45,77.71,36,,Medium,Groundnut,Average
+14.02,82.73,31,122,High,,Average
+17.68,76.74,33,,Medium,Rice,No Data
+17.76,80.09,,,Low,,Low
+17.63,84.35,28,,Low,None,No Data
+12.45,81.47,,137,Low,,Average
+14.94,76.73,27,47,High,,Low
+11.38,78.47,36,55,Medium,Peas,High
+16.45,75.84,30,5,Low,Barley,No Data
+19.85,83.84,25,109,Low,Cotton,High
+12.68,79.14,,,Low,Wheat,High
+15.99,75.09,39,16,High,Barley,No Data
+17.78,75.7,27,142,Medium,Groundnut,Average
+14.41,75.64,28,10,Medium,None,No Data
+14.02,75.73,25,62,Low,Peas,Average
+17.18,76.41,40,135,Low,Peas,No Data
+16.86,77.79,29,147,Medium,Rice,No Data
+14.31,80.37,26,118,High,Wheat,High
+16.25,78.09,29,124,Medium,Wheat,No Data
+15.15,82.63,,30,High,Barley,Low
+18.19,81.28,38,58,Low,Wheat,No Data
+13.7,84.4,29,26,High,Peas,Average
+15.01,75.9,32,,High,Groundnut,High
+10.03,80.13,,17,Medium,Barley,Average
+12.8,80.88,,12,High,Barley,Low
+13.79,75.53,32,146,Low,Cotton,High
+19.3,77.94,,,High,Barley,High
+17.07,79.14,28,45,High,Barley,No Data
+10.38,82.8,32,35,Low,Cotton,Average
+16.11,84.35,28,149,High,None,Average
+15.39,80.54,37,,High,Peas,Average
+17.91,79.59,37,84,Medium,None,No Data
+14.66,83.92,,,Low,Maize,Low
+10.12,77.74,37,14,Low,Groundnut,No Data
+14.31,81.55,33,,Low,Cotton,High
+11.86,81.36,,84,Medium,None,No Data
+11.68,77.21,,,High,Peas,Average
+13.93,83.33,,106,Low,Groundnut,No Data
+13.81,80.49,30,104,Medium,Barley,High
+19.48,76.85,31,,High,Barley,High
+12.2,83.67,29,,Medium,,Average
+15.94,83.18,28,150,Medium,,Average
+15.09,83.89,29,144,High,,High
+17.24,80.86,26,44,Low,None,Low
+14.98,84.29,26,14,Low,Groundnut,High
+11.2,80.15,34,,High,Wheat,Average
+18.29,84.55,,,High,None,No Data
+15.72,83.6,34,147,Medium,Cotton,Average
+14.46,83.1,37,,Low,Cotton,High
+10.33,79.49,34,23,High,Maize,Low
+14.16,81.15,34,106,High,,High
+12.93,79.28,29,86,High,,No Data
+15.38,75.5,,114,High,,Average
+16.47,82.72,27,38,High,None,Low
+16.38,77.42,25,29,High,Cotton,Average
+19.21,77.9,37,,Medium,Maize,High
+14.19,75.2,,,High,Peas,No Data
+13.02,77.91,37,112,Low,Peas,Average
+11.68,77.53,31,,Medium,Maize,Low
+16.49,80.9,40,73,High,Maize,Low
+19.54,76.14,,7,Low,,High
+19.92,76.07,35,,Medium,Groundnut,High
+16.33,82.06,26,31,Low,Maize,Low
+15.05,82.98,38,,Medium,Rice,Average
+13.04,76.88,37,131,Medium,Rice,High
+11.53,84.25,34,141,High,Peas,Average
+19.66,77.14,38,100,Low,Maize,No Data
+13.37,81.47,34,,Low,Cotton,Average
+19.24,82.85,,38,High,Peas,Low
+13.07,75.19,37,110,High,,High
+12.76,77.48,,84,Low,Cotton,No Data
+11.15,80.8,35,82,High,None,No Data
+18.07,84.62,36,19,Low,Barley,Average
+19.6,79.05,33,125,Low,,No Data
+11.49,76.26,25,37,High,,Low
+10.6,81.3,,150,High,Barley,Low
+15.77,80.01,35,137,Low,Wheat,Low
+10.52,80.27,40,141,High,Maize,High
+10.18,77.06,,,High,,No Data
+19.75,77.49,37,108,Medium,Wheat,Average
+12.35,81.64,32,97,Low,Wheat,Average
+11.99,80.72,39,122,Low,,High
+17.55,80.18,,64,Medium,,No Data
+11.76,77.39,29,134,High,,High
+10.17,77.72,,76,Low,Wheat,High
+11.13,80.59,,113,Low,Rice,High
+17.02,76.81,25,149,High,Groundnut,No Data
+13.3,77.14,27,139,Low,Peas,Low
+19.42,80.76,33,147,Low,Wheat,Average
+11.97,84.73,40,140,High,Cotton,High
+13.76,83.02,31,89,Low,Maize,Average
+10.02,79.65,39,44,High,None,Average
+12.58,75.84,31,90,Low,Rice,No Data
+19.69,77.54,27,47,Low,Groundnut,High
+14.18,82.84,37,6,High,,Average
+17.51,78.54,37,34,Low,Peas,High
+19.71,75.92,26,,Low,,Low
+18.41,83.17,25,36,High,Barley,Low
+18.72,77.6,,42,Medium,Peas,Average
+18.12,75.33,,,High,None,Average
+14.44,75.16,27,141,Medium,Rice,Average
+12.61,82.42,30,149,Medium,Wheat,Average
+19,75.48,39,111,Low,,Average
+10.61,80.45,28,69,High,Peas,High
+10.31,83.75,39,,Medium,Maize,Average
+18.93,80.94,,,Low,,Low
+10.47,75.54,,113,Medium,Wheat,Low
+10.56,76.45,32,6,Low,Cotton,Average
+15.87,76.56,26,87,Medium,,Average
+11.74,80.29,31,68,Medium,Barley,High
+16.23,84.13,38,48,Medium,Peas,Average
+17.15,79.04,36,,Low,Wheat,No Data
+12.65,80.5,30,116,High,Wheat,High
+10.76,81.89,40,,High,Maize,No Data
+18.48,80.49,33,65,Low,None,Low
+19.53,78.09,,34,Medium,Maize,High
+11.65,81.71,,141,High,Barley,No Data
+16.83,80.26,37,92,Low,None,Average
+14.77,77.1,28,46,Low,Groundnut,High
+16.22,78.03,,,High,Wheat,Average
+18.79,81.57,,70,High,,High
+16.29,79.05,27,6,Medium,,Low
+14.3,78.06,25,142,High,Rice,High
+11.31,78.89,35,93,High,Rice,High
+17.38,83.78,33,81,High,None,Average
+16.26,78.21,,,High,Peas,No Data
+12.72,77.83,26,107,High,Cotton,No Data
+11.52,77.53,37,117,Medium,None,Low
+11.76,76.48,29,52,Low,Barley,Average
+19.16,83.69,33,114,Low,None,High
+15.26,82.18,27,4,High,Barley,High
+10.92,79.88,32,,High,Peas,Low
+12.34,75.5,33,122,Medium,Barley,No Data
+17.21,84.78,39,,High,Peas,No Data
+14.8,80.44,37,15,Low,None,High
+15.07,82.55,40,28,Medium,Rice,Low
+11.47,76.47,27,120,High,Cotton,No Data
+12.68,79.95,34,,High,Groundnut,Average
+10.15,76.49,38,144,Low,,High
+14.34,83.73,39,114,Low,,Low
+14.59,76.48,25,,Low,Peas,High
+13.6,84.34,33,90,High,Peas,Average
+13.84,81.63,37,96,Medium,,High
+17.5,82.32,38,135,Low,Barley,High
+14.48,84.72,31,30,Low,,Average
+17.64,77.17,38,81,Low,Cotton,No Data
+15.41,78.33,,29,Low,Cotton,High
+10.5,83.06,37,61,Low,Cotton,No Data
+10.39,77.26,,122,Low,Rice,Low
+14.89,82.08,40,78,High,,High
+15.67,75.08,,,High,,Average
+11.36,77,25,20,Low,Peas,High
+18.3,83.28,32,88,Low,Groundnut,Low
+16.77,79.19,40,,High,Barley,No Data
+15.76,84.32,33,97,Medium,,Low
+16.23,75.97,,77,High,Wheat,Low
+14.75,84.04,39,72,High,Barley,No Data
+19.4,81.94,36,,High,Rice,High
+15.9,83.41,26,120,Medium,Wheat,Low
+10.98,78.42,27,,Medium,,Low
+18.84,81.26,32,19,Medium,Maize,Average
+11.37,82.78,37,27,Medium,Barley,Low
+19.6,80.53,,150,High,Rice,Average
+15.85,78.59,32,7,Low,Groundnut,Low
+11.12,77.91,29,,Low,Rice,High
+13.7,82.74,27,85,High,,No Data
+11.13,83.95,28,3,High,Rice,Average
+18.32,76.25,31,109,Low,Peas,Average
+20,79.31,36,103,Medium,Barley,No Data
+19.07,82.94,28,30,Medium,Groundnut,Average
+15.15,76.45,40,12,High,,Average
+19.55,79.14,,148,High,None,Low
+13.19,78.76,,43,Low,Groundnut,Low
+16.07,81.99,36,4,High,Maize,No Data
+12.39,79.14,39,41,Low,Maize,Average
+19.62,79.31,39,133,Low,Barley,Low
+17.53,82.99,39,87,High,None,High
+11.59,75.51,30,,Medium,,Average
+17.65,76.87,26,115,Medium,Peas,Average
+15.36,76.07,32,99,Low,Peas,Low
+14.02,81.35,29,24,Low,Cotton,Average
+12.71,78.89,,82,High,Peas,Low
+15.99,77.69,36,124,High,Barley,Low
+13.26,83.5,29,64,Medium,,No Data
+14.66,75.07,30,,Low,Peas,No Data
+15.27,84.42,,115,High,Wheat,High
+17.99,80.22,,34,Medium,Barley,High
+19.07,82.32,35,107,Low,Barley,No Data
+18.77,84.35,29,,High,Maize,Low
+19.29,76.32,,114,Low,Barley,Average
+14.22,83.31,39,47,High,Groundnut,Average
+17.97,82.67,36,87,Medium,Groundnut,No Data
+12.25,81,36,14,Low,Maize,No Data
+19.78,76.83,26,,Low,None,No Data
+14.32,79.39,39,136,Medium,Barley,High
+14.49,75.88,25,,Medium,Barley,No Data
+11.02,79.46,38,,Low,,No Data
+13.25,77.05,,67,High,Cotton,Average
+14.07,76.24,36,79,Medium,Wheat,High
+17.4,83.46,25,72,High,,High
+10.08,80.96,,110,Low,,Average
+16.96,80.9,29,46,High,Maize,No Data
+18.65,78.24,28,29,Medium,Wheat,No Data
+15.3,78.25,,,Medium,Wheat,No Data
+12.23,77.62,,45,Medium,Maize,Low
+15.37,77.46,38,68,Medium,Peas,High
+17.59,78.85,26,136,Medium,Maize,No Data
+16.34,79.89,,133,Low,,Average
+15.21,79.94,30,138,Medium,Maize,Low
+18.26,76.02,40,91,High,Barley,High
+19.11,75.76,38,59,Low,Groundnut,High
+14.93,82.62,,,Medium,Rice,Low
+17.98,78.86,29,,Medium,,Low
+12.7,78.59,33,97,Medium,Cotton,Low
+18.89,78.88,38,127,High,Maize,No Data
+12.86,78.87,28,101,Medium,,No Data
+17.44,79.36,,104,High,Barley,High
+13.76,82.81,40,56,High,Rice,Average
+11.07,80.99,28,121,Low,Peas,Average
+13.23,75.9,30,104,Low,Maize,Low
+18.4,80.12,32,133,Low,Rice,No Data
+16.77,75.73,34,145,Low,Rice,No Data
+16.35,76.76,30,,High,,High
+19.16,84.32,29,11,Low,Peas,Low
+15.16,75,,119,Medium,,No Data
+10.04,75.24,,118,Low,Maize,Low
+14.24,81.93,,,Medium,Groundnut,No Data
+11.91,78.1,36,69,Medium,,No Data
+13.93,81.47,34,33,High,Rice,High
+14.95,76.42,,75,Medium,,No Data
+18.5,77.03,30,135,Medium,Peas,Average
+15.07,81.37,35,30,High,,No Data
+11.4,76.47,,45,Low,,No Data
+19.51,78.29,30,63,High,,Low
+16.97,84.75,,71,Low,Peas,Low
+18.31,75.46,,22,Medium,Cotton,High
+10.27,83.36,,78,Medium,Groundnut,Average
+17.89,82.44,25,34,Low,,High
+10.68,80.81,32,72,Medium,Wheat,No Data
+14.31,77.79,27,43,High,Barley,Average
+10.83,75.77,,117,Medium,Cotton,Low
+17.19,83.45,,87,Low,Wheat,No Data
+19.24,82.39,26,34,High,,No Data
+15.28,75.5,40,,High,Groundnut,High
+12.05,84.45,39,120,Medium,Barley,Low
+15.02,82.03,28,16,High,,Low
+12.04,80.17,,32,Low,,No Data
+15.68,78.71,34,143,Low,Maize,Average
+18.56,80.74,35,123,Medium,Rice,No Data
+16.06,81.45,39,28,High,Barley,High
+16.33,78.61,33,,High,Barley,High
+13.39,77.3,32,116,Medium,Barley,High
+19.01,84.48,34,141,Low,Cotton,Average
+12.14,84.79,,,High,,Average
+15.72,76.35,,127,Medium,Peas,Average
+19.89,78.25,,144,Low,Barley,Average
+12.48,83.42,35,133,High,Cotton,No Data
+11.44,76.45,26,5,Medium,Maize,Low
+17.69,80.15,33,40,Low,None,No Data
+17.76,78.46,28,30,Low,Rice,High
+17.62,83.85,38,123,Low,,High
+11.82,81.17,35,67,Medium,Maize,Average
+14.61,78.2,34,131,High,Cotton,Low
+12.29,79.44,33,88,Medium,None,No Data
+12.76,81.28,33,53,Low,None,Average
+17.48,75.51,36,,High,Wheat,Average
+12,75.83,37,58,Low,Rice,High
+10.93,79.56,33,66,Low,None,Low
+14.26,81.43,37,135,Medium,Cotton,High
+14.23,77.02,27,56,Medium,,No Data
+10.72,82.26,35,,Medium,Maize,Average
+19.38,83.28,31,3,Medium,Wheat,Low
+10.87,84.32,,52,High,Rice,Low
+16.15,83.5,30,114,High,Rice,Low
+16.64,79.71,33,15,Medium,None,High
+11.02,82.64,37,,Medium,Maize,Average
+13.02,75.42,27,38,High,Maize,Average
+10.84,76.6,26,150,Low,Groundnut,No Data
+18.03,79.4,26,55,Medium,None,High
+19.25,80.83,35,142,Low,Barley,High
+18.42,78.7,38,147,Medium,Groundnut,High
+17.73,75.52,34,135,Medium,,Average
+14.29,82.23,28,,High,Wheat,Low
+15.07,79.2,37,,Low,Maize,High
+12.99,84.77,25,16,High,Peas,No Data
+16.66,81.96,,106,High,None,Low
+19.35,76.9,29,10,Low,None,No Data
+12.81,75.12,31,140,Low,Barley,High
+13.03,75.7,27,80,Low,Peas,Low
+18.77,75.84,30,126,High,,No Data
+17.51,76.97,29,52,High,,Low
+16.74,79.2,38,,Low,Barley,No Data
+16.1,80.92,,49,Medium,,High
+18.03,84.88,40,22,High,Rice,Low
+19.88,77.86,39,106,High,None,High
+13.39,76.45,33,113,Medium,Cotton,No Data
+18.24,77.81,40,97,High,Maize,Low
+17.97,75.7,36,48,Low,Rice,Average
+14.14,75.82,32,48,Medium,Wheat,Average
+18.59,76.15,28,26,Low,Peas,No Data
+15.55,82.76,34,96,Medium,,Average
+14.21,84.89,31,49,Low,Peas,Low
+10.8,84.12,27,106,Medium,,No Data
+19.89,79.76,31,58,Medium,Cotton,Low
+15.85,80.52,34,66,Medium,Groundnut,No Data
+16.24,79.83,32,139,High,Groundnut,High
+19.78,78.16,33,91,Medium,Cotton,High
+13.39,84.14,33,150,High,Maize,Average
+14.39,80.5,39,,Medium,,Average
+18.39,79.58,,73,High,Wheat,Average
+14.22,84.5,,37,High,Rice,Average
+11.08,77.09,27,102,High,Groundnut,No Data
+12.06,77.55,26,30,Low,,Average
+10.19,78.06,30,72,Medium,Maize,No Data
+14.05,83.89,33,103,High,Rice,No Data
+10.33,82.21,33,16,Medium,Wheat,Low
+14,79.57,31,37,Medium,Peas,High
+17.81,75.22,33,,Medium,Peas,High
+14.1,79.5,33,,Medium,Maize,No Data
+15.89,83.65,28,73,Medium,,Low
+16.81,81.95,28,,Low,None,No Data
+13.41,75.6,33,75,High,Barley,Average
+13.12,84.78,32,,Medium,Wheat,No Data
+10.48,82.93,31,27,Low,,Low
+12.32,81.41,26,33,Low,None,Average
+16.14,76.34,,101,Medium,,Low
+17.14,77.97,25,,Medium,,Low
+18.97,83.22,40,141,Medium,Groundnut,Average
+15.95,75.48,26,,Low,,High
+15.1,75.08,27,,Low,Wheat,No Data
+10.44,84.94,37,23,Low,Barley,Average
+11.08,78.45,40,,High,,Average
+12.01,83.44,31,,High,Rice,High
+10.9,81.79,35,3,High,Rice,Average
+10.46,78.61,26,62,High,,Average
+18.01,78.25,27,19,High,None,Average
+17.45,82.23,26,136,Medium,None,High
+15.01,76.93,25,35,High,Groundnut,Average
+14.28,84.89,,81,Medium,Barley,Low
+18.87,79.63,28,,High,Cotton,No Data
+14.23,83.15,28,,Low,None,Low
+10.28,81.53,28,13,Medium,Cotton,High
+14.4,79.5,25,,High,Barley,No Data
+13.33,80.07,26,47,Low,,No Data
+18.23,77.05,40,136,Low,Wheat,Average
+11.02,83,37,110,High,Wheat,Average
+17.19,84.05,35,,Medium,,Low
+12.86,77.4,,,Medium,,High
+17.92,81.94,36,26,Medium,Rice,Average
+18.91,83.44,40,148,Low,None,No Data
+12.34,79.88,25,150,Low,,High
+12.13,78.64,32,22,High,Wheat,No Data
+13.62,77.04,39,137,High,Cotton,Low
+16.27,84.13,27,41,Medium,Barley,No Data
+13.97,82.74,35,30,High,Cotton,Average
+13.8,82,32,23,Medium,Wheat,Average
+12.77,79.82,32,42,High,Wheat,Low
+18.16,79.7,28,34,Low,Rice,Average
+12.63,80.17,39,,Low,,No Data
+16.56,80,37,86,Medium,Maize,Low
+16.54,83.96,28,15,Low,Rice,Average
+16.77,78.12,40,139,Low,Wheat,No Data
+10.09,79.26,35,63,High,Groundnut,High
+16.66,84.73,36,106,Medium,Groundnut,Low
+16.93,75.67,26,52,Medium,Rice,Average
+11.16,79.27,28,61,High,Rice,Low
+15.29,82.64,40,100,Medium,Peas,High
+14.98,75.16,,143,Low,Barley,Average
+11.68,77.22,29,83,High,,High
+17.86,83.52,31,106,Low,Peas,High
+13.52,78.09,32,2,Low,Cotton,Average
+18.82,79.9,30,17,Medium,None,Low
+13.87,80.84,34,33,High,Maize,Low
+19.15,83.79,37,30,High,Wheat,High
+16.71,77.04,35,42,Low,,Average
+10.46,79.78,28,5,Low,Barley,Average
+15.4,76.57,31,147,Medium,Barley,Low
+19.56,80.09,,62,Medium,,Average
+10.89,80.68,33,51,Medium,,High
+16.75,83.06,,,Medium,Cotton,Low
+19.64,80.26,,35,Medium,Groundnut,No Data
+18.35,77.93,26,136,Low,,Average
+14.1,83.91,40,130,Medium,,No Data
+13.09,84.79,36,110,Medium,Cotton,No Data
+19.44,84.91,26,93,Medium,None,No Data
+19.93,77.75,38,,High,Maize,High
+16.07,76.76,30,150,Medium,None,Average
+13.15,79.92,35,80,High,Wheat,Average
+19.82,80.46,29,60,Medium,Rice,Average
+14.6,76.4,32,60,High,Barley,Low
+12.78,84.88,,79,Medium,Rice,Low
+11.22,84.25,33,77,Low,Cotton,Low
+19.25,76.26,40,112,Medium,,No Data
+15.54,79.47,35,52,Medium,Groundnut,High
+15.32,75.14,25,46,Medium,Maize,Average
+16.46,78.64,31,54,High,,Average
+18.84,80.37,33,65,Low,Barley,No Data
+13.05,83.29,36,,Low,None,High
+18.35,81.29,35,,Medium,Peas,No Data
+18.96,76.55,,,Low,,No Data
+14.47,79.76,39,107,Low,Wheat,No Data
+11.09,80.51,32,87,High,Maize,Low
+19.18,77.24,,,High,Barley,Average
+12.61,78.64,37,136,Medium,Wheat,Average
+13.82,84.11,,136,High,Wheat,High
+19.14,80.8,35,12,Medium,Cotton,No Data
+17.39,75.05,,43,High,Maize,Low
+15.9,83.35,28,96,High,,No Data
+10.5,77.67,36,42,Low,Wheat,Average
+11.45,76.72,37,66,Low,Peas,Average
+14.17,84.14,,26,Medium,Cotton,High
+12.25,82.71,36,61,Low,Barley,Low
+14.96,75.74,33,131,Medium,Maize,Low
+10.94,77.63,35,86,High,Rice,Low
+14.11,78.79,28,101,High,Cotton,No Data
+17.93,76.23,34,13,Medium,,High
+19.24,77.1,,69,Low,,Low
+14.06,81.79,31,110,High,Peas,Low
+19.83,75.35,33,113,High,,High
+13.91,79.14,40,,High,,Low
+10.84,81.66,33,64,Low,Maize,Low
+19.83,77.62,38,109,Medium,Maize,No Data
+17.93,75.57,26,71,Low,Barley,No Data
+18.32,82.96,40,50,Medium,Wheat,High
+10.43,75.28,36,86,High,Wheat,No Data
+19.52,83.86,28,,High,Wheat,No Data
+13.89,80.76,39,44,Low,Maize,No Data
+12.03,81.55,32,119,Low,Barley,No Data
+14.37,79.67,26,56,High,,Average
+10.7,76.05,38,97,Medium,Maize,Low
+19.13,80,32,11,Low,None,Average
+10.24,83.34,,49,High,Wheat,High
+17.03,81.95,32,138,High,,Low
+16.13,75.7,,100,High,None,Low
+17.85,80.09,25,88,High,None,Low
+14.26,79.18,34,49,Low,Maize,High
+11.8,83.82,40,91,Low,,High
+15.42,78.35,,20,Medium,Cotton,Low
+12.75,81.28,39,,Medium,,No Data
+16.58,77.11,38,150,High,Wheat,Low
+18.36,81.64,32,56,Medium,Rice,No Data
+10.54,79.01,30,,Low,None,High
+16.79,79.88,38,120,Medium,Cotton,High
+18.41,84.22,32,66,Low,Maize,Low
+15.95,79.26,33,145,High,Wheat,No Data
+13.53,75.24,31,,Low,None,High
+12.24,79.88,31,32,Medium,Groundnut,Low
+16.46,84.58,34,35,Low,Maize,Average
+19.67,83.1,32,142,Medium,Maize,Low
+12.44,77.09,,84,High,Groundnut,High
+17.35,76.36,,61,High,Peas,Low
+15.08,84.27,,69,High,,Average
+17.81,75.72,,65,Low,Wheat,Low
+18.66,82.23,37,37,Medium,Rice,No Data
+11.15,81.53,,79,Medium,Wheat,Average
+19.95,84.5,37,107,Medium,Barley,Average
+17.97,77.26,36,83,Low,Rice,Low
+13.68,84.74,29,133,Medium,Rice,No Data
+12.55,80.99,28,14,Medium,Peas,High
+19.05,78.06,37,122,High,Cotton,High
+19.15,76.7,25,138,Low,Barley,Average
+12.87,77.81,33,48,High,Cotton,Low
+16.97,83.77,28,35,Medium,None,Low
+15.35,77.48,39,102,Low,Peas,High
+16.99,81.2,26,,Low,None,Low
+12.08,83.83,31,136,High,Peas,Average
+16.1,82.75,38,66,Low,,High
+12.77,80.14,,105,Low,Rice,Low
+13.54,80.5,37,17,High,None,Low
+12.03,81.76,28,115,High,,Average
+12.48,81.65,38,94,Medium,Peas,Average
+13.76,80.65,27,45,Medium,Barley,High
+12.11,79.11,26,117,High,,Average
+15.28,83.13,36,,High,Cotton,High
+12.87,75.26,32,64,Low,Wheat,No Data
+15.64,77.95,37,,High,Barley,No Data
+15.89,80.27,38,136,Medium,Rice,Average
+16.43,83.54,,98,Low,Cotton,High
+17.35,81.01,27,,Medium,Maize,Average
+10.36,79.56,35,,High,None,Average
+12.26,78.5,36,70,Medium,Rice,High
+13.22,76.14,36,28,Medium,Barley,Average
+11.44,75.84,,12,Low,Groundnut,Average
+11.69,84.58,26,111,Medium,Rice,No Data
+10.78,80.81,25,122,High,Rice,No Data
+13.71,80.19,31,120,Medium,Rice,Low
+12.82,83.87,,71,High,,Average
+15.82,75.25,,124,Medium,Rice,High
+10.18,81.83,38,87,Medium,,Average
+11.79,78.44,32,84,Medium,Rice,Low
+11.02,77.6,27,46,Low,Wheat,No Data
+12.88,84,31,16,High,Barley,No Data
+18.85,79.51,39,72,Low,Barley,Low
+11.11,80.79,31,67,High,Wheat,No Data
+14.69,78.54,29,119,High,None,High
+13.94,78.99,36,148,High,Peas,Low
+13.34,75.59,36,79,Medium,None,High
+15.92,82.74,33,120,Medium,Wheat,No Data
+10.44,75.91,37,72,Medium,,High
+10.81,75.64,,16,Low,Barley,No Data
+15.95,78.68,26,109,Medium,Peas,Low
+14.46,79.33,27,97,High,Peas,Average
+12.04,79.5,31,,Medium,Peas,Average
+18.01,77.86,29,132,Low,Groundnut,Low
+10.91,84.34,25,52,High,Rice,Low
+11.32,75.99,38,40,Medium,Maize,Low
+19.22,78.55,34,66,Medium,,Average
+11.8,76.76,40,,Low,Groundnut,No Data
+10.08,84.45,,36,High,Groundnut,No Data
+16.99,84.22,,110,High,Rice,No Data
+14.72,82.87,35,78,Low,Groundnut,No Data
+11.07,80.4,,10,Low,Peas,Average
+18.79,81.46,28,,Medium,Maize,Low
+15.73,76.39,,142,High,Rice,Average
+16.38,81.15,26,99,Medium,None,High
+15.88,84.85,32,112,Low,Barley,High
+14.52,76.95,38,,High,,High
+13.91,75.99,26,113,Low,Barley,No Data
+15,80.19,25,2,Medium,Peas,High
+18.35,79,26,,Low,Rice,No Data
+13.15,81.18,,124,High,Groundnut,High
+14.17,84.42,36,129,High,Cotton,Low
+13.87,83.98,28,125,High,Cotton,No Data
+14.07,81.93,33,83,Low,None,Low
+11.87,80.33,37,,High,Cotton,Average
+19.69,79.38,,10,Medium,Peas,No Data
+14.51,76.69,38,,Medium,Groundnut,High
+11.52,79.11,30,,High,,No Data
+13.83,79.59,34,54,High,,No Data
+16.86,79.76,30,138,High,Cotton,High
+18.25,85,29,,Low,Cotton,No Data
+11.72,75.54,32,31,Medium,None,No Data
+14.88,83.88,25,127,High,,Low
+13.67,82.23,30,0,Low,Cotton,Average
+10.09,80.97,30,,Low,Barley,No Data
+18.51,78.33,29,48,High,None,No Data
+13.02,78.44,40,49,High,,High
+14.14,81.07,29,69,High,Rice,High
+19.42,82.16,35,89,Low,,High
+15.99,78.18,29,30,High,Barley,High
+18.17,77.13,40,109,Medium,Groundnut,High
+11.97,80.68,35,143,Medium,Maize,Low
+17.96,82.61,38,109,High,None,High
+11.19,80.27,27,20,High,,Low
+13.4,78.31,,,Low,,Low
+10.25,79.95,30,46,Medium,,Average
+17.3,78.95,36,140,Medium,Maize,High
+17.5,81.81,,,Medium,Barley,Low
+13.75,78.92,35,68,High,Rice,High
+15.41,81.99,29,53,Low,Rice,Low
+19.58,80.08,,80,High,None,Low
+16.38,84,27,66,Low,Cotton,Low
+11.08,77.57,27,54,Medium,Cotton,High
+15.11,84.08,,71,Low,Wheat,Low
+19.55,80.97,39,65,Low,,Average
+16.96,82.9,33,58,High,Wheat,High
+12.35,84.78,31,,Low,,No Data
+16.33,83.82,28,50,Medium,Peas,No Data
+17.28,76.14,25,1,High,Rice,Average
+18.29,75.37,33,6,Medium,Rice,Average
+11.69,83.72,,,Medium,None,Average
+19.85,82.03,25,57,Low,,Average
+14.55,77.84,29,14,Low,Peas,Average
+10.31,81.83,36,110,High,Peas,Low
+10.61,82.51,35,18,Low,Cotton,Low
+17.83,78.37,34,107,Low,Maize,Low
+12.96,79.37,40,,Medium,,No Data
+15.35,76.52,31,109,High,,High
+10.83,77.48,30,,High,Wheat,No Data
+16.67,83.4,32,15,High,Peas,Average
+17.64,77.33,37,62,High,Maize,Average
+13.44,84.09,27,105,Medium,Wheat,High
+18.09,83.81,40,27,Medium,Cotton,No Data
+17.74,78.75,29,24,Low,Groundnut,High
+14.48,78.82,33,41,Low,,No Data
+10.25,84.9,25,90,High,Rice,Average
+15.61,78,32,,Low,Rice,No Data
+15.65,75.06,,88,Low,Groundnut,No Data
+18.97,82.46,28,50,Medium,Barley,Average
+19.74,75.65,36,133,Low,,High
+17.67,76.08,29,,High,,No Data
+18.6,83.87,36,18,High,Barley,High
+11.13,77.96,39,89,High,Barley,No Data
+19.22,84.88,29,,Medium,None,No Data
+11.76,84.47,40,47,High,Cotton,No Data
+18.51,78.89,,112,Medium,Peas,Average
+10.45,83.57,37,9,High,Wheat,No Data
+14.97,79.83,29,18,High,Wheat,Average
+17.51,75.68,,,Low,Wheat,Average
+18.35,83.73,26,136,Low,Groundnut,Low
+14.35,82.69,,74,High,None,Low
+18.09,84.51,31,,High,Maize,High
+10.72,76.32,,,Low,Groundnut,No Data
+11.37,77.99,,10,Medium,Peas,High
+16.66,84.52,33,82,Low,Groundnut,No Data
+11.98,76.22,26,,Low,,Average
+12.84,80.55,27,63,High,Rice,No Data
+14.32,76.43,37,140,Low,Groundnut,No Data
+11.34,82,40,111,Medium,Rice,High
+17.01,79.52,32,96,High,Rice,Low
+15.53,81.42,,78,Low,Cotton,No Data
+11.34,84.79,27,,Medium,,No Data
+19.06,77.53,38,117,Low,Peas,Low
+14.6,78.42,38,14,Low,Maize,High
+19.66,75.19,32,35,High,None,No Data
+11.86,82.1,36,111,Medium,Groundnut,High
+12.63,75.75,31,98,Medium,Rice,High
+18.35,75.67,25,26,Medium,Maize,Low
+12.12,80.92,26,120,Low,Cotton,Low
+12.54,82.52,29,90,Low,Rice,High
+17.74,79.98,31,,Low,None,No Data
+17.07,79.13,31,,High,Peas,No Data
+15.84,76.34,27,21,Low,,Low
+10.84,82.53,29,145,Medium,Rice,Average
+14.52,76.79,29,66,Medium,Barley,Average
+12.68,81.2,37,111,High,Cotton,No Data
+19.11,83.03,35,,Medium,None,High
+19.79,77.01,36,100,Low,Groundnut,Low
+10.38,81.42,,,Medium,,Low
+10.19,79.27,32,109,Low,None,Low
+18.89,84.18,34,,Medium,Rice,No Data
+12.31,81.93,,128,Medium,Barley,High
+16.64,81.25,40,25,High,None,No Data
+16.66,78.37,34,,Low,Wheat,No Data
+17.82,81.7,,101,Medium,Wheat,High
+10.89,79.77,30,138,High,Cotton,Average
+13.74,77.69,30,149,Low,Cotton,High
+10.48,80.26,28,79,Medium,Groundnut,Average
+12.11,79.69,36,,Medium,,No Data
+17.37,78.85,,111,High,Groundnut,Low
+11.78,79.16,39,33,High,Wheat,High
+12.22,79.68,33,68,Low,Cotton,Low
+16.28,76.19,35,27,High,None,Low
+12.82,80.12,28,103,High,Rice,High
+19.11,81.46,26,13,Low,Peas,Low
+11.81,84.13,31,118,Medium,Maize,Low
+16.33,79.04,40,,High,,High
+12.87,80.91,33,6,Low,,High
+11.1,77.9,37,120,High,,Low
+10.4,75.1,,77,Low,,High
+10.13,83.23,37,19,Medium,Wheat,Average
+15.29,76.41,,60,Medium,Rice,No Data
+19.1,81.79,40,139,Medium,Rice,No Data
+19.39,79.22,30,60,High,Maize,Average
+16.34,83.19,33,69,Low,Groundnut,Average
+15.36,75.24,27,,Low,,Average
+15.88,80.25,33,98,High,Rice,Low
+13.38,83.32,29,30,High,None,High
+16.81,77.09,39,88,Low,,No Data
+10.35,79.76,,,Medium,Barley,No Data
+12.26,78.68,,,High,Peas,Average
+18.76,83.76,35,10,Medium,Rice,High
+10.43,77.42,40,86,Medium,Wheat,Average
+19.98,83.54,,87,Medium,Rice,Average
+12.59,75.98,28,,Low,Maize,Low
+14.22,81.63,37,35,Medium,,High
+17.19,81.1,,,Low,Wheat,No Data
+13.53,76.64,31,79,Medium,Maize,Low
+11.22,83.13,,3,High,Wheat,No Data
+17.78,76.31,31,139,High,Maize,Average
+18.52,81.33,,143,Medium,Groundnut,Low
+16.64,78.71,39,74,Low,Maize,Low
+18.07,81.63,26,60,High,,Average
+17.28,78.26,40,11,High,Groundnut,No Data
+10.71,81.37,26,8,Medium,Rice,Average
+17.2,83.61,40,82,Low,Barley,Average
+19.73,82.68,28,109,High,Cotton,Average
+10.12,78.05,38,126,High,,High
+18.25,80.27,,101,Low,Wheat,No Data
+12,79.29,34,6,Medium,Barley,Low
+11.72,80.34,,12,Medium,Maize,High
+10.3,82.48,38,34,Low,Wheat,Low
+17.19,76.98,,145,High,Barley,No Data
+12.5,82.38,26,125,Medium,Wheat,Low
+16.09,76.55,39,57,High,Groundnut,Average
+15.36,84.33,36,42,High,Groundnut,No Data
+12.36,77.34,30,101,Medium,Groundnut,High
+19.45,80.81,35,2,High,Peas,Low
+12.36,76.69,39,112,Medium,Maize,Low
+19.14,82.07,35,99,Medium,Peas,Low
+13.12,78.24,,,Medium,Groundnut,No Data
+17.43,81.74,33,85,Low,Cotton,No Data
+14.86,78.06,25,123,High,Peas,Low
+17.98,84.77,33,26,Medium,Barley,No Data
+12.21,81.23,36,79,High,Cotton,High
+12.08,78.83,,110,High,Rice,Low
+12.63,77.14,30,64,Low,Groundnut,Average
+16.65,82.42,,136,High,None,Average
+10.87,84.56,39,93,Low,Cotton,Low
+15.27,84.27,33,21,Low,Cotton,No Data
+12.26,78.15,31,27,High,Cotton,Low
+12.88,83.17,40,58,Low,,Average
+18.11,75.82,,,High,Wheat,No Data
+11.45,76.16,35,10,Medium,,High
+16.27,77.67,30,82,Low,Maize,Low
+13.79,75.76,31,125,Medium,None,Low
+19.54,81.34,34,115,Medium,,High
+15.83,75.36,34,98,Medium,Wheat,No Data
+11.77,80.7,39,83,Low,Cotton,Average
+11.89,77.49,36,,High,Rice,High
+14.69,81.01,40,143,Medium,Barley,High
+18.29,78.26,38,,High,Peas,No Data
+12.46,76.87,27,,High,Cotton,Average
+10.47,75.23,35,65,Medium,Peas,No Data
+12.34,84.53,31,43,High,Rice,Low
+11.54,75.3,40,20,High,Wheat,High
+10.86,79.29,34,,High,Maize,No Data
+18.47,84.78,38,,Medium,Maize,No Data
+15.6,81.44,25,72,Low,,No Data
+14.98,77.17,26,140,Medium,,Average
+19.06,76.77,35,19,High,Cotton,Average
+15.31,77.43,31,10,Medium,Peas,High
+13.66,76.02,34,43,Low,Maize,Average
+11.1,84.89,27,41,High,Maize,Low
+17.88,79.45,36,26,Low,Cotton,No Data
+14.75,76.33,32,24,Medium,,Low
+13.2,77.32,27,33,High,None,Average
+16.79,82.84,29,,Medium,Rice,Low
+17.5,80.84,39,24,Medium,Cotton,Low
+12.99,77.24,38,29,Medium,Rice,High
+19.15,80.85,,15,Medium,Wheat,Average
+17.17,82.36,32,,Low,Barley,Average
+14.86,77.63,36,14,Medium,,High
+12.8,80.04,28,66,High,Cotton,Low
+16.95,79.81,34,76,Medium,Barley,No Data
+14.58,78.96,35,56,Low,Cotton,No Data
+11.22,75.82,29,24,High,Peas,Low
+11.96,77.06,40,37,Medium,Maize,Average
+10.36,81.93,36,69,Low,Rice,Average
+15.11,77.38,26,10,Medium,Maize,Average
+14.13,84.89,27,10,High,Cotton,Average
+17.36,77.09,25,3,Medium,Cotton,Low
+15.88,83.48,29,143,Medium,Cotton,Low
+10.66,78.46,31,118,High,,High
+11.71,78.42,35,15,Low,Maize,High
+18.5,82.75,36,115,Low,,No Data
+18.93,75.12,31,95,High,Wheat,Low
+16.41,78.67,39,,Medium,Groundnut,Average
+14.3,76.54,,11,Medium,Peas,No Data
+19.13,75.92,29,134,Low,Peas,No Data
+12.46,76.91,27,55,Low,Peas,Low
+18.57,75.86,35,6,High,Groundnut,No Data
+16.86,82.36,28,,Medium,None,No Data
+13.08,80.99,32,38,High,Groundnut,High
+12.75,84.51,28,43,Medium,,No Data
+18.01,79.29,29,110,Medium,Wheat,High
+13.7,76.15,35,,High,Peas,Average
+14.59,77.14,,96,High,Barley,High
+18.82,76.73,38,64,High,Wheat,Average
+17.27,78.64,38,139,Low,Wheat,High
+16.15,78.71,,66,High,,Average
+17.59,83.06,35,34,Low,None,Average
+16.06,82.13,28,32,Medium,Barley,No Data
+17.54,82.16,26,12,High,Maize,Low
+16.76,83.61,37,73,High,,Average
+10.65,80.71,34,80,High,Rice,No Data
+17.65,83.53,33,60,Medium,,No Data
+11.47,79.79,,100,Low,Maize,Low
+13.94,76.95,27,144,High,Maize,Average
+14.32,78.39,34,48,Low,,Average
+13.16,81.48,27,56,High,Maize,High
+10.98,82.54,40,83,Medium,None,No Data
+16.71,84.43,35,81,Medium,Rice,No Data
+12.15,78.66,34,102,High,Rice,Average
+17.09,76.89,27,98,High,Maize,Low
+11.12,77.18,28,95,Low,Barley,High
+16.81,80.91,28,110,High,Peas,No Data
+16.39,84.09,37,36,Medium,Wheat,Low
+19.74,80.75,32,63,Low,Barley,No Data
+12.95,82.03,36,62,Low,Cotton,Low
+18.38,84.53,36,117,Low,,No Data
+17.93,75.83,34,137,High,Barley,Low
+15.69,78.52,40,86,High,Rice,Average
+18.75,77.39,34,,Low,,No Data
+16.48,83.48,,,Medium,Groundnut,No Data
+14.45,76.73,39,,Low,Rice,High
+18.8,76.61,40,148,Medium,Peas,Low
+16.53,82.51,37,45,High,Cotton,Low
+18.5,76,26,1,Medium,None,Average
+17.54,83.76,25,25,High,Cotton,High
+11.6,77.19,,124,High,Maize,High
+15.03,81.56,32,17,High,None,Low
+16.02,81.12,40,24,High,,No Data
+14.92,83.14,31,,Medium,,High
+15.51,80.98,35,105,Medium,Peas,Average
+10.92,83.37,26,114,High,,High
+14.86,77.75,,137,Medium,Cotton,High
+17.22,75.38,40,93,Medium,,No Data
+12.95,79.8,38,134,High,Cotton,Average
+13.33,84.56,25,68,Low,Groundnut,Low
+13.92,82.55,25,61,Low,Barley,High
+18.7,80.14,27,16,Medium,Wheat,Low
+13.74,76.85,29,144,Low,Barley,No Data
+12.48,78.08,,62,Low,,High
+19.4,78.59,31,13,Medium,None,No Data
+16.69,76.34,,,High,Wheat,Low
+19.71,84.5,26,138,High,Wheat,Low
+16.36,83.47,37,108,High,Rice,No Data
+14.89,79.83,26,90,Medium,Maize,No Data
+14.31,77.55,29,96,Low,Groundnut,Average
+18.03,81.11,29,108,High,Rice,No Data
+19.49,82.81,,24,High,Cotton,High
+12.67,84.86,38,65,High,Maize,No Data
+10.57,80.41,34,65,Low,Rice,High
+17.44,79.48,,134,Low,Groundnut,Average
+16.6,79.5,27,,Low,Groundnut,High
+11.15,83.25,29,48,High,Peas,High
+13.78,83.66,32,141,Low,Barley,Low
+18.34,79.05,33,,High,None,High
+18.95,76.6,32,98,High,Cotton,Average
+12.15,82.31,28,53,High,Peas,Average
+12.92,82.53,,86,Medium,None,No Data
+12.6,77.82,,81,High,None,High
+19.48,82.97,39,48,Low,Cotton,Average
+15.1,81.73,30,128,Medium,Wheat,Low
+11.48,83.34,29,126,Low,Maize,No Data
+16.96,80.95,35,,Medium,Groundnut,High
+18.17,79.68,36,64,High,Peas,Low
+15.3,80,29,,Low,Barley,Low
+10.37,75.64,,,Low,Wheat,No Data
+12.81,84.24,,,High,,No Data
+19.82,81.08,31,,High,Peas,No Data
+11.39,77.07,27,34,Medium,None,Low
+15.63,78.71,29,49,High,Maize,High
+12.81,84.6,,102,Medium,Rice,Average
+11.85,75,35,102,Low,Groundnut,Low
+13.29,79.62,28,,Medium,Peas,Average
+18.73,83.11,32,,Medium,Peas,High
+14.02,81.33,31,,Low,Barley,High
+18.61,79.57,37,33,Medium,Rice,Low
+18.76,81.2,,34,Low,,Low
+11.85,83.93,35,76,Medium,Cotton,No Data
+13.1,78.32,28,117,High,Groundnut,Average
+16.29,75.42,29,140,Medium,Maize,High
+10.3,80.7,25,28,Medium,Peas,Low
+13.85,75.4,,97,Medium,Rice,High
+11.42,76.42,35,,Medium,Groundnut,Average
+11.12,79.17,28,44,High,Rice,High
+18.7,81.6,26,4,Low,Cotton,Average
+13.79,82.42,38,,Medium,Cotton,High
+16.7,81.71,26,,High,Barley,Average
+14.82,75.08,,,High,Wheat,No Data
+15.22,77.05,38,21,Medium,Maize,High
+18.14,77.57,28,,High,Maize,No Data
+10.09,78.62,37,12,High,Groundnut,Low
+18.68,79.1,,,High,Maize,Low
+13.13,83.85,37,131,High,Wheat,Low
+12.67,80.08,33,90,Medium,Wheat,Low
+18.87,79.27,,6,Low,Groundnut,Low
+19.9,77.75,35,38,High,Peas,Low
+10.35,76.73,,95,Low,None,High
+13.27,75.09,37,48,High,Groundnut,High
+13.65,78.09,37,25,Medium,Cotton,Low
+14.63,81,,3,Low,Groundnut,Low
+19.08,83.74,37,12,Medium,Barley,No Data
+18.64,83.8,32,44,Medium,Groundnut,Low
+11.31,79,38,,High,,No Data
+12.5,84.86,31,97,Low,Barley,Low
+15.75,83.05,36,107,Low,,Average
+16.42,84.94,32,26,High,,No Data
+19.63,81.62,35,,High,Rice,Low
+19.22,82.35,39,149,High,Groundnut,Low
+11.9,77.62,,142,High,Peas,Average
+19.28,77.68,36,138,Low,Groundnut,Average
+19.99,77.16,26,117,High,Cotton,Low
+11.41,79.17,,91,High,Groundnut,Low
+14.77,77.41,26,,High,Cotton,Low
+17.75,76.47,,82,Low,,Low
+12.07,80.89,33,138,Medium,None,No Data
+16.84,82.08,38,38,High,Barley,Average
+14.68,79.13,38,78,Medium,,High
+17.06,79.31,28,144,Medium,Groundnut,Low
+10.59,77.14,34,,Low,None,No Data
+17.48,83.78,28,,Medium,Maize,High
+12.93,75,34,148,Medium,Peas,No Data
+16.07,77.42,32,108,Medium,Groundnut,Low
+11,78.62,,17,Medium,Maize,Average
+13.44,79.45,31,,High,Peas,Low
+10.11,83.18,27,31,High,,No Data
+17.14,84.04,27,,Medium,Wheat,No Data
+12.54,83.01,31,24,Low,,Average
+14.36,83.33,33,126,High,Wheat,Average
+17.95,84.95,27,,Medium,Groundnut,Low
+17.15,78.8,37,0,Low,Barley,High
+13.05,77.49,,137,High,,High
+15.68,84.37,38,62,High,,No Data
+16.84,84.42,33,124,Low,Cotton,Average
+17.64,77.84,34,3,Medium,Barley,High
+19.75,76.83,32,34,Low,None,No Data
+15.36,75.14,34,51,Medium,,Low
+11.02,82.61,40,137,High,Cotton,Average
+12.03,78.34,37,96,Medium,,Average
+12.06,76.55,40,26,Medium,Groundnut,Average
+18.3,84.88,36,142,Low,Cotton,Low
+15.34,78.76,29,25,Low,Barley,No Data
+17.79,79.96,,,High,None,Average
+15.36,79.89,,,Medium,Rice,High
+12.69,80.94,33,117,Low,,No Data
+11.91,82.33,,,High,None,Low
+17.68,83.61,35,69,Medium,None,Average
+15.42,75.71,27,,Low,Wheat,No Data
+11.98,83.69,34,121,High,None,No Data
+17.31,77.98,30,87,Low,None,Low
+16.1,75.44,31,31,High,None,No Data
+12.94,78.26,,15,High,Groundnut,High
+14.03,80.46,34,57,High,Wheat,Average
+16.33,81.88,25,14,High,Cotton,Low
+16.81,82.16,32,,High,None,Average
+19.77,75.16,33,10,Low,Rice,Average
+18.76,80.07,,29,High,Rice,No Data
+14.16,77.28,,,Medium,Groundnut,No Data
+14.1,83.71,,98,High,None,Low
+16.27,78.59,,,Low,Barley,Average
+19.75,77.74,32,97,Medium,Cotton,High
+16.22,82.08,35,141,Medium,Maize,Average
+13.4,81.07,,,High,Barley,High
+19.39,84.9,38,95,High,None,Low
+18.78,83.05,,1,Low,Barley,High
+18.27,82.5,39,133,Low,,Average
+16.56,81.38,39,,Medium,Rice,No Data
+15.29,80.57,,,High,Peas,Average
+12.02,75.07,29,81,Low,None,No Data
+13.1,76.41,,101,Medium,,No Data
+16.86,83.24,39,49,Medium,,Average
+13.61,81.96,31,111,Medium,,Low
+10.37,80.83,32,142,Low,Rice,No Data
+12.58,82.47,40,,Low,Rice,High
+15.12,81.2,35,33,Medium,None,No Data
+10.69,75.13,33,37,Low,None,Low
+19.55,83.74,29,138,High,Wheat,No Data
+11.99,84.88,32,135,Low,Rice,No Data
+14.19,76.11,32,65,High,Barley,Low
+15.44,79.15,31,,Medium,Barley,Average
+10.81,82.76,28,31,High,Maize,Low
+11.8,80.13,38,,Low,Rice,High
+12.93,83.35,35,34,Low,Barley,No Data
+16.27,76.48,40,5,High,Groundnut,Low
+11.48,75.12,38,46,Medium,Rice,No Data
+18.51,81.43,32,89,High,Groundnut,Low
+11.64,75.39,32,86,High,Wheat,No Data
+13.83,78.99,,,Low,None,Low
+15.57,82.64,39,140,High,,High
+12.54,82.73,27,,Low,None,Average
+12.08,79.06,32,123,Medium,Groundnut,High
+17.51,76.7,36,38,Low,Maize,Low
+14.76,75.39,26,78,High,Cotton,Low
+11.48,79.01,38,119,High,Peas,No Data
+13.24,80.22,28,72,Low,Maize,No Data
+14.52,76.3,28,77,Medium,Cotton,No Data
+18.8,82.96,30,136,High,Rice,High
+19.04,82.4,29,150,High,Wheat,No Data
+19.98,83.96,,17,Medium,Groundnut,High
+11.47,78.88,26,33,Low,Groundnut,No Data
+12.19,83.46,,52,High,Peas,High
+19.19,80.53,35,56,Medium,Groundnut,High
+19.12,76.04,36,26,Low,Groundnut,No Data
+17.69,84.36,34,54,Low,Cotton,High
+16.73,83.49,,62,Low,None,Low
+18.51,76.67,26,66,High,Wheat,No Data
+10.73,75.71,28,24,Medium,Wheat,Average
+13.56,82.25,27,3,High,None,No Data
+10.08,79.57,39,46,Medium,,No Data
+15.3,76.23,,130,Medium,Peas,No Data
+18.11,77.78,34,74,Medium,Cotton,No Data
+18.45,75.72,28,78,High,None,Average
+11.49,75.04,40,32,High,Peas,Low
+12.18,79.69,39,,Low,Cotton,High
+16.43,77.67,27,143,Medium,Groundnut,Low
+13.72,82.76,40,30,Medium,Rice,Low
+14.29,77.68,37,131,Medium,Cotton,High
+11.56,80.16,,,Low,Peas,Average
+16.72,75.49,31,5,Low,,Average
+15.67,83.91,,131,Low,Maize,Average
+12,75.79,38,138,Medium,,Low
+13.65,83.01,39,,Medium,Maize,High
+10.18,84.09,,68,High,Wheat,High
+16.63,81.06,25,88,Low,Wheat,High
+14.14,81.37,40,120,High,Maize,High
+17.44,82.62,30,42,Low,Wheat,Average
+14.48,84.98,35,140,Medium,Wheat,Low
+17.44,80.9,34,8,High,,No Data
+14.3,80.31,29,5,Low,Rice,Average
+12.57,76.86,35,32,Low,Wheat,Low
+17.25,80.79,,132,High,Wheat,Average
+14.9,82.42,33,,Medium,Maize,Low
+19.54,79.64,33,,Medium,,No Data
+15.84,75.44,33,78,High,,No Data
+11.2,82.15,40,64,Low,Maize,Low
+16.88,84.28,28,95,Medium,None,High
+18.15,78.27,28,55,Low,Rice,No Data
+15.42,81.53,40,102,Low,Barley,No Data
+15.53,78.23,37,106,Medium,None,Average
+10.11,76.22,31,146,Medium,Peas,No Data
+15.37,83.78,38,90,Medium,Rice,No Data
+16.23,82.21,40,61,Medium,Wheat,Low
+14.37,75.85,35,58,Low,Peas,Low
+19.61,82.8,,,Low,Wheat,Average
+16.2,76.81,30,66,High,Cotton,Average
+17.36,81.93,34,76,Medium,Rice,Low
+17.14,84.7,35,,Low,None,No Data
+12.06,80.99,35,111,High,Maize,Low
+18.12,80.78,33,95,High,Barley,No Data
+18.18,75.63,39,130,High,None,High
+10.58,83.1,36,10,High,Wheat,Low
+17.43,80.04,26,76,Low,Maize,Average
+17.95,77.04,36,62,Medium,Maize,High
+17.73,78.86,35,117,High,Cotton,High
+13.05,78.12,25,145,High,None,Average
+11.57,77.16,26,,Medium,Barley,High
+12.92,79.25,,130,Medium,Maize,High
+10.4,82.03,28,78,Medium,,No Data
+17.66,84.27,,138,Low,Peas,Average
+16.95,78.36,34,54,Low,Peas,High
+15.32,83.31,37,108,Low,Cotton,No Data
+12.7,80,28,49,Medium,Cotton,No Data
+16.91,81.79,,141,High,Peas,Average
+12.31,75.95,34,,Medium,,High
+16.81,80.12,26,55,Low,Cotton,Low
+13.93,81.63,,,High,Rice,No Data
+14.64,77.34,30,63,Low,,Average
+11.04,76.88,,8,Medium,None,Average
+16.23,78.18,,,Medium,Peas,High
+17.9,81.83,37,42,High,,Average
+10.14,76.94,38,,Low,Groundnut,Low
+11.15,81.84,35,82,Medium,Groundnut,No Data
+19.91,79.11,30,,Low,,Average
+13.19,79.64,36,,Low,Peas,Average
+16.01,77.68,31,,High,,High
+19.32,84.3,29,99,High,Cotton,Low
+15.91,81.05,31,7,Medium,Barley,No Data
+13.56,77.71,37,,Low,Rice,High
+11.82,83.33,,,Medium,Peas,High
+16.85,76.49,29,29,Medium,Peas,No Data
+15.6,80.75,25,54,High,,Average
+16.92,75.3,34,134,Medium,Groundnut,No Data
+19.25,75.85,26,53,High,Groundnut,Average
+10.84,81.43,,120,Medium,Groundnut,Low
+18.4,78.99,37,,Medium,,Average
+12.47,84.49,25,,Low,Maize,Low
+12.94,75.71,37,28,Medium,Cotton,No Data
+15.89,80.83,33,101,Low,,High
+16.34,76.42,40,75,Low,None,Low
+17.43,79.56,33,,Medium,Groundnut,High
+19.15,80.67,32,11,Low,Barley,Low
+16.7,83.93,31,131,Low,Peas,High
+12.94,80.58,25,11,High,Barley,Average
+14.54,76.18,37,102,Low,,Average
+10.69,81.64,33,148,High,,No Data
+10.54,83.05,25,134,High,None,High
+19.73,84.9,26,99,Low,Groundnut,No Data
+11.57,78.18,,,Medium,,High
+18.62,77.98,36,,High,Wheat,Average
+18.39,80.54,39,,Medium,Wheat,No Data
+16.68,81.43,34,,High,Maize,Average
+11.05,83.64,,59,Medium,Cotton,Low
+18.85,83.49,,,Low,Groundnut,Average
+18.08,76.85,26,93,Medium,Cotton,Average
+18.62,75.01,30,56,Medium,Groundnut,Low
+17.58,81.6,36,51,Medium,Peas,High
+16.27,81.2,32,,Medium,Groundnut,Average
+17.25,75.39,40,50,High,,High
+12.19,82.72,29,119,Low,Maize,No Data
+11.77,80.97,,137,Low,None,No Data
+15.61,77.98,31,110,Medium,Groundnut,High
+13.1,77.78,,17,Low,Maize,Low
+11.83,78.67,31,72,Low,Wheat,Low
+19.26,76.93,,126,Low,None,High
+10.98,75.47,28,133,Medium,Wheat,High
+12.69,79.25,33,105,High,Groundnut,Low
+15.63,77.92,31,133,High,Rice,High
+15.01,76.16,30,0,Medium,Groundnut,High
+11.6,75.01,,108,Medium,Groundnut,Low
+10.04,75.02,31,139,Low,Barley,Low
+12.33,80.12,,84,Medium,,High
+12.01,76.96,25,97,High,None,High
+17.04,78.67,37,6,High,Barley,Average
+13.61,79.61,31,149,Low,Maize,Average
+19.59,80.67,,20,Low,Cotton,No Data
+18.4,79.18,32,58,Medium,Peas,High
+16.7,75.53,31,150,Low,,Low
+15.08,75.67,32,124,Low,Peas,High
+13.34,75.76,40,96,Low,Barley,No Data
+17.56,82.15,39,18,Medium,Barley,Low
+12.45,79.16,38,30,Low,Rice,No Data
+12.34,75.4,40,47,Low,Wheat,No Data
+18.62,75.23,,130,Low,Wheat,High
+10.46,76.75,28,148,Low,None,Low
+18.66,76.19,,7,Low,Wheat,Low
+18.23,79.95,33,16,Low,Peas,Low
+13.28,84.67,25,101,Low,Cotton,No Data
+16.94,81.98,27,,High,Wheat,Low
+17.77,82.53,,69,Low,Barley,Low
+19.46,76.26,40,113,High,Rice,No Data
+19.21,77.81,28,109,Low,Groundnut,Average
+11.91,84.7,37,,High,Rice,Average
+18.36,75.97,,,High,,No Data
+18.14,76.03,36,137,Low,None,Low
+14.2,84.78,32,140,Medium,,High
+15.01,78.01,25,30,Low,,No Data
+12.16,78.97,27,65,High,Cotton,Low
+19.33,75.63,27,69,Low,Cotton,Average
+13.42,76.01,39,7,Low,Peas,Low
+16.68,76.69,27,,Low,Rice,No Data
+10.2,82.57,32,26,Low,None,No Data
+18.42,82.18,36,23,Low,Cotton,No Data
+16.11,80.57,39,146,Medium,Groundnut,No Data
+14.77,75.76,29,85,Medium,Peas,No Data
+17.34,84.12,26,40,Medium,,Low
+13.04,75.27,28,,Low,Maize,Low
+17.83,82.5,25,,Low,Rice,High
+17.5,83.97,34,,High,None,High
+11.67,76.64,30,32,High,,Low
+11.35,75.6,30,69,High,Cotton,No Data
+10.43,83.3,40,100,Low,None,High
+12.15,77.69,28,75,Medium,Peas,Average
+13.23,82,37,53,High,,Low
+18.35,78.72,32,15,Medium,Wheat,Low
+17.07,84.16,37,,Low,Barley,Low
+19.05,82.9,38,,Medium,Wheat,Low
+12.84,82.51,27,16,Low,,Low
+16.09,79.28,40,117,High,Groundnut,Low
+14.54,83.47,33,125,Low,Groundnut,Average
+18.49,75.78,30,,Low,Wheat,High
+14.99,78.58,,50,High,Rice,No Data
+16.44,75,,142,Medium,,High
+12.35,81.8,,57,High,Wheat,No Data
+11.96,82.23,37,57,Low,Maize,High
+17.04,84.75,27,,High,Groundnut,Low
+18.78,78.25,35,,Medium,Barley,Low
+13.85,78.11,34,70,Low,Peas,No Data
+14.78,75.1,26,,Medium,Groundnut,High
+11.99,76.1,,83,Low,,Average
+16.56,77.59,28,,Low,,High
+16.73,81.41,27,99,Low,Cotton,No Data
+10.84,75.88,30,8,Medium,,Low
+14.81,78.55,30,4,Low,Barley,Low
+15.1,83.91,25,67,Low,Cotton,Low
+15.22,77.79,36,,Low,,Average
+11.61,83.91,29,7,High,,No Data
+11.03,75.55,,98,Low,Peas,Average
+17.63,84.67,34,63,High,Cotton,Low
+19.38,79.58,31,55,Medium,Peas,No Data
+16.08,83.08,31,150,Low,Rice,No Data
+11.05,84.86,36,150,High,,Average
+12.19,83.85,26,,Medium,,Average
+18.84,80.34,25,22,Medium,Maize,High
+13.49,82.21,29,125,Medium,,High
+17.81,78.78,36,111,Medium,,No Data
+16.79,82.16,27,58,High,Rice,Average
+10.97,80.94,25,84,Low,Cotton,No Data
+18.25,82.41,39,59,Medium,Cotton,Low
+18.86,77.47,32,77,High,,No Data
+17.35,78.56,39,45,High,Rice,Low
+13.6,75.17,30,39,Low,Barley,Low
+11.03,81.04,27,124,Low,Cotton,Average
+18.69,79.63,35,,High,Cotton,Low
+19.73,81.74,37,55,High,Peas,High
+11.66,77.43,28,93,Medium,Groundnut,Low
+13.41,77.75,37,126,Medium,,Average
+17.41,81,33,95,Low,None,No Data
+11.96,79.76,33,143,Medium,Rice,High
+10.16,75.57,40,71,High,,Average
+12.63,78.45,40,104,Medium,Maize,Low
+16.19,79.38,29,21,Medium,Rice,Low
+13.64,76.44,,90,High,,Average
+11.28,81.09,36,76,Low,Cotton,No Data
+17.45,79.61,28,110,Low,,Average
+13.72,84.52,29,,Medium,,Average
+14.54,82.45,,,Medium,Rice,Low
+12.57,84.66,32,72,High,Maize,High
+12.47,84.78,30,50,Low,,No Data
+19.68,75.18,38,1,High,Barley,Average
+18.38,80.26,,38,Low,Maize,Average
+14.64,80.8,28,38,Low,None,High
+15.59,75.14,27,55,Low,,No Data
+19.97,78.69,33,94,High,Cotton,High
+15.93,80.62,25,55,High,Maize,High
+15.7,82.55,29,117,Medium,,Low
+11.87,82.08,25,,Medium,Barley,High
+13.95,84.29,29,70,Medium,Rice,No Data
+16.62,79.03,31,,High,Rice,High
+17.43,76.95,31,105,Low,Groundnut,High
+11.68,77.87,,83,Medium,Cotton,No Data
+16.44,77.26,,146,Low,Groundnut,High
+15.52,83.26,27,,High,Groundnut,Average
+16.38,82.37,34,,Low,Rice,Low
+13.35,82.05,36,68,High,,No Data
+15.14,75.57,38,87,Low,None,Low
+13.42,77.95,38,1,Low,None,No Data
+13.55,78.9,39,110,High,Groundnut,Average
+12.07,82.14,27,148,Low,Wheat,Average
+17.96,82.97,34,142,High,,Average
+14.76,77.25,,29,Low,Barley,No Data
+18.89,80.05,39,,High,Maize,High
+16.24,81.16,27,61,High,None,Average
+15.55,82.9,25,29,Low,Rice,Low
+11.29,76.91,28,,High,,Average
+12.62,78.34,29,65,Medium,,Average
+11.43,79.33,37,50,Low,Maize,No Data
+18.09,79.32,31,71,Low,Peas,Average
+11.43,79.89,28,126,Medium,,Low
+11.44,83.77,,,High,Groundnut,Average
+16.07,80.65,32,,Medium,Maize,High
+16.08,82.62,32,87,Low,,High
+15.77,78.04,29,,High,Rice,Average
+10.98,80.02,35,,High,Wheat,High
+19.16,76.1,,26,Low,Cotton,No Data
+13.85,83.29,34,114,High,Maize,Average
+19.49,75.72,34,77,Medium,Groundnut,Low
+16.8,79.3,27,59,Low,Barley,High
+19.2,81.33,32,,Medium,,Average
+19.3,79.79,34,68,Low,Wheat,Low
+18.82,76.74,26,42,Medium,Peas,High
+16.62,75.93,,28,Low,None,Low
+10.04,76.48,34,122,High,Peas,High
+15.67,78.71,37,129,High,,High
+10.28,76.69,37,66,Low,,Average
+10.34,83.16,,26,Medium,Maize,Low
+10.24,78.93,39,146,Medium,None,High
+11.3,80.18,27,,High,Groundnut,High
+17.31,78.4,29,53,Medium,,High
+19.88,80.11,38,50,Low,,Low
+14.31,83.54,29,57,High,,No Data
+12.63,84.71,33,84,Medium,None,No Data
+16.99,78.87,25,61,Medium,,Average
+15.52,79.21,32,,Low,Wheat,Average
+15.3,78.4,29,,Medium,Peas,Average
+12.26,84.81,28,118,High,Rice,No Data
+11.8,81.24,,137,High,Peas,No Data
+14.05,84.44,,97,High,Rice,Average
+17.31,82.78,,,Medium,Rice,No Data
+19.16,82.43,,137,Low,Wheat,No Data
+11.64,79.95,33,,Low,,High
+17.99,82.01,36,21,Medium,Rice,No Data
+10.36,77.21,,143,High,Cotton,Low
+11.94,78.19,25,,Medium,Wheat,Average
+18.69,79.55,35,32,Low,Barley,No Data
+18.73,75.71,32,,High,Barley,High
+19.8,78.03,30,99,High,,No Data
+14.03,83.41,40,21,Medium,,High
+13.16,81.97,25,27,High,Wheat,High
+17.97,75.8,37,21,High,Maize,Low
+14.98,78.4,30,73,High,Cotton,Average
+17.53,80.78,37,65,High,Cotton,Low
+17.04,79.36,30,96,High,Barley,No Data
+17.05,81.95,28,,Low,Maize,Low
+15.36,77.23,34,68,Low,Groundnut,Low
+18.54,83.23,38,78,Medium,Cotton,High
+15.28,79.24,40,19,Medium,,Average
+14.43,84.23,34,44,Low,,High
+17.81,79,25,76,Medium,,High
+15.26,83.46,35,88,Medium,Rice,High
+16.91,77.34,40,,Low,Rice,No Data
+12.14,81.36,34,86,Low,,Low
+15.69,81.91,39,72,High,Barley,No Data
+18.74,77.81,,15,High,Wheat,Low
+15.21,76.13,28,38,Medium,Maize,Average
+17.29,82.72,29,,Medium,Wheat,No Data
+17.29,79.1,25,,Medium,Wheat,Average
+13.05,78.12,34,7,Low,None,High
+16.35,81.25,33,12,Low,,Low
+17.21,81.75,,112,High,Peas,High
+17.23,75.9,33,,Medium,,Average
+11.59,81.63,26,19,Medium,Cotton,Average
+17.59,81.88,28,6,High,None,High
+18.86,77.82,38,103,High,None,Low
+19.76,77.41,37,30,Low,Peas,Average
+13.34,75.65,,34,Low,,Average
+15.46,82.7,26,136,Low,Cotton,High
+16.82,80.4,,7,Low,Groundnut,Low
+14.22,76.49,34,42,Low,Rice,High
+13.54,83.12,32,41,High,Wheat,No Data
+11.63,84.88,,35,Medium,None,Average
+19.58,84.18,36,107,Medium,Maize,No Data
+13.45,76.24,38,118,Medium,Wheat,Low
+16.23,78.29,27,20,High,Maize,High
+17.27,79.56,,90,Medium,Groundnut,Low
+10.58,80.11,34,14,High,Maize,No Data
+13.51,83.01,30,134,Low,Peas,High
+12.11,78.18,34,44,Medium,Maize,No Data
+15.38,80.79,30,,Low,None,High
+15.21,83.77,34,,High,Cotton,Low
+14.51,82.16,,87,High,Groundnut,Low
+19.08,80.42,34,86,Medium,Peas,High
+18.58,83.13,27,59,Low,,No Data
+10.16,78.06,,115,Medium,Cotton,Low
+15.49,83.59,34,116,Medium,Cotton,No Data
+14.25,78.07,26,10,High,Rice,Average
+14.66,83.49,31,128,Medium,Wheat,High
+17.71,84.3,36,29,High,Rice,Low
+10.38,83.61,36,27,Low,Groundnut,Average
+13.07,75.34,36,4,Low,Barley,High
+15.93,80.28,,118,Medium,Wheat,Low
+17.69,82.03,38,,High,Cotton,No Data
+18.67,83.99,34,,High,Peas,Average
+11.06,76.58,,1,Low,Peas,Low
+13.63,76.54,,72,High,,High
+11.71,78.35,32,77,Low,None,No Data
+13.6,82.77,34,123,Medium,Maize,Average
+19.81,81.61,,131,Low,,Average
+17.25,81.2,31,42,Medium,Maize,Average
+10.11,80.99,40,11,Medium,Maize,Average
+19.83,78.14,26,64,High,Peas,No Data
+10.89,84.11,26,67,Low,Peas,High
+17.83,80.63,40,96,High,,Low
+16.58,75.73,33,101,High,Peas,Low
+19.84,81.96,25,48,Medium,Cotton,Average
+14.79,77.91,28,,Medium,Maize,No Data
+15.7,77.64,26,114,Low,None,No Data
+18.9,75.07,31,61,Medium,Barley,Low
+11.78,81.29,30,,Medium,,No Data
+12.61,82.36,29,55,Medium,,Low
+18.23,78.81,29,,Low,Barley,No Data
+18.46,84.56,38,148,Low,Barley,Average
+19.36,79.96,29,61,High,,Low
+18.97,82.48,,71,Medium,Groundnut,Average
+12.65,80.29,,,Low,Wheat,Low
+14.46,78.27,35,73,High,Wheat,Average
+12.08,79.89,,0,Medium,Rice,No Data
+11.5,80.65,35,,Low,Rice,Low
+10.26,84.42,35,5,High,Peas,High
+18.72,79.72,35,99,Medium,Peas,High
+14.1,83.08,35,24,Low,Maize,Average
+19.46,81.22,31,28,Low,None,High
+14.64,78.2,34,76,High,,High
+18.49,82.84,,,High,,No Data
+10.94,76.56,,125,Medium,Maize,High
+19.42,83.93,32,61,Medium,Maize,High
+14.54,77.19,,62,Low,Rice,Low
+12.48,83.88,27,77,High,None,High
+15.23,79.01,33,130,Medium,Rice,Average
+18.94,76.66,33,11,Low,,Average
+15.17,84.81,37,118,Medium,,No Data
+13.87,84.04,29,12,Low,None,Average
+15.34,77.41,30,,Medium,Rice,Average
+14.29,80.68,25,13,Low,Peas,No Data
+18.66,78.11,28,81,Low,Cotton,Average
+15.7,84.07,,31,Low,Rice,Average
+13.84,84.87,25,83,High,Cotton,Low
+13.83,75.77,30,19,Low,,No Data
+10.15,75.72,25,73,Medium,,Average
+15.53,82.27,34,,High,Cotton,Average
+13.6,81.11,,140,High,Groundnut,High
+11.41,84.55,,36,Medium,Wheat,Average
+19.67,75.58,,95,High,Maize,Low
+12.15,83.61,33,134,Low,None,No Data
+18.85,78.43,28,,High,None,No Data
+14.8,75.22,28,87,Medium,,No Data
+18.01,80.7,40,78,Medium,Maize,Low
+12.24,84.04,25,9,High,Peas,Average
+15.18,83.69,34,100,High,Peas,High
+14.51,84.27,31,47,Medium,Peas,Low
+19.1,82.2,35,53,High,Maize,High
+12.63,82.25,29,45,Low,Groundnut,High
+13.02,75.47,25,97,Low,Cotton,Average
+19.06,81.38,37,96,High,Rice,No Data
+16.75,78.2,29,83,Low,Wheat,Low
+15.93,82.77,,73,Low,Barley,No Data
+18.53,75.17,39,123,Medium,Groundnut,Low
+17.09,79.67,35,114,Low,Wheat,Low
+19.24,83.58,28,107,Low,Rice,Average
+16.66,75.89,,98,Low,Barley,Average
+17.82,81.76,,,Medium,Barley,High
+14.81,78.23,26,8,Medium,,No Data
+11.89,77.12,34,146,High,Cotton,Average
+16.51,80.63,34,148,Low,None,Average
+14.96,77.35,37,,Medium,Cotton,Average
+14.67,83.46,35,67,Medium,Cotton,High
+13.79,76.14,39,12,High,None,Average
+13.57,84.78,32,81,Medium,Wheat,No Data
+14.09,77.16,25,,Medium,None,High
+13.99,83.31,40,29,High,Wheat,Average
+12.16,81.25,27,26,Low,Cotton,No Data
+16.5,77.17,,143,Low,Groundnut,Low
+19.36,84.81,38,110,Low,Rice,Low
+15.33,83.95,31,13,Medium,None,Low
+11.97,80.96,28,40,Low,Maize,No Data
+16.42,76.72,25,136,Medium,None,High
+18,79.04,40,72,Low,,High
+11.99,82.5,32,79,Low,Barley,No Data
+15.71,79.38,34,140,High,Groundnut,Average
+17.95,75.03,,36,High,Wheat,Average
+10.12,83.08,34,6,High,Barley,High
+12.23,78.94,29,57,Low,Barley,Average
+14.76,81.27,,,Medium,Barley,High
+11.08,82.01,,61,Low,Barley,Average
+19.7,79.99,37,107,Medium,Wheat,No Data
+15.73,77.66,29,,Medium,Wheat,Low
+19.91,84.76,32,61,Medium,Barley,High
+17.8,83.83,,119,Low,Cotton,Low
+11.09,79.29,37,107,Medium,Wheat,No Data
+13.3,78.31,32,49,High,None,No Data
+19.58,76.29,33,36,High,Barley,No Data
+11.87,84.84,25,53,High,Cotton,No Data
+10.74,82.66,37,29,Medium,Groundnut,Low
+16.82,84.48,40,138,Low,None,No Data
+17.64,84.86,,29,Low,,Average
+16.77,83.99,,147,Medium,None,Low
+12.11,75.72,,93,Low,Wheat,Average
+13.84,75.08,32,34,Medium,Cotton,High
+13.88,84.69,,84,High,,No Data
+15.51,75.73,37,79,High,Groundnut,Average
+15.11,80.75,30,121,High,Barley,Average
+18.25,75.83,28,,Low,Rice,Low
+16.97,81.41,38,29,Low,Groundnut,High
+10.43,75.69,39,32,Medium,Peas,Low
+19.99,80.09,30,,High,None,Low
+16.17,76.88,31,86,Low,None,No Data
+12.35,78.28,29,121,Low,Groundnut,Average
+12.69,82.03,36,88,Medium,Wheat,Average
+15.69,78.24,33,118,High,Peas,Average
+17.66,83.54,33,139,Medium,Rice,Average
+11.02,83.36,28,48,High,Cotton,Low
+10.41,82.67,34,34,High,,High
+18.76,83.73,32,114,Medium,,High
+15.73,77.95,,,Medium,Barley,High
+19.72,80.71,36,62,Medium,Rice,Low
+17.07,81.24,,63,High,Cotton,No Data
+13.63,80.51,40,120,High,None,Average
+12.44,79.71,25,,High,Maize,High
+18.35,77.61,39,116,Low,,High
+19.61,81.9,35,53,Low,Rice,No Data
+10.3,80.8,,40,High,Maize,No Data
+10.89,80.31,34,97,Low,Rice,High
+18.54,77.04,32,15,Medium,,Average
+13.23,83.3,36,76,Medium,Maize,Average
+10.56,77.73,29,,Low,Barley,High
+16.69,82.23,31,121,Medium,Maize,High
+10.43,82.06,37,148,Medium,Wheat,No Data
+10.7,75.4,36,100,Low,Barley,Low
+19.92,78.46,29,99,Low,Peas,Average
+14.19,82.63,28,72,Low,Maize,No Data
+12.6,84.62,40,144,High,Cotton,Low
+18.27,80.33,40,,High,Rice,Average
+18.84,83.26,32,41,Low,Wheat,Average
+13.72,80.88,30,,High,Groundnut,High
+14.63,80.44,,,Low,,No Data
+19.04,78.27,34,106,High,None,No Data
+13.84,80.77,,80,Low,Cotton,Low
+17.25,80.64,34,93,Medium,Barley,Average
+12.06,79.69,27,59,High,Maize,High
+16.76,77.26,25,74,Medium,Barley,No Data
+18.04,84.16,,16,Medium,Maize,High
+11.36,79.16,40,98,Low,Maize,Low
+11.92,84.65,36,147,Medium,Maize,Low
+15.42,84.95,33,68,Low,Maize,No Data
+10.03,81.89,36,114,Low,,Average
+18.82,80.53,,25,Low,Wheat,Average
+11.9,77.1,28,61,Medium,Maize,No Data
+12.31,77.63,37,67,High,Wheat,High
+19.38,79.33,36,27,High,Peas,No Data
+13.77,82.55,30,56,Low,Groundnut,High
+13.48,82.42,,54,High,Cotton,High
+18.62,84.18,26,,Low,,No Data
+14.48,84.11,40,36,Medium,Cotton,Low
+10.9,81.89,38,132,Low,Peas,Low
+11.14,80.28,26,,Low,Barley,High
+16.01,78.98,,101,Low,Groundnut,Average
+17.47,84.23,35,107,High,Maize,No Data
+10.56,81.25,37,100,Low,,Low
+12.95,79.56,32,,Medium,Cotton,Low
+11.17,79.76,37,62,High,,Low
+10.46,75.15,,,Low,Rice,No Data
+10.23,80.57,,44,Medium,,High
+16.46,77.54,,96,High,Peas,Average
+10.04,82.35,36,132,High,Peas,No Data
+10.75,80.45,38,87,Low,None,High
+17.97,77.7,,141,Low,Barley,Low
+15.82,81.51,39,62,High,Rice,Average
+12.18,79.52,,40,Medium,Cotton,No Data
+16.05,75.65,,,Low,Barley,Low
+13.49,75.91,28,12,Low,Rice,No Data
+11.81,79.55,,58,High,Cotton,No Data
+16.12,81.92,39,140,Medium,None,No Data
+15.94,84.08,,84,High,,No Data
+13.68,76.21,29,,Medium,,Average
+11.93,77.72,28,93,High,Groundnut,No Data
+18.01,76.42,30,,Medium,Maize,Low
+19.35,78.61,25,131,Low,Rice,Average
+19.88,77.48,32,65,High,None,Average
+16.16,84.45,38,,Low,Barley,No Data
+14.56,82.85,36,143,High,None,No Data
+13.99,83.79,26,3,Medium,Peas,Low
+14.14,81.5,39,16,Low,,High
+18.06,84.03,36,75,High,Maize,High
+10.42,78.18,32,45,Medium,Cotton,No Data
+10.48,77.93,39,1,High,Maize,Average
+13.38,80,,,Medium,,High
+12.28,80.13,25,,High,Cotton,No Data
+15.62,83.76,38,134,Medium,Barley,Low
+18.49,75.72,26,99,Medium,,Low
+12.19,78.22,25,39,High,Wheat,No Data
+16.85,79.54,,,High,Maize,No Data
+12.58,81.28,37,33,Medium,Rice,No Data
+16.52,75.84,32,,Low,Peas,No Data
+19.83,83.97,28,145,High,,Average
+15.29,77.37,33,110,Low,,Average
+10.91,84.86,31,,High,Groundnut,Low
+17.66,75.29,,106,High,Cotton,High
+18.76,84.65,,8,Medium,,High
+18.22,83.59,37,33,Medium,Maize,No Data
+15.92,76.02,31,70,High,,Average
+16.64,81.6,38,29,Medium,,Low
+10.02,79.44,31,80,Low,Rice,Low
+12.66,84.59,,17,Low,Cotton,Average
+19.85,84.85,33,12,High,Groundnut,High
+19.42,82.47,31,,Medium,Groundnut,Low
+15.98,84.67,29,97,High,Cotton,Average
+14.61,76.59,34,104,High,Maize,No Data
+13.87,79.8,25,,Medium,None,High
+17.37,82.99,38,,High,Groundnut,Average
+19.36,81.3,36,,Medium,Maize,No Data
+15.8,78.99,29,97,High,Maize,High
+14.14,79.28,38,126,High,Rice,Average
+12.14,84.09,27,146,Low,Peas,High
+16.17,83.9,,11,High,Wheat,Low
+17.33,78.14,,106,Medium,Rice,No Data
+16.31,81.06,28,59,High,Groundnut,No Data
+10.07,81.47,27,,Low,Barley,High
+19.07,75.95,26,,Low,Wheat,High
+15.14,80.83,29,50,Low,,No Data
+10.17,75.97,,53,Medium,Wheat,High
+12.24,81.7,39,93,Low,Wheat,No Data
+11.67,80.58,28,101,Low,,Average
+13.3,83.32,,67,Low,Groundnut,Average
+10.94,76.19,40,75,Medium,Wheat,Average
+13.58,81.24,27,12,Low,Barley,High
+14.87,84.5,,11,Medium,,High
+15.38,83.51,32,125,Low,Peas,Low
+17.22,79.23,34,8,High,None,Average
+16.14,84.97,38,123,Medium,,High
+14.57,82.66,,9,High,Maize,Average
+16.8,83.54,35,,Low,Groundnut,No Data
+14.21,78.55,30,109,Medium,Wheat,Average
+15.18,75.27,40,30,High,Groundnut,No Data
+16.86,79.78,40,,High,Groundnut,Average
+17.62,81.4,40,112,Medium,Cotton,Low
+12.12,81.77,28,22,Low,Groundnut,No Data
+18.86,75.86,25,70,High,,High
+14.55,81.3,38,68,Low,Maize,High
+14.98,80.99,31,72,Low,Rice,No Data
+19.48,77.37,39,94,Low,,Average
+15.58,78.99,39,30,High,Barley,High
+19.62,80.61,28,27,Low,Rice,Average
+10.34,84.38,33,,Low,Peas,Low
+12.38,77.41,31,128,Low,Groundnut,No Data
+13.29,78.92,,109,High,Peas,Average
+14.52,80.61,,62,Medium,None,Low
+13.37,79.63,,68,High,,No Data
+11.18,81.68,31,134,Medium,None,Average
+11.86,75.2,37,53,Low,Maize,No Data
+17.8,80,31,50,Low,Peas,Average
+10.19,81.05,,36,Medium,Rice,High
+12.67,83.09,27,,Low,Rice,No Data
+12.71,80.67,39,106,Medium,,Average
+17.58,76.31,,133,High,None,High
+12.86,83.55,36,21,High,Maize,Average
+10.62,81.39,40,,Medium,Peas,No Data
+16.5,83.49,28,107,Low,Cotton,No Data
+16.35,82.98,37,50,Low,Barley,Average
+15.31,75.97,38,,High,,Average
+14.78,84.81,34,56,Medium,Maize,Low
+16.76,79.81,26,115,Medium,Cotton,Average
+12.51,80.8,,34,Medium,,Low
+16.18,75.29,27,28,Low,None,Average
+13.35,84.9,36,8,High,Groundnut,Average
+10.86,84.28,39,,Medium,Peas,High
+11.2,80.01,,105,Medium,Barley,Low
+16.36,82.18,,2,Medium,Barley,High
+15.44,75.26,28,96,Low,,High
+13.51,81.48,37,12,High,,High
+17.32,80.72,28,36,Low,Cotton,High
+11.76,82.39,38,,Medium,Wheat,Average
+13.5,77.65,39,1,High,,High
+19.7,82.1,38,,Low,Cotton,Average
+18.3,75.92,30,11,Low,Cotton,High
+16.08,76.12,27,113,Medium,Cotton,Low
+11.77,76.15,,22,Medium,,Low
+14.76,79.08,31,49,Low,,No Data
+19.09,79.38,,87,Low,None,Low
+19.76,81.95,34,127,High,,Low
+11.71,78.78,,36,Medium,Peas,Low
+18.72,79.61,,60,Low,Barley,High
+11.81,78.56,32,135,High,,Average
+18.16,78.03,27,34,Low,Maize,No Data
+16.99,78.94,26,52,Low,,No Data
+13.41,80.2,40,70,High,Rice,No Data
+15.11,79.88,31,57,High,Maize,Average
+10.22,83.32,28,135,High,Rice,Average
+11.58,79.59,32,96,Low,,High
+12.85,75.61,29,94,High,,Average
+12.29,78.88,35,126,High,Groundnut,No Data
+17.92,79.33,26,59,Medium,Peas,High
+15.21,76.09,39,110,Low,Wheat,No Data
+17.83,79.01,30,100,High,None,Low
+15.92,80.26,39,8,High,Barley,Average
+17.41,77.61,33,,High,,No Data
+11.28,77.54,,121,Medium,Wheat,Average
+12.8,76.45,29,27,High,Maize,High
+10.23,79.21,,17,Low,Maize,High
+12.42,78.7,27,,Medium,Peas,Low
+13.89,81.34,34,35,Medium,Barley,High
+15.86,75.85,30,86,Medium,None,Low
+15.38,83.74,,123,Low,Maize,No Data
+12.07,75.69,39,41,Low,Wheat,Average
+18.46,84,25,6,Medium,Peas,Average
+17.85,80.68,33,,Medium,Peas,High
+17.11,76.52,37,,Low,None,Low
+16.26,78.27,39,38,Low,Peas,Low
+14.33,80.66,32,,High,Rice,Low
+10.84,81.62,39,,Medium,None,Average
+19.53,75.01,32,65,Low,Rice,High
+19.79,78.24,29,136,Low,None,Low
+14.04,84.46,36,,High,,High
+14.55,81.96,32,121,Medium,Wheat,Low
+19.46,84.85,37,114,High,Rice,No Data
+10.77,82.5,26,,High,,High
+18.92,82.69,27,59,High,Barley,High
+10.22,80.15,27,72,Low,Barley,Average
+11.67,76.37,32,93,Low,,Average
+13.01,83.74,36,87,Medium,Maize,No Data
+18.3,82.63,28,27,High,Cotton,High
+18.25,78.88,38,123,Medium,,Low
+16.92,80.97,25,79,Medium,Peas,Low
+16.23,79.57,27,107,Low,None,No Data
+13.21,84.61,33,21,Low,Rice,High
+13.42,76.45,29,130,High,None,High
+19.69,84.11,40,18,Low,Wheat,Low
+16.1,75.72,30,93,High,Cotton,Average
+16.16,79.02,38,35,Medium,Cotton,Low
+19.14,76.82,30,69,Medium,Maize,Low
+11.37,83.59,25,2,High,Groundnut,Low
+11.49,77.15,38,,High,Rice,Average
+10.81,80.57,35,,Medium,Barley,Average
+13.86,80.79,27,40,High,Cotton,Average
+15.17,75.72,29,78,High,Cotton,High
+18.5,79.63,34,21,Medium,Cotton,Low
+18.71,79.61,35,101,High,None,Average
+11.39,75.71,39,79,High,Barley,Low
+17.06,77.18,31,,Medium,,Average
+17.7,84.46,,37,Medium,Maize,No Data
+17.75,76.83,31,46,High,Peas,High
+14.38,75.91,31,17,Low,Wheat,No Data
+14.35,84.25,,140,High,Maize,No Data
+19.19,76.64,25,149,Medium,Peas,No Data
+13.99,76.55,31,20,Medium,Maize,Average
+17.36,80.35,26,28,Low,None,Low
+10.51,78.13,37,,Medium,Barley,Low
+15.36,80.97,28,114,High,None,High
+17.43,80.24,35,77,Medium,Rice,Low
+16.1,83.37,32,,High,Maize,No Data
+14.82,77.46,25,30,Low,,No Data
+12.44,80.44,25,93,Medium,Rice,Average
+15.96,83.85,,45,Low,Cotton,Average
+13.25,77.05,28,126,Low,None,No Data
+18.59,76.27,38,102,Medium,Barley,High
+17.37,83.17,38,47,Low,Peas,Low
+15.33,78.77,37,103,Medium,,Low
+19.9,80.85,40,32,High,Barley,Average
+18.81,84.3,39,7,Low,Groundnut,High
+18.93,84.86,33,1,Low,Rice,Average
+15.69,78.29,27,6,Medium,Rice,High
+13.47,81.82,35,3,Medium,Peas,Average
+13.17,75.59,37,57,Medium,Rice,No Data
+12.13,84.73,,36,High,Rice,Average
+13.42,76.26,36,9,High,Wheat,No Data
+15.77,80.8,34,19,Low,Barley,No Data
+10.19,84.39,,22,Medium,Cotton,No Data
+12.04,84.21,27,112,High,,High
+16.32,82.33,31,75,Medium,,Low
+19.18,80.49,29,107,Medium,Barley,Low
+16.21,75.43,32,47,Medium,None,High
+17.62,83.21,29,,High,,Low
+12.1,84.32,,62,High,,High
+12.96,83.02,38,79,Low,Rice,High
+10.99,77.21,32,136,High,Peas,Low
+16.61,79.85,35,77,Low,,High
+19.89,80.58,36,93,Medium,,No Data
+12.05,83.6,39,88,High,Barley,No Data
+10.5,75.8,29,58,Medium,,Average
+15.68,77.99,37,108,Medium,Peas,High
+14.49,82.04,36,118,High,,Low
+19.93,82.05,27,11,Medium,Rice,Average
+19.18,76.08,37,25,Low,,Low
+19,81.86,38,44,High,Groundnut,Low
+15.71,80.64,35,135,Medium,Peas,High
+15.87,77.14,35,144,Low,Wheat,Low
+14.87,79.93,39,84,Low,Peas,Low
+15.5,82.91,28,8,Medium,Barley,No Data
+16.74,75.78,26,115,Low,,High
+11.02,77.65,39,106,High,,High
+13.47,76.37,39,131,Medium,Peas,Average
+17.61,82.44,40,,High,,Low
+12.06,81.94,27,,Medium,Peas,Average
+10.76,80.24,38,,High,Barley,Low
+13.18,76.68,30,,Medium,Groundnut,Average
+17.89,77.97,35,19,Medium,Peas,Low
+14.53,81.12,37,37,Low,Wheat,High
+15.67,77.6,37,47,Low,Cotton,Average
+18.49,76.7,28,11,High,Barley,High
+19.24,84.94,34,61,High,Groundnut,High
+11.07,76.63,25,150,High,Barley,Average
+12.8,80.12,28,88,Medium,Groundnut,Low
+15.9,79.78,40,,High,Barley,Low
+13.62,82.31,30,88,Medium,,No Data
+17.15,76.19,29,114,High,,No Data
+12.66,75.7,36,17,Medium,Wheat,Low
+18.56,80.82,33,12,Medium,,Low
+19.25,79.7,37,,Low,Barley,Average
+18.83,82.98,32,128,Low,Peas,Low
+13.9,75.33,32,3,Medium,Cotton,High
+10.75,81.36,35,143,High,,High
+12.62,78.1,40,69,High,Barley,Low
+16.4,84.77,40,35,High,Wheat,Low
+14.85,75.34,37,82,Low,Peas,No Data
+19.1,80.15,26,127,Medium,,High
+10.76,78.11,39,138,Medium,Barley,Average
+17.64,83.15,,113,High,Peas,No Data
+14.27,77.02,37,73,High,None,Average
+13.41,84.59,31,23,Low,Maize,Low
+10.98,81.03,29,145,Low,Peas,High
+18.31,75.4,29,21,High,Groundnut,Average
+11.35,80.53,34,109,Low,Groundnut,Low
+15.2,82.46,26,129,High,None,Average
+15.25,81.94,36,111,Medium,Groundnut,No Data
+18.01,83.1,31,117,Medium,None,No Data
+12.89,75.89,36,8,Medium,Cotton,Average
+11.84,76.95,31,46,Medium,Cotton,Low
+11.62,76.14,33,,Low,Maize,High
+14.03,82.9,33,136,Low,None,Average
+11.61,80.78,,,High,,High
+15.78,75.34,28,54,High,Peas,High
+13.43,83.67,25,,High,Groundnut,No Data
+10.12,82.05,28,16,Medium,Rice,Average
+14.32,81.26,37,,Medium,Rice,Average
+12.15,81,32,46,High,Cotton,High
+15.98,84.35,29,26,Medium,Maize,Average
+17.51,77.45,38,,High,Peas,No Data
+15.65,79.16,33,126,High,Maize,High
+19.99,82.67,31,27,High,Cotton,No Data
+12.44,84.62,36,136,Medium,Peas,Average
+11.46,80.54,39,65,Low,Cotton,High
+19.9,77.1,27,65,Medium,,No Data
+11.7,83.52,30,62,Low,Cotton,Average
+12.91,77.07,27,,Medium,,High
+13.42,83.18,,100,Low,Barley,Low
+17.72,82.02,,,Medium,Maize,Average
+14.02,75.64,33,117,High,None,Average
+10.19,84.53,27,106,Medium,Maize,High
+18.44,79.72,34,,Low,Rice,High
+11.56,79.88,38,90,Medium,,No Data
+10.26,84,26,12,Medium,Peas,No Data
+17.4,77.98,31,,Medium,,Average
+11.5,76.09,,,Medium,,No Data
+12.78,82.95,27,29,Low,,Low
+17.99,75.01,31,36,Low,Barley,No Data
+19.01,84.31,,,Medium,Rice,High
+10.77,83.38,39,,Medium,Peas,Average
+17.75,81.81,30,146,Medium,Peas,Average
+11.19,78.65,32,81,Medium,Peas,Low
+16.46,82.58,25,39,Medium,,No Data
+13.29,83.3,31,16,High,,No Data
+17.92,75.23,35,31,High,,Low
+10.03,77.15,29,123,High,Rice,Average
+18.8,75.1,32,,Medium,,High
+14.99,77.33,38,137,High,Peas,Average
+11.49,80.16,,,Low,Maize,No Data
+15.37,77.54,31,129,Low,Cotton,Low
+17,76.36,35,109,High,Rice,Average
+10.21,84.2,35,62,High,Rice,Average
+18.17,82.46,,122,Medium,,No Data
+18.52,84.49,32,106,High,None,High
+16.32,78.59,37,,High,Peas,Average
+17.31,84.96,33,52,Medium,Maize,Low
+15.26,79.12,39,56,High,,Average
+13.15,82.04,27,76,Low,None,Average
+13.44,82.71,25,36,High,Maize,High
+19.89,79.13,33,95,High,Barley,No Data
+12.15,83.8,31,37,Low,Maize,No Data
+13.74,77.38,38,,Low,Peas,High
+16.39,83,,54,High,Barley,Average
+16.62,84.15,40,57,High,,No Data
+13.57,77.61,37,135,High,Maize,High
+10.53,77.24,26,83,Low,,Low
+19.45,76.18,,111,High,Barley,High
+18.26,76.42,28,125,Medium,Maize,Average
+11.1,82.28,,53,Medium,,Average
+16.16,75.29,40,,Medium,Barley,Average
+16.02,81.1,,131,High,,High
+17.67,84.67,38,,High,Groundnut,Average
+14.83,80.87,,92,Low,Groundnut,High
+19.04,83.28,,104,Low,,Low
+10.03,82.15,40,122,High,Groundnut,No Data
+15.36,75.8,,52,Low,Barley,Low
+17.06,82.11,35,143,Low,Peas,No Data
+13.54,81.73,27,,High,Cotton,Average
+13.66,79,,,Low,,Low
+19.35,83.05,30,54,Medium,Peas,High
+17.39,84.71,35,,High,,Average
+18.78,81.96,37,148,Medium,Barley,Average
+11.3,80.74,30,,High,Wheat,No Data
+10.95,83.59,37,139,Medium,Rice,Low
+10.16,75.16,33,147,Low,None,High
+17.46,75.5,25,2,High,Rice,Low
+11.99,84.42,38,26,High,None,High
+12.41,79.25,36,129,Low,Wheat,High
+14.94,82.29,28,59,Low,Rice,Low
+15.92,84.58,32,101,Medium,Rice,Average
+11.92,77.25,30,68,High,,Low
+11.56,78.05,26,134,Medium,Barley,Low
+16.86,84.18,30,102,Medium,,Low
+19,83.3,31,18,Medium,Groundnut,No Data
+15.71,78.44,25,,Medium,Rice,Average
+19.59,75.83,32,29,Low,Cotton,High
+13.65,75.07,27,97,Medium,Groundnut,Low
+18.03,83.27,,46,Low,Peas,Low
+13.3,84.46,26,,Low,Maize,Low
+13.05,78.81,,17,High,Cotton,High
+17.25,79.26,35,108,Low,,High
+18.93,83.38,30,126,High,Peas,High
+19.91,80.05,37,99,Low,Rice,High
+19.78,77.08,33,1,High,Cotton,High
+13.66,77.48,36,96,Low,Rice,Average
+11.58,80.78,,,Low,None,No Data
+14.42,77.87,40,103,Low,None,Low
+16.42,77.72,35,115,High,,High
+19.92,77.27,39,11,Low,,Average
+13.36,83.35,29,125,Low,Barley,No Data
+17.03,83.16,29,132,Low,Rice,Average
+12.13,83.54,31,4,Medium,Cotton,Low
+11.31,81.14,,22,High,Groundnut,High
+17.99,76.04,39,150,High,Maize,Low
+18.98,79.06,40,12,Medium,Wheat,No Data
+11.41,78.06,30,141,Medium,Barley,High
+11,76.57,27,121,Medium,,Low
+16.25,75.08,27,135,High,Rice,No Data
+15.04,78.47,29,135,Low,Cotton,High
+19.59,82.69,,103,High,Peas,Average
+16.76,78.36,,71,High,Rice,Average
+14.82,77.03,32,,High,Peas,Average
+11.8,80.95,32,145,High,Peas,No Data
+19.06,76.16,32,123,Medium,Peas,No Data
+12.27,75.43,28,99,Medium,Barley,Low
+14.99,82.29,33,125,High,None,No Data
+18.35,79.27,38,75,Medium,,High
+12.39,81.53,32,124,Low,Cotton,No Data
+14.09,83.89,33,96,Medium,Peas,Low
+17.1,81.24,33,78,High,Rice,No Data
+12.43,84.35,29,,Low,,No Data
+16.95,79.01,28,,Low,Maize,No Data
+15,80.91,31,7,Low,None,Average
+16.95,80.13,39,144,Low,Maize,High
+17.36,77.85,36,,Medium,,No Data
+13.17,84.26,30,9,Low,Cotton,No Data
+17.39,75.93,26,,High,,Low
+12.35,84.88,28,23,High,Wheat,Low
+11.23,78.41,34,55,Medium,,Average
+15.31,75.6,40,114,Medium,,High
+15.21,84.71,29,66,Medium,Maize,High
+17.37,83.32,40,104,Medium,,High
+14,84.47,38,,Medium,Groundnut,Low
+17.21,75.4,34,95,High,Wheat,High
+12.86,77.88,40,,Medium,Wheat,No Data
+10.84,79.65,26,66,Medium,Cotton,High
+19.07,80.28,30,88,Low,,Low
+19.39,83.97,36,31,Low,Cotton,Average
+15.96,75.54,34,126,Low,None,Low
+17.33,79.32,40,61,Low,Wheat,No Data
+11.36,80.73,26,,Low,,No Data
+11.97,77.01,40,,Medium,Barley,No Data
+14.63,84.87,,59,High,Rice,Low
+13.95,78.56,35,,High,Peas,Low
+14.85,80.59,32,,Low,Barley,High
+13.96,82.93,33,80,High,Wheat,High
+12.05,81.08,,45,High,Peas,Low
+19.57,78.06,28,127,Low,Maize,Low
+10.26,80.12,36,137,Low,Groundnut,Average
+18.55,76.59,28,20,Medium,Barley,No Data
+19.92,78.65,34,,Low,Peas,No Data
+13.24,81.56,40,99,High,,Low
+19.98,76.85,34,,High,Peas,Average
+15.59,78.83,39,93,Low,Barley,No Data
+18.42,79.33,34,31,Low,Peas,No Data
+10.83,79.67,29,104,Medium,Wheat,Low
+19.85,79.85,34,101,High,Maize,High
+19.24,77.37,,59,Medium,,Average
+14.07,79.88,27,62,Medium,Groundnut,No Data
+11.39,77.54,26,,Medium,Barley,Average
+13.38,81.15,28,107,High,Rice,Average
+13.02,77.76,27,25,Medium,Groundnut,Average
+11.37,84.75,39,15,High,,High
+19.72,82.18,31,,Medium,Barley,No Data
+13.43,77.91,35,132,High,Cotton,High
+19.67,77.06,,90,High,Barley,No Data
+15.93,82.49,39,38,Low,Barley,No Data
+14.91,83.78,33,35,High,Maize,Low
+19.48,84.16,,,Low,Maize,Low
+18.29,77.82,30,74,Medium,,Low
+14.36,82.01,38,15,Medium,Peas,Low
+12.58,75.09,32,141,Medium,,No Data
+19.4,81.52,32,129,Low,None,No Data
+17.63,76.17,30,144,High,Barley,No Data
+14.16,80.53,40,102,High,Barley,Average
+10.48,79.03,36,140,Low,Peas,Average
+15.65,83.41,38,80,Medium,,Average
+14.06,75.55,37,34,Low,Barley,High
+14.13,83.56,29,,Medium,None,High
+19.1,80.79,,147,Low,Wheat,No Data
+14.69,76.4,26,3,Low,None,Low
+17.29,83.07,37,96,Low,Maize,High
+12.96,80.15,,127,High,Cotton,High
+17.67,84.1,,100,Low,Groundnut,Low
+19.38,77.74,39,109,Medium,Groundnut,Low
+14.57,78.68,25,,Low,Peas,Low
+18.79,83.97,31,,Low,Maize,Average
+16.64,80.64,32,32,High,Wheat,Low
+12.27,79.59,25,,High,,No Data
+12.53,76.56,32,98,High,,Low
+19.28,78.95,33,27,High,Groundnut,No Data
+10.41,77.28,,29,High,Peas,No Data
+18.34,82.71,29,48,High,Groundnut,Low
+11.33,81.88,31,,High,,High
+18.78,82.52,37,69,High,Wheat,High
+13.05,83.91,29,150,Medium,Maize,High
+18.73,81.07,30,,High,Cotton,Low
+15.5,75.32,38,144,Medium,,Average
+12.93,79.95,,43,Medium,Cotton,Low
+19.29,81.59,32,,Low,None,Low
+13.36,84.25,,53,High,Peas,Average
+12.32,80.94,28,22,High,Maize,Average
+16.05,77.98,26,83,Medium,None,High
+10.39,76.76,28,,Medium,Groundnut,High
+16.04,79.51,,26,Medium,Peas,Average
+16.24,80.74,35,58,Medium,None,Average
+13.68,78.21,25,31,Low,Barley,High
+14.11,75.15,25,124,High,Rice,Low
+18.85,81.5,37,115,Low,None,Average
+13.89,77.48,32,107,Low,Cotton,Average
+15.16,82.45,25,135,Medium,Groundnut,Average
+11.46,76.17,26,60,High,Maize,No Data
+13.37,81.65,26,103,Low,None,Low
+18.25,82.95,37,13,Low,Barley,Average
+15.66,83.62,31,,Low,Maize,Average
+16.88,79.03,36,,Medium,None,High
+18.93,76.41,35,116,Low,Maize,Low
+14.28,79.77,38,27,Medium,Barley,No Data
+12.97,80.25,31,111,High,,Low
+12.54,75.41,,112,Low,Groundnut,No Data
+14.22,77.03,,,High,Barley,No Data
+15.47,81.2,37,3,Low,Rice,High
+19.16,82.62,37,65,Medium,Barley,High
+10.22,77.66,,148,High,Maize,High
+15.75,79.56,31,140,Medium,Maize,No Data
+17.84,80.05,37,114,High,Cotton,No Data
+15.99,80.87,40,,High,None,Low
+17.25,82.34,36,,Medium,,Average
+12.3,83.45,,86,Low,Peas,No Data
+16.25,78.72,,31,Medium,Peas,Low
+19.97,84.33,25,116,High,Peas,High
+17.16,82.2,33,145,High,Peas,Low
+15.07,75.19,34,139,Low,Groundnut,Average
+18.19,81.05,38,110,Medium,,High
+17.63,80.86,27,19,Medium,,Low
+12.62,82.59,,,Medium,Cotton,High
+16.4,82.04,40,71,Low,,Average
+13.8,80.45,40,112,Low,Peas,No Data
+15.08,83.06,39,95,High,,Average
+17.49,76.13,39,142,Medium,Groundnut,Low
+10.77,78.89,26,39,Medium,None,No Data
+16.51,76.94,,73,Medium,Barley,Average
+13.56,84.09,33,54,High,Groundnut,High
+10.8,76.38,31,73,Low,Wheat,High
+16.86,78.51,38,,Low,,Average
+10.68,77.63,26,8,Low,Barley,Low
+16.51,77.93,34,34,High,Barley,Low
+10.37,76.59,,59,Medium,None,No Data
+19.82,76.09,,62,High,Cotton,No Data
+17.89,77.07,27,,Low,Maize,Average
+17.16,77.99,,5,Medium,Cotton,No Data
+10.93,79.79,,83,Low,Wheat,High
+14.42,75.67,,136,High,Peas,No Data
+19.88,80.93,32,88,Low,Groundnut,Average
+13.92,78.22,35,83,Low,,Average
+19.88,82.73,,1,Low,Cotton,No Data
+15.04,77.56,35,,High,Maize,High
+10.14,81.46,38,,Medium,Maize,Low
+17.08,83.65,25,24,Medium,Peas,No Data
+12.08,77.94,33,89,Low,,Low
+12.71,79.69,33,11,High,Cotton,Low
+12.12,81.39,,130,Medium,Wheat,No Data
+10.84,81.32,33,143,Low,Peas,No Data
+19.96,82.44,36,,Low,Cotton,High
+14.07,84.32,37,103,Low,Maize,Low
+13.78,84.99,28,104,Low,Barley,High
+15.73,78.46,38,17,High,,High
+10.38,75.7,38,16,High,,Low
+11.5,79.52,26,80,Low,Cotton,High
+11.3,76.06,,119,High,Maize,Low
+11.16,82.53,34,22,Medium,Groundnut,Low
+11.57,76.36,37,141,Low,Maize,No Data
+12.21,79.12,30,105,Low,Wheat,Low
+19.88,78,,,High,Groundnut,Low
+14.7,75.37,36,4,High,Groundnut,No Data
+15.79,78.72,40,77,Medium,Rice,Low
+10.76,81.71,,124,Medium,Wheat,No Data
+13.56,83.18,36,149,Low,Rice,Low
+18.85,80.51,36,39,Medium,Peas,Low
+14.64,79.74,32,122,Medium,Cotton,No Data
+11.53,82.91,,110,High,Groundnut,High
+12.75,76.22,,,Low,Peas,Average
+10.78,76.57,30,,High,Barley,No Data
+19.97,76.33,29,124,Medium,Groundnut,Average
+10.14,78.53,28,,High,Barley,Low
+10.92,83.2,39,59,High,Wheat,High
+14.69,78.78,33,83,Low,Maize,Low
+12.32,82.02,37,,High,Groundnut,Low
+17.89,78.17,36,71,Medium,,High
+13.84,83.25,29,,High,Cotton,No Data
+17.17,75.64,34,39,High,,Low
+14.29,84.1,37,,Low,None,No Data
+12.04,84.57,28,87,Medium,Wheat,No Data
+13.09,78.67,32,126,High,Barley,No Data
+15.04,78.71,39,55,Medium,Wheat,High
+11.01,84.52,39,,Medium,,Low
+12.54,82.03,40,,High,Peas,No Data
+16.8,76.94,34,140,High,,No Data
+14.79,75.27,33,127,High,Wheat,Low
+18.42,76.67,26,9,High,Barley,Low
+18.92,77.44,38,120,High,Cotton,No Data
+19.48,82.38,28,45,Medium,Maize,High
+13.23,75.78,25,119,Low,Groundnut,Low
+18.43,83.8,39,145,Medium,Groundnut,Low
+18.19,84.58,39,74,Low,,No Data
+15.72,77.93,27,133,Low,Barley,Low
+12.44,77.07,27,44,Medium,Rice,High
+18.97,78.03,39,82,Low,Peas,Average
+15.74,84.06,,67,High,Cotton,High
+16.71,80.5,28,89,Medium,None,High
+19.57,80.84,36,62,Low,Cotton,No Data
+19.36,77.5,,24,High,,Low
+17.24,82.64,28,,Medium,Groundnut,No Data
+18.03,77.39,,,High,,High
+12.47,79.1,33,25,Medium,Groundnut,High
+16.14,81.73,32,126,High,,Average
+16.65,83.78,28,50,High,Cotton,No Data
+14.31,84.46,,137,Medium,Rice,No Data
+19.45,78.78,32,13,High,Cotton,No Data
+15.81,75.36,33,,Low,Wheat,No Data
+17.9,75.33,32,23,Medium,Groundnut,High
+15.8,76.14,37,,Low,Wheat,No Data
+19.21,84.09,,78,Medium,Groundnut,High
+12.93,75.21,30,115,Low,,Low
+18.71,75.52,,91,Medium,Groundnut,Low
+15.02,83.66,34,116,Medium,Peas,High
+13.25,79.47,28,83,High,Wheat,No Data
+13.96,80.36,25,120,High,Wheat,No Data
+15.33,81.08,33,72,Low,,Low
+15.89,83,39,,Medium,Wheat,High
+14.98,78.24,31,70,Low,Wheat,High
+11.42,79.14,34,64,Low,None,Average
+15.29,83.91,34,105,Low,Peas,Average
+16.81,78.64,40,82,Low,Barley,Low
+19.21,80.71,26,61,High,Cotton,No Data
+13.06,80.3,27,27,Medium,,No Data
+13.86,84.76,,146,Medium,Rice,High
+14.81,75.54,34,,High,Maize,No Data
+10.29,79.14,26,39,Low,None,Average
+10.08,82.18,28,140,Medium,,Low
+17.94,82.14,38,111,Low,,Average
+19.91,78.89,40,127,High,None,No Data
+19.88,76.27,,21,Low,Barley,No Data
+18.52,81.66,34,85,Medium,Cotton,Low
+18.55,80.03,35,131,Low,,Low
+11.21,83.02,30,100,High,Peas,High
+17.77,79.16,38,118,Medium,Cotton,Average
+12.9,76.96,32,68,Low,Groundnut,Low
+12.29,78.78,27,148,High,Rice,No Data
+15.39,83.25,35,102,High,Groundnut,Average
+19.75,78.43,32,35,High,Peas,High
+17.55,78.58,25,24,Low,Groundnut,Average
+11.37,77.6,33,76,Low,Wheat,Low
+11.28,81.17,27,140,Low,Cotton,Low
+15.85,76.53,25,129,Low,Rice,Average
+10.51,84.22,,,High,None,No Data
+14.3,84.45,27,46,Low,,Average
+14.4,80.01,32,,Low,None,No Data
+16.29,80.53,30,77,Low,,Average
+15.23,83.74,26,73,High,,No Data
+16.17,83.37,27,82,High,,Average
+15.76,77.78,,,High,Maize,Average
+11.46,79.46,26,69,Low,Cotton,Low
+13.74,76.63,29,8,Low,None,Low
+11.24,75.48,40,76,Medium,None,Average
+11.48,78.8,,0,Medium,Peas,Average
+14.32,83.57,33,91,High,Cotton,High
+19.96,76.15,26,124,Low,Barley,Average
+14.92,82.41,27,123,Medium,Rice,No Data
+17.28,83.58,34,70,Low,Groundnut,Average
+17.4,77.84,28,134,High,Cotton,Average
+13.75,75.17,31,67,Medium,Cotton,No Data
+17.91,75.98,,35,Low,Groundnut,High
+15.29,79.55,28,,Low,Peas,High
+12.35,81.41,33,66,Low,Barley,Low
+14.14,77.69,25,100,High,,Average
+11.15,79.78,37,63,Low,Groundnut,High
+11.95,75.95,40,28,Low,Groundnut,No Data
+17.28,76.62,31,120,Low,Peas,Low
+13.52,80.23,38,89,Low,Wheat,Average
+18.22,79.3,32,,High,Wheat,High
+19.74,79.63,28,18,Low,Maize,High
+11.77,78.97,25,61,Medium,,Low
+18.96,81.49,31,,Medium,Cotton,Low
+13.37,83.22,32,,Low,Wheat,Average
+13.11,75.5,31,13,Low,Wheat,No Data
+16.1,83.31,,27,Medium,Cotton,Low
+13.73,75.79,40,122,Medium,,Average
+13.84,78.06,,121,Low,,High
+16.29,76.66,30,,High,None,No Data
+19.22,79.72,32,126,Low,Rice,Low
+19.23,77.27,37,113,High,Wheat,Average
+17.52,77.43,35,105,Medium,Cotton,High
+15.15,81.77,31,65,Low,Rice,High
+13.43,80.97,27,7,Medium,,High
+14.2,82.1,29,85,High,Barley,No Data
+14.41,79.3,37,61,Low,Maize,Low
+10.93,83.82,29,122,Low,Rice,No Data
+11.69,79.52,28,111,Low,,High
+19.08,82.16,,10,Low,Peas,No Data
+10.86,78.53,36,67,Medium,,High
+15.13,83.9,25,44,High,,Low
+13.04,84.71,32,39,Medium,Cotton,Average
+14.63,76.81,35,,High,,Low
+10.68,83.1,27,,Low,Maize,Low
+18.35,83.59,27,,Low,Cotton,High
+13.56,80.49,39,93,Medium,Maize,High
+10.67,76.76,31,74,High,Peas,Low
+15.24,82.39,33,91,High,Cotton,No Data
+19.67,76.77,30,140,High,Cotton,High
+11.62,79.12,35,107,High,None,High
+14.04,82.37,38,108,High,,No Data
+18.69,81.77,31,130,Low,Groundnut,Average
+11.78,81.48,31,93,Medium,Cotton,Low
+13.5,82.76,,7,Low,None,Low
+18.62,81.28,35,,Low,,No Data
+15.2,79,28,31,High,Groundnut,Average
+13.36,84.43,30,49,High,Wheat,No Data
+13.43,79.27,37,53,Low,Cotton,Average
+11.17,80.44,34,,Medium,None,Average
+19.4,76.37,34,,Medium,Groundnut,Average
+13.51,84.89,30,77,Low,Barley,No Data
+11.14,80.85,,96,Medium,Rice,High
+19.34,76.62,26,,Low,Barley,Low
+13.02,84.89,,126,Low,Peas,Average
+11.61,81.25,28,122,Medium,Peas,Average
+16.45,81.74,34,,Low,Wheat,Low
+13.22,84.47,37,124,High,Wheat,High
+13.73,77.55,,102,Medium,,Low
+14.81,83.66,34,3,Low,Barley,No Data
+11.98,84.64,30,2,High,None,No Data
+13.53,76.06,,,Medium,,Average
+13.92,77.63,31,16,High,Cotton,Low
+12.06,81.91,26,61,Low,Cotton,Low
+15.8,81.21,38,70,Low,,Average
+13.9,79.91,,72,Medium,,High
+11.32,84.29,30,111,High,Maize,High
+12.01,75.8,37,88,Low,Cotton,Low
+15.96,75.58,26,60,Low,Rice,Average
+10.56,81.39,37,149,Low,Rice,Low
+13.47,75.55,27,110,Medium,Rice,No Data
+15.38,78.43,40,,Medium,Groundnut,Low
+15.92,82.23,36,119,Low,None,No Data
+12.1,83.28,,95,High,Wheat,No Data
+15.51,83.09,40,,Medium,Peas,High
+17.67,81.57,31,55,Medium,,High
+11.86,80.06,40,132,Medium,Cotton,High
+16.53,81.91,28,24,High,,High
+16.25,83.88,27,6,Low,Rice,High
+18.41,75.95,38,,Low,None,Low
+18.4,80.7,39,,Low,,No Data
+15.91,84.3,36,76,High,Groundnut,Low
+16.48,79.62,,91,High,Groundnut,Average
+18.17,84.47,39,37,Low,Barley,High
+18.11,82.83,28,128,High,Maize,No Data
+14.07,83.96,,11,Medium,Wheat,No Data
+12.41,83.03,25,70,Medium,Cotton,Low
+11.5,76.63,32,35,Medium,Groundnut,Low
+15.78,79.88,,80,Medium,Groundnut,Low
+18.16,81.4,32,,Medium,Maize,No Data
+17.42,75.59,29,28,Low,,No Data
+12.93,78.46,34,128,Low,Wheat,Average
+15.83,83.22,31,54,Medium,Groundnut,Low
+17.59,77.71,28,68,Medium,None,High
+17.12,80.57,30,134,Low,Groundnut,No Data
+16.05,78.06,30,143,High,,High
+19.23,81.25,36,57,Medium,Rice,Low
+13.84,79.02,,73,Medium,Wheat,Low
+17.2,84.13,29,,High,,High
+10.23,81.67,,118,Low,None,Low
+13.1,76.3,35,2,Low,Barley,Low
+18.42,77.78,30,59,High,,Average
+13.09,76.68,25,54,High,,Average
+10.15,78.46,40,37,Medium,Cotton,Low
+12.04,78.45,34,124,Low,Peas,Low
+15.13,77.06,38,105,Low,,Average
+11.47,76.56,28,,High,None,No Data
+12.72,83,28,115,High,Groundnut,High
+15.17,81.75,28,5,Medium,None,No Data
+15.51,80.13,37,110,High,,High
+11.48,77.58,33,11,Medium,Cotton,Average
+12.49,75.57,29,,Low,None,High
+14.73,78.47,,144,Low,Peas,Low
+16.49,81.08,31,91,Low,Rice,No Data
+12.78,84.54,29,,Medium,Groundnut,Low
+18.25,81.34,39,124,High,Cotton,Average
+16.31,81.93,38,,Low,Maize,Average
+15.29,75.28,33,43,Low,Rice,High
+17,83.38,,141,Low,Peas,High
+19.49,75.76,33,146,High,Rice,No Data
+12.88,83.21,39,125,Medium,,High
+17.5,81.15,38,119,Low,Maize,Low
+17.67,83.12,34,125,High,Cotton,Average
+16.47,75.13,29,85,Low,Barley,Average
+11.41,79.67,38,114,High,Maize,Average
+15.63,78.45,,131,Medium,Barley,Average
+16.9,77.45,40,115,Medium,,No Data
+17.68,82.14,39,55,Medium,Peas,High
+11.72,77.27,38,,Medium,None,Average
+13.41,84.25,30,149,Low,,No Data
+18.99,76.06,36,44,Medium,None,No Data
+17.11,76.87,30,116,Medium,Cotton,No Data
+14.69,75.12,34,90,High,Rice,High
+16.92,80.13,26,,Low,Barley,Average
+11.96,76.85,,113,Low,Rice,Low
+15.87,81.3,27,55,High,None,No Data
+19.91,76.39,30,83,High,Cotton,Low
+12.34,83.76,38,,Low,Groundnut,High
+17.12,83.02,34,19,High,Wheat,Low
+18.18,81.57,40,98,Medium,,Average
+17.18,77.42,,,High,Barley,Low
+14.91,78.64,38,63,Medium,Wheat,No Data
+19.37,83.04,37,88,Medium,Maize,No Data
+13.93,82.17,36,108,Medium,Peas,No Data
+19.46,80.01,26,,Low,Barley,Average
+16.56,77.66,39,137,Medium,,No Data
+11.39,81.85,27,,High,Groundnut,Average
+17.44,81.77,29,149,Low,Rice,Low
+17.56,82.03,29,,Medium,Maize,Average
+18.17,77.98,29,66,Low,Maize,No Data
+14.89,82.45,30,,Medium,None,Average
+14.26,80.17,,,Medium,Wheat,No Data
+12.97,78.06,28,147,High,Maize,No Data
+17.88,82.13,34,7,High,Barley,Low
+11.89,75.2,,147,Low,Rice,High
+18.05,83.71,,87,Medium,,Low
+17.51,82.64,,83,Medium,Wheat,No Data
+17.91,82.42,,24,Low,,Low
+17.5,79.78,,83,Medium,Barley,Average
+15.45,75.54,40,,High,Barley,No Data
+13.56,78.63,34,65,Medium,,Average
+18.72,81.07,40,,High,Wheat,High
+13.35,79.39,35,,Low,None,Average
+11.27,78.16,38,57,High,,Low
+11.54,80.05,31,100,High,Groundnut,Low
+17.25,76.3,31,0,High,,Low
+18.48,75.88,25,108,Low,,High
+10.92,79.39,40,8,High,Cotton,Low
+11.86,76.81,37,,Medium,None,Average
+18.29,79.17,39,83,Low,Maize,No Data
+13.54,76.19,28,111,High,,Average
+12.22,82.28,28,4,Low,Wheat,Low
+12.58,75.86,33,,High,,No Data
+14.8,80.34,,126,Medium,Barley,Average
+18.51,80.14,34,25,High,Peas,Average
+14.78,83.77,,149,Low,Maize,No Data
+18.88,81.2,,,Medium,Rice,Low
+15.56,75.31,27,148,Medium,None,No Data
+14.76,80.66,40,127,Medium,Barley,Average
+10.63,80.01,30,120,Low,Rice,Low
+18.13,79.19,29,28,Low,Wheat,No Data
+18.84,84.06,25,130,High,Cotton,Low
+19.4,75.18,28,130,High,Wheat,High
+18.53,79.45,,23,High,Cotton,High
+12.86,83.78,,72,Medium,,No Data
+17.98,75.63,40,136,Low,Maize,Low
+10.06,78.87,33,65,High,,Average
+18.32,75.31,29,32,Low,Peas,Average
+13.45,84.25,30,44,Low,None,Low
+18.87,76.03,31,110,Medium,Barley,Low
+17.74,77.63,34,109,Low,Maize,Average
+18.28,75.23,40,,High,,Average
+16.51,82.09,31,72,Medium,,Average
+12.73,77.96,,,Low,Barley,Average
+14.09,78.32,31,91,High,Wheat,No Data
+19.6,84.57,39,,Low,Groundnut,High
+17.56,83.74,38,,High,None,Average
+11.34,76.16,33,47,Medium,Groundnut,Average
+17.32,77.87,30,21,High,Maize,Low
+14.44,81.4,40,63,Low,Rice,Average
+19.42,80.03,40,34,Low,Maize,Average
+15.25,77.36,32,8,Medium,Maize,Average
+16.94,79.78,30,143,Low,Barley,Average
+17.59,78.33,39,130,High,Maize,High
+19.37,81.94,,113,Medium,,High
+11.56,84.32,26,35,High,None,High
+10.61,76.44,28,36,Medium,None,High
+10.37,83.49,34,97,High,Peas,Average
+12.22,75.47,38,130,High,Cotton,Low
+12.7,81.83,26,39,Medium,Peas,High
+12.71,79.9,40,128,Medium,Barley,Low
+15.68,83.5,31,53,Low,,No Data
+12.59,82.89,27,48,High,Peas,Low
+19.94,77.86,25,23,Medium,,Low
+11.77,84.9,27,1,High,Wheat,Average
+17.06,81.13,37,131,Low,Rice,Low
+15.75,75.33,32,104,High,None,High
+12.59,79.98,30,142,Low,Peas,Average
+19.56,77.22,30,,Low,Rice,Average
+18.98,79.63,,70,High,Peas,No Data
+13.05,78.73,30,,High,Cotton,High
+18.27,81.84,,39,Medium,,Low
+19.37,79.34,25,114,High,,High
+18.24,75.7,38,67,Low,Rice,Average
+15.3,78.67,34,143,Medium,Groundnut,High
+15.67,75.56,32,30,Low,Barley,Average
+15.28,76.95,28,88,Medium,None,High
+19.73,82.58,,131,High,Barley,Average
+17.92,82.48,27,21,Medium,Groundnut,Average
+12.89,77.2,27,121,Medium,Groundnut,No Data
+17.11,77.7,,128,High,Wheat,No Data
+11.14,75.1,37,139,High,,Low
+12.18,78.96,34,,Medium,Wheat,No Data
+11.87,76.41,36,129,Medium,None,No Data
+16.94,84.3,,3,High,,High
+19.79,81.71,,128,Medium,Rice,High
+15.78,80.6,30,,High,Cotton,No Data
+13.27,80.06,33,23,High,Barley,No Data
+19.82,75.02,32,61,Medium,Wheat,Average
+17.44,82.76,26,29,Medium,Rice,Low
+19.95,78.55,,,High,Rice,Low
+19.24,76.4,28,18,Medium,None,No Data
+18.86,76.54,28,,Low,Groundnut,Average
+14.95,79.14,34,93,High,Groundnut,Average
+15.54,83.06,,44,High,Cotton,High
+15.81,77.28,27,64,Low,Rice,High
+10.15,78.98,30,145,High,Groundnut,Low
+12.7,75.94,37,139,Medium,Peas,High
+11.95,77.08,,28,Medium,Barley,No Data
+17.23,83.14,36,142,High,Wheat,Low
+18.54,81.26,38,75,Low,,Low
+18.68,79.24,29,89,Low,Peas,Low
+15.68,79.68,34,110,Medium,Cotton,No Data
+13.47,76.23,26,101,High,Maize,High
+17.52,79.82,35,61,Low,None,High
+18.27,76.58,35,25,Medium,None,Low
+19.58,78,25,101,High,,No Data
+12.63,77.71,33,76,Medium,,High
+15.11,80.4,30,75,Medium,Peas,Low
+15.54,80.59,29,122,High,Wheat,No Data
+12.45,81.86,37,,Low,,Low
+13.95,77.23,27,149,Medium,Peas,High
+10.05,81.56,37,81,Medium,Maize,Low
+19.86,75.16,25,136,Low,Wheat,Low
+13.23,77.61,,72,Low,,Average
+14.02,76.87,30,82,High,Cotton,No Data
+13.84,78.13,35,55,High,Barley,Low
+16.13,80.3,33,69,High,,Average
+15.43,82.28,26,58,High,Maize,Low
+19.71,84.96,31,56,Low,Peas,No Data
+17.01,76.58,37,31,High,Peas,Low
+14.04,83.65,27,,High,Peas,No Data
+18.17,81.26,25,150,Low,,Low
+17,83.32,39,136,High,Wheat,Low
+17.75,84.55,37,,Low,Cotton,Average
+15.52,83.63,33,0,High,Wheat,Low
+17.12,75.4,26,80,High,Maize,No Data
+10.94,77.63,27,45,Low,Barley,Average
+19.82,78.62,36,146,High,,Low
+18.02,79.04,31,,Medium,Barley,Average
+18.39,77.17,36,89,Medium,Groundnut,High
+18.62,83.92,33,22,Low,Cotton,No Data
+13.75,84.95,28,112,Low,Groundnut,High
+18.86,79.12,28,20,Medium,Cotton,High
+11.87,82.13,36,,Medium,Peas,Average
+10.02,75.66,34,54,High,Peas,High
+12.14,82.93,38,28,High,Peas,Low
+14.43,81.86,36,27,Low,,No Data
+16.14,81.92,36,,Medium,Peas,Low
+15.54,81.83,,76,High,,No Data
+13.35,79.09,36,111,Low,Peas,No Data
+18.87,83.93,32,44,High,,Low
+13.49,79.42,35,65,High,Barley,No Data
+14.02,76.79,35,66,High,Maize,Low
+18.89,82.47,32,73,Low,Barley,High
+10.81,82.55,31,8,High,Peas,High
+17.83,84.02,37,103,High,Peas,Average
+10.16,84.34,26,97,High,Groundnut,High
+14.82,78.55,27,33,Medium,Groundnut,High
+10.96,77.4,33,82,Medium,Peas,Average
+18.41,78.39,29,,Medium,Barley,No Data
+14.75,76.12,,132,High,Maize,Average
+12.42,79.48,29,56,Medium,Rice,Low
+15.73,75.41,32,,Low,,No Data
+17.22,80.8,34,110,Low,Rice,No Data
+19.05,83.68,,112,Medium,Groundnut,Average
+13.07,83.93,32,61,Medium,Groundnut,Low
+19.09,76.82,28,100,High,Wheat,High
+13.24,78.97,,21,Medium,Rice,Low
+16.74,77.44,26,120,Low,Wheat,Low
+18.64,79.79,36,,Medium,Rice,No Data
+17.72,81.24,29,113,Medium,Cotton,Average
+15.59,80.67,27,135,Low,Maize,No Data
+11.05,80.35,37,13,High,Peas,Low
+19.19,78.53,30,30,Low,,High
+16.7,84.81,27,138,Medium,None,No Data
+18.82,75.13,40,17,High,None,High
+16.49,80.52,34,82,Medium,Maize,High
+12.65,79.11,25,34,Low,Cotton,High
+13.85,76.77,36,53,Medium,Groundnut,No Data
+12.06,79.44,27,126,Medium,Maize,No Data
+10.7,78.42,25,,Low,,Average
+17.97,83.07,34,,Low,,No Data
+16.54,80.86,26,,High,,High
+16.92,80.7,30,109,Medium,,No Data
+12.81,75.48,31,90,High,Maize,Low
+18.12,76.26,40,23,Low,Groundnut,High
+10.84,83.5,37,,High,Wheat,High
+12.63,79.37,29,89,Low,Groundnut,Average
+19.82,81.48,31,,High,None,No Data
+14.87,84.4,,,High,Cotton,No Data
+13.11,79.53,33,114,High,Rice,No Data
+12.56,79.31,26,,High,Peas,High
+14.24,77.6,33,135,Low,Groundnut,No Data
+17.22,77.64,38,6,Low,Cotton,High
+12.61,83.82,40,90,Low,Wheat,Low
+15.23,79.99,34,82,Low,None,Average
+17.76,75.57,,,Low,,No Data
+16.63,80.26,35,90,High,Rice,No Data
+13.65,76.87,,141,Medium,Peas,Average
+15.68,83.61,37,134,High,Maize,Low
+12.45,83.73,28,,Low,,High
+10.68,77.48,39,,High,,High
+12.57,78.85,37,12,High,,Average
+11.65,76.25,,,High,Peas,Low
+13.85,83.88,,143,Medium,,No Data
+16.41,77.78,,150,High,Rice,Average
+17.73,82.2,,1,Medium,,High
+17.74,78.91,37,23,Low,Maize,Average
+16.06,80.15,26,63,High,Groundnut,No Data
+13.27,81.03,34,,Medium,Groundnut,No Data
+16.9,84.16,34,119,Medium,Maize,No Data
+18.06,78.96,28,123,Low,None,No Data
+14.95,81.01,36,56,Low,None,Low
+18.03,81.41,26,51,High,,Average
+19.25,80.99,30,110,Low,,Average
+16.41,82.57,35,74,Medium,Rice,Average
+13.71,79.04,28,31,High,Rice,High
+12.65,78.08,28,69,High,,Low
+18.73,82.62,30,94,Low,Maize,No Data
+14.73,83.27,25,,Medium,,No Data
+17.42,79.04,32,141,Medium,Peas,Average
+13.41,77.52,33,,Low,Cotton,No Data
+19.29,83.07,36,46,Medium,Groundnut,Average
+12.7,76.55,28,21,Medium,Peas,High
+19.04,77.52,32,16,Low,None,High
+14.79,82.16,28,132,High,,No Data
+18.74,82.06,31,20,High,Barley,Low
+16.05,75.72,27,94,Low,,Average
+16.92,76.08,26,8,Low,Groundnut,Average
+15.91,82.91,34,87,Low,Barley,High
+16.25,79.11,,39,High,Maize,No Data
+11.6,79.28,25,103,Medium,Maize,Low
+13.96,84.91,29,40,Low,None,Low
+15.54,77.38,26,145,Medium,None,Low
+19.84,82.54,,129,High,Rice,Average
+12.62,83.34,31,131,High,Rice,High
+10.62,80.17,29,,High,None,Low
+10.41,76.21,,52,Low,Maize,No Data
+14.77,81.36,34,100,Medium,Barley,Average
+14.99,81.79,40,,Medium,Barley,Average
+11.81,76.89,,70,High,Groundnut,Average
+15.2,76.91,,86,High,Maize,Average
+11.29,82.89,31,84,Low,Peas,High
+11.4,77.81,33,72,Low,,High
+11.08,75.67,31,12,Low,Maize,Average
+13.11,78.69,33,,High,Wheat,High
+13.97,83.48,38,84,Low,Wheat,Low
+17.62,80.23,25,78,Medium,Wheat,Low
+13.82,80.37,30,48,Medium,Groundnut,Low
+13.74,79.82,30,31,Medium,Cotton,Low
+15.17,77.37,26,,High,Maize,Average
+14.43,84.64,26,,Low,Wheat,No Data
+14.89,75.46,32,79,Low,Maize,Average
+14.19,78.15,29,21,Medium,,Average
+11.95,77.2,28,54,Low,Cotton,High
+18.99,77.89,25,59,Medium,Wheat,Average
+18.19,80.82,32,,Medium,Wheat,No Data
+17.61,83.85,40,77,High,Rice,High
+10.49,81.76,30,55,Low,Cotton,High
+10.34,81.25,31,60,Low,Maize,High
+12.78,76.55,33,85,Low,Maize,No Data
+16.61,77.64,33,120,Low,Peas,No Data
+19.16,79.43,,99,Medium,Wheat,No Data
+19.04,75.6,29,,Low,Cotton,Average
+10.95,76.77,39,139,Medium,Cotton,Low
+19.65,77.44,36,142,Medium,Rice,Average
+17.4,78.2,,89,High,Wheat,High
+14.27,79.24,35,96,High,,Average
+16.14,79.77,27,,High,Maize,High
+19.41,80.26,39,85,Medium,Cotton,No Data
+14.04,83.03,31,52,Low,,No Data
+12.81,84.17,,104,High,Wheat,Average
+14.59,81.6,32,6,High,None,Average
+12.73,80.4,36,59,High,,No Data
+11.69,78.04,34,,Medium,Barley,No Data
+19.21,83.25,25,83,High,Cotton,No Data
+10.37,78.38,37,118,High,Maize,No Data
+18.73,82.8,37,150,Medium,Barley,High
+16.24,75.93,39,17,High,Cotton,Low
+14.82,83.77,,5,High,Rice,No Data
+10.8,75.51,29,71,Medium,Wheat,Low
+17.58,78.84,38,14,Medium,Wheat,Low
+18.36,78.66,38,45,Medium,Barley,High
+12.84,76.47,32,85,Low,Cotton,No Data
+18.49,76.01,32,150,Low,,No Data
+13.52,83.93,36,74,Medium,Maize,No Data
+18.51,75.13,29,17,Low,Cotton,Low
+18.05,84.2,28,50,Medium,Barley,No Data
+12.28,81.68,31,144,Medium,Cotton,Low
+14.38,84.48,35,94,Low,Wheat,High
+10.96,84.65,40,,High,Maize,Low
+16.58,76.26,30,101,Low,,High
+14.19,80.48,31,76,Low,Groundnut,Low
+13.46,80.76,39,144,Low,Barley,Average
+11.84,80.85,38,24,Medium,Wheat,High
+10.39,78.41,26,14,Low,,No Data
+16.79,76.82,36,150,High,Cotton,No Data
+19.27,78.51,,127,High,,Average
+10.08,82.02,27,136,Medium,Groundnut,No Data
+19.56,77.4,27,78,Medium,Barley,Low
+14.68,77.8,29,120,Medium,Barley,No Data
+16.36,76.01,37,71,High,None,Low
+12.94,84.01,36,92,High,Cotton,No Data
+19.09,84.95,,,Low,Wheat,Low
+14.08,81.83,31,12,High,Rice,Low
+16.37,79.5,26,104,Medium,Peas,Average
+12.22,82.27,26,33,Low,Peas,High
+13.71,81.58,40,34,High,Peas,Low
+11.01,78.77,34,89,Low,Cotton,No Data
+18.54,79.54,,88,High,Wheat,No Data
+14.73,81.37,27,91,High,Maize,No Data
+19.68,81.64,33,,High,Wheat,High
+16.56,75.89,,118,High,Maize,Low
+17.97,79.54,39,,Medium,Groundnut,Low
+11.03,80.35,34,,High,Maize,Average
+14.1,80.34,35,89,Medium,Peas,No Data
+14.18,82.83,28,27,Low,Peas,No Data
+10.79,80.51,36,87,Low,Wheat,Average
+15.9,77.81,29,128,Medium,Groundnut,Average
+18.18,75.6,35,121,Medium,Cotton,Average
+13.71,79.24,,95,Low,Groundnut,High
+14.07,84.86,31,,Medium,Cotton,Average
+11.76,76.39,,135,Medium,Wheat,Average
+12.26,84.8,32,,Medium,Groundnut,No Data
+12.2,79.6,33,52,Low,Peas,High
+18.56,77.92,28,40,Low,Barley,High
+13.89,79.66,27,84,Low,,Low
+15.06,81.78,40,,Low,Cotton,Low
+10.11,80.95,37,11,Medium,Wheat,Average
+19.17,81.88,31,67,Low,Cotton,No Data
+17.9,77.44,,131,Low,Peas,Average
+14.46,82.69,,68,High,Cotton,No Data
+18.29,79.58,33,11,High,Wheat,Low
+13.71,76.92,29,122,Low,Wheat,No Data
+14.37,75.84,27,11,Medium,Cotton,High
+15.68,82.22,29,148,High,Cotton,No Data
+17.93,81.16,26,85,Low,Cotton,No Data
+17.9,83.23,26,88,Medium,Rice,Low
+17.06,76.28,39,74,Medium,Groundnut,High
+14.93,82.66,33,19,Low,Maize,No Data
+16.94,83.96,25,20,Low,Cotton,Average
+17.81,79.53,,143,High,Maize,Low
+18.44,84.47,37,,High,Groundnut,High
+13.78,77.36,31,117,Low,Wheat,Low
+11.14,79.45,31,31,Medium,None,Low
+18.14,77.46,32,54,Low,Peas,Average
+18.61,77.52,38,57,Medium,Cotton,High
+16.57,83.41,37,102,Medium,None,Average
+13.9,76.61,,,High,Maize,High
+14.54,80.14,38,46,Low,,Average
+12.74,79.39,32,,Medium,Barley,No Data
+13.33,84.48,29,115,Medium,None,Average
+12.44,84.47,33,37,Low,Wheat,High
+19.77,83.63,33,40,Medium,Maize,Average
+13.03,84.65,,9,Medium,,No Data
+16.73,80.91,,113,Medium,Rice,Low
+11.15,80.64,,126,Low,,No Data
+16.18,81.79,28,77,High,Groundnut,No Data
+12.43,83.34,26,,Medium,Cotton,Average
+12.34,76.31,,39,Medium,Rice,Low
+19.7,78.97,33,13,Low,Cotton,Low
+15.4,84.12,26,33,Medium,,High
+15.63,84.13,,,Medium,Barley,High
+16.18,80.97,32,89,High,Maize,Low
+15.19,78.79,31,71,Medium,,No Data
+17.5,83.24,,17,High,Barley,Low
+18.62,75.38,30,113,Medium,Maize,Low
+15.68,75.64,31,93,Medium,Peas,Average
+13.28,78.13,27,,Medium,Barley,Low
+12.53,77.53,,69,High,Rice,Low
+11.81,82.62,40,,High,Wheat,Low
+11.58,81.22,34,97,Medium,None,High
+13.88,84.7,27,,Low,Rice,No Data
+12.49,76.78,35,28,Medium,Cotton,Low
+13.37,79.57,32,39,High,Wheat,Average
+12.04,78.58,,123,Low,None,High
+17.4,83.06,37,,High,Rice,Low
+15.25,78.3,31,140,Low,,High
+13.63,84,27,96,Low,Wheat,Average
+16.23,78.71,,139,Low,,Low
+19.31,77.42,27,4,High,Wheat,High
+10.37,82.53,27,40,Medium,,No Data
+19.65,78.21,28,37,Medium,Cotton,High
+19.85,83.62,30,93,Medium,Maize,High
+18.61,82.54,33,9,Medium,Rice,Low
+18.01,82.82,27,,High,None,High
+11.95,79.3,32,93,High,Cotton,Low
+14.62,84.35,31,130,High,Wheat,No Data
+19.24,83.96,35,100,High,Peas,High
+14.22,75.55,39,6,Low,,High
+13.07,77.31,31,72,Low,Peas,Low
+17.53,78.62,28,104,High,Rice,High
+12.78,77.17,27,,Medium,Peas,Average
+16.88,79.97,39,84,High,Wheat,Average
+11.71,77.07,38,146,High,Groundnut,High
+13.93,75.3,27,86,High,Groundnut,Low
+15.36,82.45,27,126,Medium,Cotton,No Data
+17.11,84.89,29,67,Medium,Wheat,Average
+13.69,83.16,,38,Medium,Wheat,Low
+18.36,81.48,25,87,Low,Barley,High
+15.49,80.04,35,131,Low,Rice,Low
+19.76,84.94,33,140,Low,Wheat,Average
+15.67,84.65,35,,Medium,Peas,High
+15.87,80.79,25,56,Medium,,No Data
+10.05,78.01,,79,Low,Cotton,No Data
+11.92,80.77,37,85,Medium,Cotton,Average
+11.49,78.26,27,148,Medium,Wheat,High
+10.1,84.52,40,149,High,Barley,High
+15.59,80.46,,49,High,Barley,Average
+17.63,79.28,28,48,Medium,Barley,Low
+13.1,83.28,32,114,Medium,,Low
+16.06,76.92,36,120,Low,Barley,Average
+12.56,80.86,,106,High,Groundnut,Average
+15.32,79.31,,89,Low,,High
+12.62,79.83,32,38,High,,High
+14.53,81.12,38,149,Medium,Barley,No Data
+17.5,75.23,26,128,High,,Average
+18.87,79.16,36,68,High,Rice,Low
+11.68,77.32,,24,High,Peas,Average
+10.15,80.45,31,82,High,None,Low
+11.52,79.37,29,49,Low,Wheat,Average
+11.16,79.34,,4,High,Rice,Average
+19.05,76.65,27,9,Low,Barley,High
+15.58,83.36,27,,Medium,None,Average
+13.56,75.1,25,91,Medium,Maize,No Data
+13.96,78.8,37,61,Medium,Barley,High
+11.85,82.05,,139,Medium,Maize,No Data
+11.06,80.78,,124,High,,Average
+18.27,80.93,,25,Medium,Maize,No Data
+18.33,81.59,,,Low,None,No Data
+19.23,81.8,40,,Low,Maize,Low
+16.12,82.56,37,16,Low,Groundnut,Average
+16.43,79.47,30,35,Low,Barley,High
+11.74,81.42,36,71,High,,Low
+12.98,80.04,39,19,Low,Peas,Average
+12.25,84.98,,,Low,Groundnut,High
+19.5,83.79,31,134,Low,Peas,Average
+17.55,75.47,31,7,Medium,Groundnut,No Data
+12.04,79.66,38,20,Medium,Cotton,Low
+18.45,79.02,30,108,Low,None,Low
+10.73,76.77,26,4,High,,High
+16.73,82.12,,,Low,,High
+12.8,76.77,32,146,Medium,Groundnut,Low
+14.19,82.96,,62,Low,None,High
+13.8,84.31,34,72,Medium,Cotton,No Data
+13.2,80.1,35,90,Low,,No Data
+12.25,77.74,26,109,Low,Peas,No Data
+19.44,79.13,27,109,Medium,Rice,Average
+17.26,80.1,33,,Medium,,Average
+19.97,75.15,34,118,Medium,,High
+10.82,79.8,25,,High,Barley,High
+10.39,78.51,34,,High,Cotton,No Data
+15.82,83.83,39,101,Low,Rice,Low
+19.97,80.06,25,44,High,,Average
+18.54,81.27,30,16,Low,Barley,Average
+14.16,77.04,,,High,Maize,Average
+14.35,76.47,35,146,Low,,High
+11.22,79.67,34,,High,Wheat,Low
+14.99,81.24,33,41,Medium,Barley,High
+19.43,81.35,31,46,Medium,Wheat,High
+12.89,77.99,39,134,High,Wheat,Average
+15.09,82.2,,122,Medium,Wheat,High
+16.45,82.6,,,Low,Groundnut,Average
+10.57,81.37,25,109,High,Rice,No Data
+17.08,80.09,,135,Medium,Rice,No Data
+18,75.06,26,113,High,None,Average
+17.87,77.39,37,60,Low,Maize,No Data
+12.84,83.21,34,13,High,,Low
+16.9,84.55,34,28,High,Cotton,High
+17.12,81.46,37,,High,Rice,Low
+11.8,76.17,40,29,Medium,Wheat,High
+17.38,82.15,,91,Medium,Wheat,Low
+17.31,78.42,28,37,Medium,Cotton,High
+14.15,84.83,27,34,Medium,Cotton,No Data
+10.28,76.25,40,113,Medium,Barley,Average
+11.57,84.22,39,2,Medium,,High
+10.23,77.11,32,83,Medium,,No Data
+14.22,83.63,34,,Low,Peas,Low
+16.98,80.21,37,40,Medium,Maize,Low
+13.92,84.58,37,138,High,,No Data
+17.04,82.57,25,43,Low,Barley,Average
+17.14,79.07,37,43,Medium,Maize,Low
+12.57,80.95,40,88,Medium,None,Average
+11.87,76.73,,1,High,Groundnut,Low
+15.5,77.39,26,42,High,Rice,High
+10.21,82.26,,,Medium,None,High
+11.4,81.76,28,143,High,Cotton,Low
+18.32,82.69,32,93,Medium,Groundnut,High
+19.08,77,,92,Low,Groundnut,High
+12.87,79.39,25,7,Medium,,No Data
+17.41,79.67,27,12,High,Barley,No Data
+13.44,77.73,,148,High,Cotton,Low
+16.27,80.59,25,,Medium,Rice,No Data
+17.27,84.22,25,81,Low,Rice,No Data
+11.71,75.15,31,124,High,Cotton,High
+17.1,83.4,32,92,Low,Peas,Low
+13.55,84.63,35,123,High,None,Low
+15.56,77.19,40,126,Medium,Wheat,High
+18.96,77.47,38,119,Medium,None,No Data
+17.65,76.07,,18,High,Cotton,High
+16.73,81.38,36,8,High,Wheat,Average
+17.03,77.24,31,124,Low,Groundnut,Low
+18.35,79.42,25,,High,Cotton,Low
+19.27,80.32,,121,Medium,Groundnut,Average
+15.77,83.38,25,120,Low,Cotton,No Data
+17.82,82.02,36,149,Low,Barley,High
+17.74,75.43,29,12,Low,Peas,High
+16.46,77.39,32,135,Medium,,Low
+19.9,80.19,36,127,Medium,Cotton,Low
+13.23,75.44,39,122,Low,Barley,High
+19.87,77.93,27,124,Low,,Average
+17.64,79.93,29,91,Low,Groundnut,No Data
+11.63,83.95,39,71,Low,None,Average
+13.51,84.47,36,28,High,Peas,Low
+19.92,77.95,,101,Medium,,Average
+17.16,82.55,26,2,Low,Rice,Low
+10.85,83.95,25,74,Medium,Peas,Average
+17.92,82.92,29,115,Low,Peas,Low
+15.07,82.4,34,123,Low,Peas,Low
+18.07,81.59,37,,High,Groundnut,High
+15.4,77.58,,40,Medium,None,No Data
+12.1,83.86,39,,High,Groundnut,Low
+13.45,83.71,25,51,Medium,,Low
+13.73,83.2,27,8,High,Barley,Average
+16.33,79.39,29,,Medium,Barley,No Data
+17.09,75.61,26,90,High,Maize,High
+15.07,83.83,,41,High,None,Average
+12.45,77.24,26,47,Medium,Wheat,Average
+12.92,77.17,40,103,High,,Low
+14.93,77.2,32,71,High,Cotton,Low
+19.62,79.74,39,73,High,Cotton,No Data
+16.74,76.87,25,29,Medium,Wheat,No Data
+10.77,78.47,32,103,High,,No Data
+19.34,80.44,30,122,Low,Peas,No Data
+11.38,83,,6,High,Groundnut,Average
+17.29,80.39,39,64,High,None,Low
+19.4,82.8,31,56,High,Barley,No Data
+16.65,78.55,32,,Medium,Rice,Low
+19.86,83.54,29,139,Low,Wheat,Low
+13.03,75.88,39,144,Medium,Rice,Average
+18.25,83.96,27,27,Medium,Maize,High
+15.95,76.89,,,High,Barley,Average
+18.14,82.74,,17,High,Peas,Low
+15.4,83.29,26,44,Low,Groundnut,High
+14.65,81.12,,8,Medium,Barley,Average
+16.11,80.4,26,132,High,Maize,High
+18,76.53,35,41,Medium,,Low
+18.19,81.09,,145,Medium,None,Average
+16.64,82.99,34,41,Low,Groundnut,High
+19.36,79.82,31,38,Medium,Barley,No Data
+13.07,79.59,,10,Medium,Cotton,High
+17.84,84.75,33,138,High,Cotton,High
+10.75,79.44,27,125,Medium,,High
+18.46,77.63,38,,High,Maize,Average
+17.48,80.86,,121,Low,Wheat,High
+15.97,81.91,39,27,Medium,,Average
+15.08,76.5,29,,Medium,None,High
+10.57,76.9,26,36,Low,,Average
+15.2,84.38,33,114,Low,Groundnut,High
+13.96,84.5,,148,Low,Groundnut,Average
+19.86,76.86,30,13,High,Rice,No Data
+19.86,78.25,,72,Medium,Cotton,High
+10.71,76.61,36,85,Medium,Peas,Low
+15.1,76.61,38,45,High,Peas,Low
+14.57,77.67,,,High,Wheat,No Data
+11.76,79.29,34,,High,,Low
+16.95,80.76,30,0,High,,Average
+13.58,79.95,28,97,Low,Groundnut,Average
+17.74,79.66,38,112,Medium,Peas,High
+12.45,82.13,35,116,High,Peas,Low
+11.67,77.46,26,52,Medium,,No Data
+12.24,76.04,39,56,Low,Groundnut,Average
+10.56,82.69,34,,Medium,Barley,Average
+12.52,81.07,37,97,Medium,Groundnut,Average
+10.09,78.1,31,15,High,,No Data
+13.71,83.83,31,101,Low,Cotton,Low
+16.1,75.69,36,83,Medium,,Average
+12.24,78.68,28,98,Low,,High
+11.09,76.32,33,2,High,Cotton,High
+11,83.39,38,122,Medium,Barley,No Data
+13.27,79.82,,34,Medium,Peas,High
+19.51,83.53,,,Low,Peas,Average
+12.23,80.43,37,93,Low,Groundnut,Low
+17.42,82.57,,,High,Maize,High
+18.82,76.11,,8,Low,,High
+10.73,79.87,38,22,Medium,,Average
+18.81,82.37,34,41,Medium,None,No Data
+18.42,81.71,35,136,Medium,Maize,Average
+17.64,82.73,,125,High,,High
+12.57,81.55,36,103,Medium,Groundnut,Low
+19.27,84.41,40,,Low,None,Average
+14.51,77.37,27,142,Medium,Peas,Average
+16.71,82.23,25,89,Medium,Cotton,High
+10.6,82.15,40,134,High,Barley,Average
+19.93,80.19,38,63,Medium,None,Low
+15.9,81.81,29,3,High,None,Low
+10.34,78.65,38,125,Low,Groundnut,Low
+11.65,76.04,37,29,Medium,Cotton,Average
+19.97,77.11,28,115,High,Barley,Average
+11.92,83.95,38,31,Medium,Rice,High
+15.78,77.39,25,49,High,Wheat,Average
+13.44,80.3,32,147,Medium,Peas,No Data
+16.99,75.36,29,32,Medium,,Average
+12.46,83.01,40,122,Medium,Peas,No Data
+15.18,82.1,,104,High,,Low
+13.3,75.31,31,,Medium,Maize,Average
+15.73,82.98,,3,High,Peas,Low
+14.76,81.99,35,,Low,,Average
+17.77,76.9,36,6,Low,Cotton,Low
+11.07,80.28,29,36,Low,,Low
+12.42,78.04,34,,High,Peas,No Data
+13.93,84.34,26,73,High,,Average
+12.68,83.26,32,91,Low,,High
+15.26,81.91,35,4,Medium,Rice,Average
+12.14,78.59,26,64,High,Groundnut,No Data
+14.76,75.99,37,,Medium,,Average
+10.15,80.36,27,49,Low,Peas,High
+14.94,76.39,27,131,Medium,Barley,Low
+17.75,80.12,33,28,Low,Peas,Average
+16.56,79.81,27,147,Medium,Groundnut,Low
+14.89,78.35,25,146,Low,Cotton,High
+16.25,81.44,28,82,High,Wheat,Low
+11.47,82.45,37,93,High,Rice,Low
+15.1,80.04,,,Low,Wheat,High
+12.83,81.94,,43,Low,Groundnut,No Data
+17.74,75.11,27,101,High,Wheat,High
+18.74,82.64,33,24,Medium,,No Data
+14.43,81.82,29,100,High,Maize,Average
+11.73,75.02,40,,Low,Barley,No Data
+15.06,75.6,28,126,High,None,No Data
+17.76,82.23,26,10,High,Wheat,Low
+14.11,79.69,27,29,Medium,Groundnut,Average
+18.86,80.45,26,,High,Peas,Low
+16.44,78.31,33,53,Medium,Maize,Average
+14.56,79.46,31,91,High,,Low
+18.48,75.02,39,130,Low,,Average
+18.76,76.25,38,110,Medium,Cotton,No Data
+13.46,84.91,29,118,Medium,Rice,Low
+10.44,80.68,29,40,High,,Low
+11.79,75.19,30,,Medium,Rice,High
+18.27,83.93,27,113,Low,Rice,Low
+12.55,79.35,27,44,Low,Peas,High
+19.05,78.15,27,149,High,Wheat,No Data
+12.72,81.67,31,68,Low,Barley,High
+18.44,77.75,25,,High,Maize,High
+10.97,80.74,26,136,High,Groundnut,Low
+13.53,82.57,33,80,Low,Barley,Average
+18.39,76.35,33,139,Low,Maize,High
+15.54,79.56,32,137,High,Wheat,Low
+10.93,78.71,29,22,Low,Barley,Low
+13.27,83.15,27,71,Low,Maize,High
+17.44,83.61,28,107,Medium,Rice,Average
+17.23,80.79,30,42,Low,Cotton,High
+13.33,76.67,27,42,Medium,None,High
+13.79,75.52,29,53,High,Peas,Average
+15.32,76.65,32,56,Low,Peas,Low
+14.68,81.84,30,94,Low,Rice,Average
+10.9,79.68,36,87,Medium,None,Low
+12.04,84.8,,78,Low,Rice,Average
+10.77,84.6,39,107,Medium,,Average
+15.06,80.06,36,78,Low,Barley,No Data
+11.29,82.35,29,46,Medium,Rice,Average
+14.95,82.78,36,,Medium,Groundnut,No Data
+12.74,75.58,,128,Medium,Maize,Average
+17.55,79.6,40,39,Low,,High
+14.92,83.75,36,74,Low,Rice,High
+10.69,78.81,28,7,Low,Maize,Average
+17.31,77.23,,124,High,Maize,Low
+12.28,75.15,28,79,Low,Barley,High
+11.47,80.24,34,106,Medium,,Low
+11.06,82.06,38,28,Low,Barley,High
+17.78,76.06,25,84,Low,Peas,Low
+10.55,84.4,37,69,Low,Rice,High
+19.65,80.22,31,88,Medium,Cotton,No Data
+19.15,83.32,40,92,Medium,Peas,High
+10.65,78.88,32,55,Low,Maize,No Data
+14.79,80.59,31,148,Medium,Wheat,No Data
+18.5,76.67,31,81,High,,Average
+13.12,78.57,37,107,Medium,Maize,No Data
+14.34,80.83,25,91,High,Wheat,Average
+14.1,84.7,35,126,Low,Maize,Low
+11.52,78.31,33,12,Medium,Wheat,Low
+16.7,82.2,36,,High,Barley,High
+11.78,79.57,,98,High,Barley,No Data
+10.02,76.85,32,51,Low,Rice,High
+13.94,82.88,39,76,Medium,,High
+16.34,84.4,27,70,Low,,Low
+18.97,83.33,,25,High,Barley,No Data
+17.17,82.95,,86,Low,Groundnut,High
+14.09,78.68,26,,Low,Wheat,No Data
+11.24,81.97,25,,High,Peas,Low
+10.61,81.91,25,5,Low,Wheat,High
+10.88,78.88,33,,High,Wheat,No Data
+13.16,81.99,32,,Low,None,No Data
+19.18,84.48,,,Medium,Groundnut,High
+10.21,78.64,36,,Low,,High
+17.32,82.49,38,48,High,None,No Data
+15.28,78.85,33,95,High,Barley,Average
+15.24,79.6,30,,Low,Cotton,Low
+15.76,85,,142,Medium,Cotton,Low
+18.97,75.01,30,25,Medium,Rice,Average
+11.37,78,34,74,Medium,Barley,High
+15.59,84.37,35,56,Medium,,No Data
+14.84,77.52,,136,Medium,None,Low
+19.4,76.43,,24,High,Peas,Average
+19.64,82.29,39,,Medium,None,Low
+18.35,80.01,,,Low,,No Data
+12.36,83.07,40,73,High,None,Average
+19.2,77.34,39,19,Low,,Average
+16.62,82.01,38,121,High,Cotton,High
+13.35,81.55,37,68,Low,Groundnut,Average
+15.23,84.15,,17,Medium,Cotton,Low
+14.41,77.78,30,78,Medium,Wheat,High
+17.18,79.04,27,137,Low,Barley,Low
+18.74,84.3,38,102,Low,None,High
+13.49,83.57,37,9,Low,Rice,Average
+16,80.81,35,11,Medium,Peas,High
+15.67,78.94,,95,High,Maize,High
+16.43,79.99,32,57,Low,Groundnut,Average
+10.01,83.1,40,73,High,Groundnut,High
+19.05,82.78,28,,High,Groundnut,High
+13.71,75.82,33,132,Medium,Peas,Average
+11.67,83.17,38,137,Medium,Barley,Average
+15.93,83.74,40,127,High,Groundnut,Average
+17.11,80.57,,46,Medium,,Low
+19.98,79.21,36,107,Low,None,No Data
+10.85,80.44,,88,Medium,Barley,Low
+15.9,75.19,30,36,High,Maize,No Data
+17.97,78.27,39,138,High,,Average
+14.52,80.84,33,35,Low,Cotton,Low
+18,79.25,38,108,Medium,,Average
+11.44,83.37,26,77,High,,No Data
+14.77,83.47,36,101,Medium,Cotton,Low
+11.11,82.49,,79,Medium,Maize,Low
+17.09,84.58,36,,Medium,,No Data
+13.71,84.15,37,126,Low,Maize,High
+19.27,79.93,,28,Medium,Maize,Average
+11.32,80.38,,,High,,No Data
+18.98,84.36,35,86,Medium,Wheat,Low
+17.45,78.68,,94,Medium,Maize,High
+15.09,77.11,34,128,High,None,No Data
+15.56,78.94,37,67,Medium,None,No Data
+14.03,84.17,28,65,High,,Average
+16.43,79.03,26,129,Medium,Rice,Average
+13.35,81.06,37,150,Low,,No Data
+13.68,84.3,27,,Low,Cotton,Low
+19.03,83.29,33,4,Low,Rice,No Data
+10.22,75.1,,21,High,,High
+10.28,81.28,,3,High,None,No Data
+14.27,81.04,31,27,Low,Cotton,High
+19.49,79.03,25,87,Medium,Barley,High
+14.52,82.33,37,,High,,High
+19.49,78.93,29,142,High,Wheat,Low
+14.85,79.73,31,,Low,Rice,High
+17.59,75.18,39,,Low,Rice,Average
+16.68,81.6,30,94,Medium,Peas,No Data
+16.26,75.16,27,86,Low,Groundnut,High
+16.76,75.27,28,61,Low,Peas,High
+10.82,83.96,,,High,Peas,Low
+10.59,77.05,38,19,High,,High
+18.08,84.64,,,Medium,Maize,Average
+15.12,75.24,35,78,Medium,Peas,High
+13.63,78.23,30,,Medium,Barley,Average
+11.67,77.42,38,89,High,Peas,Low
+16.67,81.39,,121,Low,Rice,No Data
+11.99,83.16,30,8,High,Wheat,Average
+14.64,80.77,36,87,High,Wheat,No Data
+17.71,81.82,,110,High,None,Average
+16.62,80.22,36,39,High,Peas,Low
+10.67,82.19,,75,Medium,None,High
+19.24,80.99,31,,Low,Rice,Low
+19.51,81.92,35,80,Low,Peas,No Data
+11.15,83.07,31,44,Medium,None,High
+15.98,84.85,35,30,High,Groundnut,High
+11.98,76.34,26,66,Medium,,Low
+15.54,80.87,33,106,Low,Maize,No Data
+15.86,80.25,37,57,High,Cotton,No Data
+13.4,80.38,32,12,High,,High
+13.34,76.53,28,,Medium,None,Average
+15.61,79.04,29,129,Low,,High
+15.3,83.16,25,134,Medium,Peas,Average
+14.63,75.32,40,17,Medium,Groundnut,Low
+10.05,82.37,30,87,Medium,Rice,Average
+19.69,79.93,37,114,Low,Barley,Low
+18.92,80.05,34,125,Medium,Maize,High
+14.77,75.12,35,122,Medium,,Low
+12.15,75.06,33,115,Low,Barley,Low
+19.07,79.81,28,,Low,None,High
+15.04,80.13,,,Medium,Cotton,High
+19.58,77.1,25,118,Medium,,Average
+17.11,76.67,34,52,Medium,Maize,Average
+10.95,78.34,26,,Low,Cotton,No Data
+12.83,81.45,40,108,High,Maize,Low
+10.74,76.92,33,109,High,Rice,Low
+14.22,84.34,36,62,Low,Barley,No Data
+16.83,76.85,30,138,Medium,Cotton,Low
+16.86,83.52,28,44,Low,,Low
+17.02,83.1,34,48,Low,Rice,No Data
+13.1,83.01,27,41,Medium,None,High
+16.16,80.51,35,111,Low,Peas,Low
+18.84,84.57,31,41,High,None,High
+13.34,84.18,37,67,Medium,,Low
+18.14,84.96,25,118,High,Rice,Average
+18.82,82.11,,,Low,Peas,Low
+16.08,83.36,29,,High,Wheat,No Data
+11.63,81.21,31,91,Low,Groundnut,No Data
+11.95,76.44,28,87,Medium,Maize,No Data
+13.41,80.69,33,134,Low,Barley,No Data
+12.7,84.5,40,76,Medium,None,Average
+12.14,81.11,32,36,High,Barley,High
+19.99,83.02,26,85,Low,,High
+17.13,83.34,40,11,Low,Groundnut,No Data
+19.46,78.18,32,50,Medium,None,High
+16.09,78.37,40,93,Low,Maize,Low
+10.61,76.29,40,149,High,Maize,Average
+15.57,78.41,39,78,Low,Cotton,Low
+11.82,76.86,36,38,Low,Maize,High
+11.92,80.92,28,144,High,Peas,No Data
+16.7,83.83,38,122,Medium,Peas,Low
+12.4,80.04,26,,High,None,No Data
+13.31,80.32,27,59,Low,Peas,No Data
+17.94,81.64,40,36,High,,High
+11.04,78.2,37,68,High,Peas,No Data
+11.66,84.05,31,107,Low,Cotton,Low
+17.5,76.06,38,13,High,Wheat,Average
+18.94,79.95,25,95,High,None,No Data
+15.76,78.87,37,97,High,None,High
+13.24,76.22,,61,High,Maize,High
+14.35,82.88,,107,High,None,High
+10.99,84.34,26,38,Medium,Wheat,Average
+18.69,77,27,11,Low,Barley,Low
+16.48,76.4,31,61,Low,,No Data
+19.29,80.86,,74,Medium,,High
+13.35,84.41,38,,Low,,No Data
+18.88,81.72,25,84,Low,Maize,Low
+18.13,80.64,27,8,Low,Peas,High
+16.47,79.35,,65,Medium,Barley,No Data
+10.96,80.11,35,77,High,Groundnut,Average
+12.79,84.6,29,,High,Groundnut,Low
+13.38,76,25,73,Low,Wheat,Low
+10.86,78.51,38,146,Low,Maize,High
+15.27,81.81,35,3,Medium,,Low
+10.9,81,34,123,Low,None,Low
+16.2,78.31,,118,High,,Low
+17.66,75.91,36,103,Medium,Rice,No Data
+14,79.45,39,,Medium,,Average
+10.4,84.07,33,,Low,Wheat,High
+19.22,84.66,,94,Low,Barley,Average
+19.37,81.55,35,62,High,Rice,No Data
+19.83,83.14,31,122,Low,Rice,Average
+11.01,77.9,34,17,High,,Low
+12.8,83.05,,0,Low,Barley,High
+12.23,84.88,28,89,Medium,Wheat,Average
+15.45,78.57,29,64,Medium,None,High
+10.12,83.87,,34,Medium,Cotton,No Data
+15.09,77.56,34,130,High,Groundnut,Low
+12.48,81.45,40,51,Low,Rice,Average
+13.74,76.07,37,103,Low,Peas,High
+17.96,77.41,36,99,Medium,Groundnut,High
+11.66,81.52,37,46,Low,Groundnut,No Data
+11.91,77.09,34,,High,,Low
+16.43,78.05,29,2,Low,,Average
+13.19,76.76,35,,Low,None,No Data
+14.53,80.35,29,,Low,Barley,Low
+11.35,83.08,36,6,Medium,Cotton,Low
+15.96,77.89,33,,High,Barley,Low
+11.41,76.65,31,75,High,Maize,Average
+11.8,83.71,40,23,High,Wheat,Low
+14.44,81.73,28,,High,Cotton,Average
+19.61,81.82,25,6,High,,Low
+11.46,81.53,29,43,High,Wheat,Average
+11.21,78.71,,67,Medium,Rice,Average
+11.15,82.43,36,99,Medium,Groundnut,Low
+10.61,75.07,,,Low,Rice,High
+12.75,81.45,29,115,High,Barley,Average
+19.72,76.29,37,81,Low,,Average
+13.43,79.44,27,,Medium,Wheat,High
+13.44,78.27,,138,High,None,No Data
+12.64,81.43,33,39,High,,Low
+12.77,83.22,40,134,Medium,Peas,High
+11.89,78.32,31,,High,,High
+12.53,81.39,36,32,Medium,Wheat,High
+13.05,78.24,26,18,High,Maize,Average
+18.39,76.72,26,19,High,Rice,High
+19.46,81.79,35,126,Medium,Wheat,Average
+10.11,77.03,40,105,High,Barley,Low
+18.54,78.24,28,28,Medium,,Low
+12.24,84.5,,69,Low,Wheat,High
+14.25,83.35,28,65,High,Groundnut,High
+11.87,80.23,32,99,Medium,Barley,Average
+10.86,83.67,25,103,High,,Average
+17.03,75.6,,129,Medium,,Low
+13.01,77.63,29,128,High,,Low
+14.09,75.25,39,90,Low,Rice,Low
+15.42,75.94,,97,High,Barley,No Data
+18.85,82.08,,149,High,Peas,Low
+10.23,81.29,27,124,Medium,Maize,Low
+18.22,83.27,29,0,Low,Barley,Low
+11.23,77.08,29,2,Medium,Barley,No Data
+12.36,80.43,31,0,Medium,Rice,Low
+12.44,80.84,36,132,High,Rice,No Data
+12.97,82.31,39,86,Medium,Barley,Low
+15.61,75.02,34,64,Low,,No Data
+14.69,83.05,35,32,Medium,Maize,High
+18.55,78.6,30,97,Low,Maize,High
+18.99,81.52,28,65,High,Wheat,No Data
+15.73,81.39,30,8,Low,Groundnut,High
+15.21,84.41,26,43,Low,Groundnut,Average
+11.16,76.64,35,118,High,,Average
+18,77.84,,128,High,Barley,No Data
+15.68,75.69,32,105,Medium,Maize,High
+18.12,77.96,37,,Medium,None,High
+19.99,77.92,35,7,Low,,Average
+10.22,78.31,,128,Low,Cotton,High
+19.52,77.2,35,108,Low,,No Data
+11.81,82.18,,26,Medium,None,Average
+12.92,77.55,30,133,Medium,Maize,No Data
+13.79,75.98,,60,Low,None,Average
+11.74,81.94,38,84,High,,Low
+11.96,81.35,30,,Medium,,No Data
+14.82,81.06,,48,Low,Peas,High
+12.23,76.1,30,54,High,Peas,Average
+18.01,76.99,30,,Medium,,Low
+16.2,75.39,,,Medium,Wheat,Average
+10.65,76.22,35,127,Medium,Peas,High
+14.82,76.19,37,17,High,,No Data
+13.83,81,40,81,Medium,Peas,Average
+10.6,82.1,,1,Medium,,High
+11.21,80.66,37,8,High,Groundnut,Low
+14.57,79.62,29,137,Low,Peas,No Data
+16.15,83.5,26,46,Medium,,No Data
+17.44,84.03,35,140,Low,Peas,No Data
+12.18,81.81,28,114,Medium,Rice,No Data
+11.91,76.67,33,70,Low,,Average
+16.33,83.51,,75,Low,Rice,Low
+17.21,79.04,26,108,Medium,Peas,No Data
+19.48,81.52,25,44,Low,Peas,No Data
+15.11,78.36,28,,Medium,Barley,Average
+19.73,75.27,35,50,High,Cotton,Average
+19.99,78.81,27,2,High,Maize,No Data
+17.6,80.13,30,71,High,Peas,Low
+16.3,81.1,34,,Medium,Wheat,No Data
+12.57,84.86,26,,High,Groundnut,No Data
+16.84,75.8,,56,High,Wheat,Average
+15.4,78.27,25,,Medium,Maize,High
+16.64,81.03,32,,High,,No Data
+11.5,79.04,25,,Low,None,High
+13.44,84.18,33,,Medium,Peas,Average
+15.5,77.79,35,,High,None,Average
+16.72,76.13,28,124,High,Peas,No Data
+15.33,76.23,30,73,Low,Rice,High
+18.77,79.69,38,,Low,Barley,No Data
+15.2,83.94,40,91,High,Peas,Average
+12.16,77.44,28,,Low,Rice,Average
+16,83.6,27,,Medium,Rice,Low
+16.52,82.56,34,,Medium,,No Data
+17.81,79.48,40,113,High,Peas,Average
+17.18,80.13,,101,High,Peas,High
+16.03,82.07,31,,Low,Wheat,Average
+10.4,84.57,40,52,Low,,High
+11.78,84.44,39,47,Medium,Groundnut,Low
+13.24,75.99,33,,Medium,,Low
+14.59,82.33,39,120,High,Barley,Low
+13.04,80.79,26,41,Medium,Rice,High
+15.17,77.52,31,108,Medium,None,Low
+14.04,81.04,33,18,High,None,Low
+16.23,77.63,35,101,High,Maize,Low
+12.19,77.45,,,Low,Barley,Low
+16.94,84.08,25,76,High,Cotton,No Data
+12.12,80.82,40,106,Low,Peas,Low
+16.15,78.34,27,49,High,Wheat,Low
+10.72,77.35,33,,High,Barley,High
+14.21,76.75,26,99,High,Peas,Average
+17.44,78.22,38,123,Low,Maize,No Data
+15.21,80.61,27,110,Medium,Groundnut,Low
+17.1,75.23,32,135,Medium,,Low
+16.43,78.7,26,116,Low,Barley,No Data
+11.56,77.57,39,97,Low,Maize,No Data
+16.08,82.75,26,29,High,Peas,High
+17.45,77.94,28,,Medium,None,Low
+19.05,75.16,37,14,Medium,Rice,Low
+13.53,82.8,,150,High,Groundnut,High
+10.86,81.48,,33,High,Cotton,Average
+12,81.96,,82,Medium,,Average
+17.58,82.9,39,33,Low,Groundnut,Low
+10.79,82.86,29,,Medium,,High
+19.64,81.24,,81,Low,Rice,Low
+16.85,77.71,,79,Low,Wheat,Average
+12.27,76.28,36,54,Low,,Low
+12.54,82.7,37,50,Low,None,Low
+16.72,80.74,,76,Low,None,Low
+14.7,84.69,30,42,Medium,Maize,Low
+12.13,81.42,,8,Low,Rice,High
+18.71,77.97,,81,High,,Average
+13.42,80.8,31,61,Low,None,High
+17.19,76.84,27,19,Low,Maize,No Data
+14.69,82.48,39,111,High,,High
+13.32,75.98,27,42,Low,Barley,Low
+16.13,75.67,37,,High,,No Data
+11.08,84.25,31,12,Low,,No Data
+19.36,81.67,36,137,Medium,Barley,Average
+15.61,77.12,29,97,Medium,Peas,High
+10.68,76.24,25,,Low,Cotton,High
+16.97,82.72,40,,High,,Average
+10.58,81.55,31,83,Low,,Low
+16.64,79.83,31,16,High,Barley,Low
+13.51,75.23,29,107,High,Maize,Low
+10.49,80.84,30,122,Medium,Barley,Average
+15.32,83.26,38,3,Low,Groundnut,No Data
+10.92,76.18,33,66,High,Wheat,Low
+16.79,84.87,25,12,High,None,High
+16.33,77.33,37,116,Medium,Cotton,Low
+13.98,84.18,32,97,High,,Average
+17.56,79.13,,,Medium,,Low
+16.14,77.24,27,68,High,None,High
+15.55,76.09,27,,Low,Wheat,No Data
+18.98,76.22,33,95,High,Cotton,No Data
+14.94,82.88,37,,Medium,Peas,Low
+18.88,80.3,,82,Medium,,High
+10.93,76.87,29,118,Low,,No Data
+19.59,81.05,36,140,Medium,Barley,Average
+11.98,80.11,33,20,Medium,,High
+10.49,80.87,28,130,Medium,Cotton,High
+19.8,76.79,37,98,Low,Barley,Low
+15.83,79.97,36,,Medium,,High
+11.54,79.53,31,16,Low,Peas,Average
+10.7,81.59,,132,High,Groundnut,High
+15.4,82.04,,108,High,Peas,No Data
+19.22,75.59,,73,Low,Maize,No Data
+12.9,79.98,39,47,Medium,Wheat,Average
+17.41,77.67,29,,Low,Wheat,Average
+15.5,81.16,35,,High,,No Data
+15.42,75.98,27,,High,,Low
+19.94,79.11,33,41,Medium,,High
+19.59,81.87,,,Low,None,High
+14.19,80.13,25,10,High,Barley,Average
+10.21,76.17,,,Medium,Rice,No Data
+19.38,78.48,34,47,Medium,Groundnut,High
+17.08,80.09,30,132,Medium,Peas,Low
+10.18,78.79,38,40,Low,Cotton,High
+16.08,80.41,30,145,High,Maize,No Data
+18.82,83.06,35,59,High,None,Low
+18.76,78.39,39,64,High,,Low
+10.61,80.2,30,,High,Barley,Low
+13.41,82.16,31,90,Low,Peas,No Data
+15.95,78.12,,82,High,None,No Data
+16.6,78.02,,,High,,No Data
+18.91,75.92,37,149,High,Peas,High
+12.09,82.32,32,126,High,Rice,No Data
+14.96,78.75,32,132,Low,None,No Data
+12.05,77.79,,92,High,Rice,High
+19.74,82.73,35,17,High,Cotton,High
+11.4,75.67,31,46,Medium,,Average
+19.39,81.24,37,89,High,Maize,No Data
+17.02,81.98,37,63,Medium,None,No Data
+19.13,82.24,25,61,Medium,Maize,Low
+15.03,79.57,25,,Low,Groundnut,High
+10.29,83.61,,102,Low,,High
+13.72,75.08,38,105,Medium,Wheat,Low
+13.64,76.57,30,47,Low,Wheat,No Data
+11.48,82.83,35,107,Medium,Maize,Average
+16.26,76.89,30,129,High,Groundnut,No Data
+18.17,78.46,,58,Medium,Wheat,No Data
+12.6,83.07,,103,Low,Maize,No Data
+18.26,84.99,38,0,Low,Maize,Average
+11.02,81.23,38,24,Medium,Rice,No Data
+11.8,84.87,,102,High,Groundnut,High
+19.25,77.48,40,67,Low,,Low
+17.48,76.28,27,,Low,,Low
+15.17,81.32,27,49,High,None,High
+14.05,76.22,39,15,Low,Rice,Average
+17.75,75.19,34,32,Low,Rice,High
+15.33,83.85,25,22,Low,Rice,High
+14.31,82.06,40,106,High,Peas,Low
+12.83,78.73,35,57,High,None,High
+10.26,83.33,,91,Medium,None,No Data
+14.42,82.11,37,62,High,Maize,No Data
+17.64,79.63,37,116,Medium,Rice,No Data
+10.03,79.18,40,29,Medium,None,Low
+12.76,82.02,39,6,Low,None,Average
+15.06,76.34,38,7,Medium,Barley,No Data
+12.78,83.39,25,117,High,Rice,High
+16,78.73,28,129,Medium,Rice,Average
+18.67,75.66,36,48,Low,,No Data
+13.5,81.11,28,103,High,Peas,No Data
+19.94,75.81,32,116,High,None,High
+18.86,82.9,,81,Medium,Barley,Average
+19.49,82.35,25,108,Medium,Wheat,Low
+17.57,77.22,33,62,Medium,Wheat,No Data
+16.81,84.7,35,,Low,Rice,Average
+10.18,79.03,26,112,High,Wheat,Low
+14.38,82.82,39,59,Low,None,Low
+17.39,75.7,34,34,Low,Barley,Low
+17.13,78.41,40,130,High,Groundnut,Average
+17.37,83.37,40,129,High,Barley,No Data
+17.66,76.76,28,,Medium,None,No Data
+13.41,77.81,26,130,Medium,Maize,High
+15.11,82.63,37,20,High,,No Data
+16.36,76.06,38,47,Medium,Cotton,Average
+11.78,78.04,38,126,High,Wheat,High
+14.93,83.25,27,18,Medium,Groundnut,Average
+19.29,75.68,28,,Low,Groundnut,No Data
+14.63,77.89,39,25,Low,Barley,No Data
+14.8,79.87,32,,High,Rice,Low
+15.17,79.27,29,,Low,,No Data
+19.49,77.26,38,110,Low,Groundnut,Average
+13.97,76.91,27,,Low,Cotton,No Data
+13.42,83.26,36,109,Low,Barley,High
+18.07,84.05,34,1,High,,Average
+12.31,80.34,32,29,High,Groundnut,Low
+16.76,84.76,40,,Medium,Maize,No Data
+11.96,83.63,37,48,High,Peas,Low
+12.65,76.96,27,67,High,None,High
+10.25,82.42,26,132,High,Barley,High
+13.79,76.23,25,53,High,,Average
+19.51,79.34,38,55,Medium,,No Data
+11.95,81.18,34,48,Medium,None,Average
+15.3,82.98,29,13,Medium,None,High
+16.18,83.7,26,0,High,,Low
+11.52,80.91,30,,High,Rice,No Data
+19.37,83.56,34,38,Medium,Barley,No Data
+10.79,78.53,33,19,Low,Wheat,Low
+14.82,76.14,36,15,High,Rice,Low
+17.78,80.94,,133,Medium,,High
+15.11,79.18,30,111,Low,Barley,Low
+13.72,76.32,26,111,Low,Rice,High
+16.12,83.25,29,110,Medium,None,High
+18.1,76.54,28,,Low,,Average
+12.72,83.83,38,136,Low,None,Low
+19.03,81.74,29,102,Low,None,Average
+15.83,84.98,,11,Low,Groundnut,Average
+12.23,83.69,25,143,Medium,,Average
+17.14,81.32,,124,Low,Rice,Low
+18.89,80.13,28,,High,,High
+19.43,79.62,27,27,High,None,High
+18.48,75.25,36,61,High,Wheat,No Data
+11.35,78.81,34,124,High,Maize,High
+16.14,78.64,38,128,Medium,Barley,Average
+17.03,83.28,,83,Low,Cotton,Average
+11.87,83.97,,,High,Rice,Average
+16.23,84.32,,3,Low,Wheat,Average
+13.47,83.4,39,38,Low,Barley,Average
+10.33,80.63,35,44,Medium,Rice,Average
+18.62,79.4,34,112,High,,Average
+12.08,81.7,37,,Medium,,Low
+11.57,76.45,36,,Low,None,High
+15.28,82.53,26,,High,Wheat,Low
+19.26,75.94,30,98,Low,Maize,No Data
+12.99,82.69,,82,High,,Average
+15.02,76.27,36,25,Low,Groundnut,Low
+13.39,77.15,34,117,High,Maize,No Data
+10.08,80.81,30,126,Low,,High
+18.92,78.47,,150,Medium,Rice,Low
+13.65,82.87,33,4,High,Wheat,No Data
+18.78,83.98,40,128,Medium,Wheat,Low
+16.29,76.8,32,14,High,,Low
+13.66,84.77,35,128,Medium,None,No Data
+12.72,84.39,34,,High,,Low
+19.63,84.18,40,105,Medium,Groundnut,Low
+16.37,81.2,34,,High,None,No Data
+14.59,81.3,,113,High,,High
+17.67,78.58,,143,High,Rice,Average
+12.75,83.57,36,20,High,Rice,No Data
+16.69,83.85,37,130,High,,High
+10.53,84.96,,134,High,None,No Data
+16.5,77,28,92,Medium,None,Low
+14.08,83.79,,6,Medium,Rice,No Data
+19.16,77.29,33,70,Low,None,Average
+16.77,80.5,38,,Medium,Rice,No Data
+12.21,78.04,28,139,Medium,Barley,No Data
+17.92,76.29,39,68,Medium,,No Data
+14.55,77,,119,High,,No Data
+19.47,81.57,39,119,High,Barley,High
+18.03,84.42,34,110,High,None,High
+17.56,81.96,30,77,High,,High
+19.68,82.76,26,149,Medium,Maize,Low
+16.19,75.51,38,54,Medium,None,No Data
+13.87,82.99,36,,Low,,Average
+13.06,78.34,36,83,Medium,Maize,High
+12.09,75.13,40,56,High,Maize,Average
+18.12,82.66,32,121,Low,Maize,Low
+10.75,78.46,37,78,High,Groundnut,High
+13.99,80.55,27,7,Low,None,Low
+11.23,82.13,27,61,High,Maize,High
+10.07,79.94,25,70,Medium,None,High
+15.86,81.93,,75,Low,Peas,Average
+18.99,77.82,36,51,Low,Barley,Average
+17.83,75.71,26,129,Low,None,High
+10.82,82.99,31,,Medium,Rice,Low
+13.19,77.73,,70,Low,Cotton,No Data
+14.17,84.19,37,28,Medium,,High
+19.46,82.67,25,32,Medium,,No Data
+16.43,78.61,35,56,High,Maize,Average
+16.22,83.34,25,,Medium,Cotton,Low
+19.28,82.17,30,58,High,Barley,High
+12.78,84.16,38,22,High,Cotton,High
+18.06,84.13,38,1,High,Barley,Low
+15.22,76.35,31,55,Medium,None,Low
+11.23,84.98,33,44,Low,Rice,No Data
+17.78,75.52,35,13,High,Cotton,Average
+19.11,84.15,32,22,Low,None,No Data
+16.75,83.1,32,,High,Maize,No Data
+19.25,83.82,,22,High,Barley,Average
+17.32,77.61,40,109,High,Peas,High
+15.08,82.96,34,20,Medium,Maize,Low
+19.65,80.48,33,36,Medium,Cotton,High
+13.82,79.76,29,106,High,None,High
+12.08,83.05,28,118,High,Barley,No Data
+18.52,75.81,30,26,High,Wheat,High
+17.44,80.16,38,44,Low,Cotton,High
+19.19,80.6,,145,Medium,Maize,Low
+16.8,75.04,26,145,Low,Groundnut,No Data
+14.93,82.06,29,,Medium,Rice,Average
+18.7,80.91,27,,Medium,Barley,Average
+11.6,76.32,32,56,Medium,None,High
+14.16,75.65,32,,Medium,Groundnut,Average
+10.25,77.92,26,126,High,Wheat,High
+18.61,75.33,29,3,Low,Barley,No Data
+12.34,82.74,38,,High,Groundnut,Average
+15.36,76.74,40,109,Low,Wheat,High
+18,79.12,38,121,Low,Cotton,High
+13.04,79.18,37,113,Medium,Maize,Low
+18.83,83.43,27,99,Low,Groundnut,No Data
+16.57,77.5,33,29,Medium,Groundnut,Low
+13.43,83.21,37,86,High,Rice,Low
+15.52,77.34,30,15,Low,Peas,No Data
+10.26,76.61,35,57,Medium,Cotton,Low
+15.77,84.74,35,110,High,Maize,No Data
+18.92,75.88,27,20,High,,Average
+14.3,80.32,30,8,High,,Average
+14.77,75.24,34,82,Medium,Maize,Average
+18.65,76.09,,,Low,Barley,Average
+17.01,82.64,25,65,Low,None,Low
+10.29,76.58,31,86,Low,Rice,Average
+15.31,81.8,40,110,Low,Rice,Average
+18.59,76.11,,6,High,Cotton,No Data
+14.45,81.75,40,115,Medium,Wheat,No Data
+12.96,82.19,30,79,High,,No Data
+13.27,75.9,25,124,Medium,Barley,Average
+10.22,81.22,30,,High,Wheat,No Data
+10.01,83.26,30,,High,Wheat,Low
+12.75,78.94,26,27,Low,Peas,Average
+19.34,80.47,40,50,Low,,High
+12.44,81.7,26,34,Medium,,High
+16.83,84.43,39,27,Low,Groundnut,No Data
+13.06,84.16,30,,Low,,Average
+17.77,79.33,,12,High,Wheat,High
+10.86,80.84,28,,High,,Low
+10.46,80.05,40,130,Medium,Wheat,No Data
+17.86,83.69,25,,High,Peas,No Data
+16.7,83.64,35,107,Medium,Groundnut,High
+19.89,79.36,39,105,Medium,Wheat,High
+15.33,82.06,35,112,High,Wheat,No Data
+12.91,82.22,26,81,High,Cotton,No Data
+10.15,84.72,,138,Medium,Cotton,High
+10.28,83.14,32,128,Low,Peas,No Data
+18.7,83.24,31,96,High,Barley,No Data
+17.77,77.78,38,92,High,Groundnut,No Data
+10.88,77.01,35,60,High,Barley,High
+14.84,79.73,30,107,Medium,None,Low
+18.18,82.38,38,87,High,Wheat,No Data
+19.64,84.49,28,33,High,Maize,No Data
+19.86,77.03,32,,Medium,None,Low
+12.52,78.12,40,21,High,,Low
+11.54,80.95,35,66,Low,Wheat,No Data
+10.68,81.31,,,High,,High
+15.92,84.07,37,140,Medium,,High
+16.17,79.24,29,73,Low,None,Low
+10.58,82.43,28,,Medium,Wheat,Average
+11.97,84.3,27,,Medium,Cotton,Average
+19.9,84.83,25,23,Low,Groundnut,No Data
+11.78,83.64,27,39,Low,Groundnut,No Data
+12.09,75.1,,123,High,Maize,Average
+17.51,77.89,39,68,Low,Groundnut,High
+15.27,78.53,40,,Medium,Wheat,Low
+16.96,81.1,37,104,Medium,Maize,Average
+19.94,84.48,,,Medium,Barley,High
+19.67,78.65,28,138,Medium,Peas,Low
+12.06,83.98,25,,Low,Rice,Average
+17.37,77.5,38,82,Medium,Groundnut,Low
+19.77,82.6,40,134,Medium,Maize,No Data
+12.11,80.46,39,64,Medium,,Average
+15.14,84.99,,107,Low,Barley,No Data
+16.36,82.99,32,9,Medium,,Average
+16.84,78.05,37,61,High,Peas,Low
+10.79,80.61,27,149,High,Groundnut,Low
+14.35,82.72,,,Low,Barley,Low
+10.47,77.1,27,139,Medium,Peas,No Data
+12.78,84.34,33,40,High,Barley,No Data
+11.04,81.59,27,121,Low,Rice,High
+18.92,81.61,,66,Low,Rice,No Data
+14.44,81.17,26,59,Medium,Rice,Low
+17.22,75.89,30,86,Low,,High
+10.11,80.84,31,77,High,Barley,High
+12.8,82.74,35,74,Low,Cotton,Average
+13.17,78.42,26,89,Low,Groundnut,High
+11.99,80.73,29,38,Low,None,Low
+11.07,75.8,40,49,Medium,Peas,Low
+15,75.95,29,70,Medium,Cotton,Low
+19.32,77.78,,,Low,,Low
+18.83,80.16,40,11,Low,None,Average
+15.19,78.26,37,100,High,Barley,No Data
+17.68,79.84,40,,High,None,Average
+17.65,75.68,34,56,Low,,High
+12.82,76.72,33,95,High,Peas,Average
+14.56,76.9,26,91,Low,None,Average
+19.51,84.35,25,29,Low,Groundnut,No Data
+11.17,75.48,32,99,High,Rice,High
+12.84,79.26,31,114,High,Cotton,High
+11.56,77.19,,57,High,Groundnut,Average
+17.15,77.69,30,61,High,Peas,Average
+19.8,76.13,26,58,Medium,Wheat,Low
+19.77,76.15,37,64,High,Rice,Average
+12.18,81.67,25,45,Low,Groundnut,Low
+15.21,83.4,36,,Low,Rice,No Data
+12.66,83.12,30,119,High,Rice,Average
+16.72,78.81,36,109,Medium,Peas,No Data
+11.47,80.24,25,71,High,Peas,High
+17.46,83.34,31,91,Medium,Barley,No Data
+14.05,80.35,,69,Low,,High
+14.79,75.76,30,114,High,Cotton,High
+14.92,77.35,30,,Low,Maize,Low
+18.95,76.01,36,4,Medium,Wheat,No Data
+18.97,76.15,36,,High,Peas,No Data
+13.27,77.85,40,107,Low,None,High
+14.89,75.79,36,54,Low,Wheat,Low
+16.45,76.43,39,,Low,Rice,Average
+17.9,76.5,37,137,Medium,Maize,High
+17.19,79.05,39,32,High,,Average
+15.16,78.97,37,78,Medium,Cotton,High
+19.85,77.34,26,64,High,Rice,Low
+14.15,81.62,25,82,High,Wheat,Low
+12.36,83.24,35,142,Low,Peas,Low
+16.19,83.21,39,10,Low,Barley,No Data
+18.5,75.16,25,84,Medium,Rice,Low
+13.4,82,29,73,High,Rice,Average
+16.09,82,38,,High,Cotton,Low
+19.08,83.74,,34,Medium,,No Data
+14.16,77.97,,125,Medium,Wheat,High
+16.89,79.43,33,,Medium,Wheat,Low
+11.27,75.65,,,Low,Wheat,Average
+10.5,76.14,31,50,Medium,Wheat,High
+17.19,76.44,30,38,Low,Rice,Low
+15.93,80.86,39,124,Low,Wheat,No Data
+11.66,78.98,35,111,Medium,,No Data
+14.52,82.17,,6,High,None,High
+15.76,81.4,25,51,High,Maize,High
+15.84,76.14,33,25,Medium,Barley,High
+19.07,75.69,36,,Medium,Cotton,No Data
+19.72,81.58,27,89,Medium,Barley,High
+11.6,80.74,,123,Medium,Maize,Low
+10.04,79.59,36,,Low,Cotton,High
+17.71,77.02,38,150,Medium,Maize,No Data
+16.98,81.72,38,65,High,Maize,Average
+16.87,79.95,32,17,Low,Rice,Average
+12.79,78.96,39,40,High,Barley,No Data
+11.53,83.46,,65,Medium,Cotton,Average
+18.59,77.03,32,131,Medium,Cotton,No Data
+17.02,82.28,36,126,Medium,Groundnut,No Data
+19.86,79.66,34,117,Low,,No Data
+14.79,76.28,40,34,High,None,Average
+15.89,79.29,36,94,High,Maize,Average
+16.78,84.13,26,115,Low,Maize,No Data
+13.17,75.91,,7,Low,Maize,No Data
+14.85,81.9,40,119,High,Rice,No Data
+12.74,81.53,27,86,High,Peas,High
+18.57,84.35,,17,High,Barley,No Data
+17.04,75.48,37,58,High,,High
+10.75,80.22,30,89,High,Rice,Low
+19.65,78.09,27,40,Medium,,Low
+15.5,81.49,27,143,Medium,Cotton,High
+14.29,80.32,28,31,Low,Peas,Average
+11.01,79.97,,,High,Wheat,Low
+11.68,77.28,32,93,Medium,,High
+13.33,77.83,28,96,High,Peas,High
+13.05,84.17,25,47,Low,Cotton,High
+11.09,84.73,25,,High,Groundnut,Low
+11.94,76.5,39,27,Low,,No Data
+16.44,76.41,,,Low,Barley,No Data
+12.49,79.27,34,,Medium,Wheat,Average
+19.93,82.14,35,86,Medium,Wheat,No Data
+12.21,84.2,28,131,Low,Peas,No Data
+18.23,75.3,33,65,Low,Rice,High
+13.05,83.16,34,104,Low,,Low
+19.3,78.33,36,60,High,Maize,No Data
+11.73,80.94,28,29,High,Barley,High
+16.86,80.11,,56,Low,Rice,No Data
+11.7,84.45,34,101,Medium,None,Low
+19.31,82.41,,87,High,,No Data
+18.07,75.99,31,108,Low,Peas,No Data
+16.68,79.83,,91,Low,Maize,Low
