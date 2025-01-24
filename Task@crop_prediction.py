@@ -7,7 +7,6 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.impute import KNNImputer
-from sklearn.metrics import accuracy_score
 
 # Load the dataset
 data = pd.read_csv('https://raw.githubusercontent.com/Nanimcvm/Crop_prediction/refs/heads/main/synthetic_climate_data.csv')
@@ -184,3 +183,84 @@ st.subheader("Predicted Insights")
 st.write(f"**Best Crop to Grow**: {predicted_crop_label}")
 st.write(f"**Potential Yield Category**: {predicted_yield_label}")
 st.write(f"**Risk of Crop Failure**: {'High' if predicted_failure_risk[0] == 1 else 'Low'}")
+
+#visualizations
+
+# Map the categories for visualization only
+category_mapping_crop = {
+    1: 'Barley',
+    2: 'Cotton',
+    3: 'Groundnut',
+    4: 'Peas',
+    5: 'Wheat',
+    6: 'Maize',
+    7: 'Rice',
+    8: 'None'
+}
+data['Crop_Suitability'] = data['Crop Suitability'].map(category_mapping_crop)
+
+category_mapping_soil = {
+    0: 'Low',
+    1: 'Medium',
+    2: 'High',
+}
+data['Soil_Quality'] = data['Soil Quality'].map(category_mapping_soil)
+
+category_mapping_yeild = {
+    0: 'Low',
+    1: 'High',
+}
+data['Yield_Category'] = data['Yield Category'].map(category_mapping_yeild)
+
+st.subheader("Data Analysis")
+#Box plot
+fig, ax = plt.subplots(figsize=(8, 6))
+sns.boxplot(data=data, x='Crop_Suitability', y='Rainfall (mm)', palette='muted')
+ax.set_title('Crop Suitability Distribution by Rainfall (mm)')
+st.pyplot(fig)
+
+fig1, ax1 = plt.subplots(figsize=(8, 6))
+sns.boxplot(data=data, x='Soil_Quality', y='Rainfall (mm)', ax=ax1, palette='muted')
+ax1.set_title('Soil Quality Distribution by Rainfall')
+st.pyplot(fig1)
+
+#Hist plot
+fig2, ax2 = plt.subplots(figsize=(8, 6))
+sns.histplot(data['Temperature (°C)'], kde=True, bins=30, ax=ax2, color='skyblue')
+ax2.set_title('Distribution of Temperature')
+st.pyplot(fig2)
+
+#Count plot
+fig3, ax3 = plt.subplots(figsize=(8, 6))
+sns.countplot(data=data, x='Crop_Suitability', order=data['Crop_Suitability'].value_counts().index, ax=ax3, palette='pastel')
+ax3.set_title('Count of Crop Suitability Types')
+st.pyplot(fig3)
+
+#Violin plot
+fig4, ax4 = plt.subplots(figsize=(8, 6))
+sns.violinplot(data=data, x='Yield_Category', y='Temperature (°C)', ax=ax4, palette='Set2')
+ax4.set_title('Temperature Distribution by Historical Yield Trend')
+st.pyplot(fig4)
+
+#Line plot
+fig5, ax5 = plt.subplots(figsize=(8, 6))
+avg_rainfall = data.groupby('Soil Quality')['Rainfall (mm)'].mean().reset_index()
+sns.lineplot(data=avg_rainfall, x='Soil Quality', y='Rainfall (mm)', marker='o', ax=ax5, color='red')
+ax5.set_title('Average Rainfall by Soil Quality')
+st.pyplot(fig5)
+
+fig6, ax6 = plt.subplots(figsize=(8, 6))
+sns.histplot(data['Rainfall (mm)'], kde=True, bins=30, ax=ax6, color='green')
+ax6.set_title('Distribution of Rainfall')
+st.pyplot(fig6)
+
+fig7, ax7 = plt.subplots(figsize=(8, 6))
+sns.countplot(data=data, x='Soil_Quality', ax=ax7, palette='pastel')
+ax7.set_title('Count of Siol Quality Types')
+st.pyplot(fig7)
+
+fig8, ax8 = plt.subplots(figsize=(8, 6))
+sns.violinplot(data=data, x='Yield_Category', y='Rainfall (mm)', ax=ax8, palette='Set2')
+ax4.set_title('Rainfall Distribution by Historical Yield Trend')
+st.pyplot(fig8)
+
